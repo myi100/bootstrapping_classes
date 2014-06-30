@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Four days to Albertville; With Sun and Dryness, The Heat Is on New Track</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="505421"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OLYMPIC GAMES (1992)</classifier>
+        <classifier class="indexing_service" type="descriptor">WINTER GAMES (OLYMPICS)</classifier>
+        <classifier class="indexing_service" type="descriptor">SNOW AND SNOWSTORMS</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <location class="indexing_service">VAL D'ISERE (FRANCE)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Olympics 2004</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France/French Alps</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France/French Alps/Val D'Isere</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DB1539F937A35751C0A964958260" item-length="676" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Four days to Albertville; With Sun and Dryness, The Heat Is on New Track</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>LA PLAGNE, France, Feb. 3</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A forecast of cloudy weather was good news today for officials here at the bobsled and luge track that will be used in the Winter Olympics, which start Saturday.</p>
+        <p>Low humidity has made the 1,500-meter run brittle. It cracked on Saturday, opening up a fist-size hole at one point in the frozen layer.</p>
+      </block>
+      <block class="full_text">
+        <p>A forecast of cloudy weather was good news today for officials here at the bobsled and luge track that will be used in the Winter Olympics, which start Saturday.</p>
+        <p>Low humidity has made the 1,500-meter run brittle. It cracked on Saturday, opening up a fist-size hole at one point in the frozen layer.</p>
+        <p>After crews quickly worked to repair the ice, two hours of unofficial training runs this morning seemed to go without major problems. The first official practice runs for the luge were scheduled for Tuesday.</p>
+        <p>But brilliant sunshine did soften a few parts of the course, which some athletes say could alter results.</p>
+        <p>"It's not the sun. It's the dryness," said Andre Broche, the La Plagne site's sports manager. "We expect clouds tomorrow, maybe even slight snowfall. That means the humidity is rising."</p>
+        <p>Critics say the track, the most expensive construction for these Olympics, catches too much morning sun because of its location. Bobsledding and luge both are scheduled for the mornings. Organizers proposed moving the second runs on medals days to late afternoon, but television officials rejected that idea.</p>
+        <p>Another solution would have been to put up sunshades at the exposed spots, but television officials didn't like that idea, either. The shades would hide parts of the course from the camera's eye.</p>
+        <p>Luge teams including the United States, European medal contenders and an extreme long shot -- the two-member Virgin Islands team -- arrived today.</p>
+        <p>"They've worked a lot on it since December. The first impression is good," said Markus Prock of Austria, the World Cup champion. "We'll see for real after the first training runs." The Art of Making Snow</p>
+        <p>Skiers and skaters here will benefit from the inventions of a company thousands of miles away in Pennsylvania.</p>
+        <p>York International Corporation, a 118-year-old refrigeration company, will make all the artificial snow and will chill the ice for four rinks at the Winter Games in Albertville. Only speed skating will be held on ice not handled by York International.</p>
+        <p>"We're able to very closely approximate Mother Nature's snow," said Michael J. Ricci, director of corporate marketing for York. "We pioneered snow-making technology."</p>
+        <p>York snow will be available for 513 acres of downhill and cross-country ski events. The International Olympic Committee requires snow-making equipment to guarantee skiing conditions.</p>
+        <p>Computers regulate York's snow-making systems, and weather sensors tell workers how to adjust gauges when there's a change in wind, humidity or real precipitation. York uses a mixture of cold air and water to create the snow and fires it from cannons onto the slopes. (AP) Skating on Outdoor Ice</p>
+        <p>The manager of the Olympic speed-skating oval in Albertville today defended the decision to stage the event in an open-air stadium.</p>
+        <p>Organizers decided against building a costly indoor rink like the one used in Calgary in 1988, opting instead for an outdoor stadium, which means competition might be hampered by bad weather.</p>
+        <p>"Speed skating is predominantly an outdoor sport in which luck and the weather play a part," said Robert Dureville, who is in charge of the oval.</p>
+        <p>World Cup races in Albertville last February on the new track were delayed a day after sleet made the arena almost unusable.</p>
+        <p>"We have the same worries as any other sport held outdoors," he said. "Snow, rain or fog are factors we may have to deal with, but we can always delay races or move them to a free day." (Reuters) Role for Bush's Daughter</p>
+        <p>Dorothy LeBlond, President Bush's daughter, will head the United States delegation at the opening ceremonies for the Winter Olympics, the White House said today.</p>
+        <p>Bush also picked for the delegation his sister, Nancy Ellis; the husband-and-wife movie stars Melanie Griffith and Don Johnson, and a business executive, Osborne Day.</p>
+        <p>Vice President Dan Quayle and his wife, Marilyn, are also planning to attend the opening ceremonies on Saturday. The Quayles will be on a weeklong trip to eight European countries. (AP)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
