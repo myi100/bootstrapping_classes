@@ -66,44 +66,40 @@ def sentence_segmenter(paragr):
 ###################
 
 year = '1995'
+index = open('/Users/muhammedyidris/bootstrapping_classes/nyt/nyt_index.txt', 'a')
 
-index = open('/Users/muhammedyidris/bootstrapping_classes/nyt/formatted_nyt/nyt_index.txt', 'a')
-
-months = range(0, 13)
+months = range(1, 13)
 days = range(0, 32)
 
 for m in months:
-	out = open('/Users/muhammedyidris/bootstrapping_classes/nyt/formatted_nyt/'+year+'-'+str(m).zfill(2)+'.txt', 'w+')
+  out = open('/Users/muhammedyidris/bootstrapping_classes/nyt/formatted_nyt/'+year+'-'+str(m).zfill(2)+'.txt', 'w+')
 
-	for d in days:
-		# path = '/Users/muhammedyidris/bootstrapping_classes/nyt/1987/'+str(d).zfill(2)+'/'+str(m).zfill(2)
-		path = '/Volumes/MYI_PASS/data/nyt_corpus/data/'+year+'/'+str(m).zfill(2)+'/'+str(d).zfill(2)
-		filelist = glob.glob( os.path.join(path, '*.xml') )
+  for d in days:
+    path = '/Volumes/MYI_PASS/data/nyt_corpus/data/'+year+'/'+str(m).zfill(2)+'/'+str(d).zfill(2)
+    filelist = glob.glob( os.path.join(path, '*.xml') )
+    for fullfile in filelist:
+      filename = fullfile.split('data/')[-1]
+      print 'processing: '+filename
+      f = open(fullfile).read()
+      head, sep, tail = f.partition('<title>')
+      head, sep, tail = tail.partition('</title>')
+      print >> out, head
+      print >> index, filename+'\t'+head
 
-		for fullfile in filelist:
-			filename = fullfile.split('data/')[-1]
-			print 'processing: '+filename
-			f = open(fullfile).read()
-			head, sep, tail = f.partition('<title>')
-			head, sep, tail = tail.partition('</title>')
-			print >> out, head
-			print >> index, filename+'\t'+head
+      head, sep, tail = tail.partition('<block class="full_text">')
+      head, sep, tail = tail.partition('</block>')
+      foo = head.split('</p>')
+      del foo[-1]
 
-			head, sep, tail = tail.partition('<block class="lead_paragraph">')
-			head, sep, tail = tail.partition('</block>')
-			foo = head.split('</p>')
-			del foo[-1]
+      for i in foo:
+        if len(i)<100:
+          print >> out, i.strip().replace('<p>', '')
+        else:
+          foos = sentence_segmenter(i.strip())
+          for j in foos:
+            print >> out, j.strip().replace('<p>', '')
 
-			for i in foo:
-				if len(i)<100:
-					print >> out, i.strip().replace('<p>', '')
-				else:
-					foos = sentence_segmenter(i.strip())
-					for j in foos:
-						print >> out, j.strip().replace('<p>', '')
-
-			print >> out, '\n'
-			
-	out.close()
+      print >> out, '\n'
+  out.close()
 
 index.close()
