@@ -1,0 +1,33 @@
+Setting up pipeline...
+
+Training classifier...
+-Training-set size: 1752
+-Training-set training-sample size: 438
+-Training-set testing-sample size: 1341
+-Classifier accuracy: 89.03%
+-Confusion matrix:
+[[  44   14]
+ [ 133 1150]]
+where x = true labels; y = predicted labels.
+
+-Classification report:
+             precision    recall  f1-score   support
+
+         -1       0.25      0.76      0.37        58
+          1       0.99      0.90      0.94      1283
+
+avg / total       0.96      0.89      0.92      1341
+
+
+Test-set size: 819720
+
+Classifying test set...
+Classification time: 823.135885954
+Frequency:
+[[    -1 461874]
+ [     1 357846]]
+
+Positive cases: 357846 (43.65% of test-cases.)
+Keyword-filtered cases: 28865 (8.06% of positive-cases, 3.52% of test-cases)
+
+Keywords: ['protest', 'protesters', 'protests', 'rights', 'demonstrators', 'demonstration', 'support', 'demonstrations', 'activists', 'opposition', 'arrested', 'crowd', 'fired', 'march', 'hundreds', 'marched', 'protesting', 'organized', 'demand', 'protested', 'organization', 'demonstrated', 'demanding', 'dozens', 'criticized', 'protestors', 'activist', 'protester', 'marchers', 'Demonstrators', 'demands', 'oppose', 'boycott', 'demonstrate', 'organizers', 'casualties', 'anti-government', 'criticizing']
