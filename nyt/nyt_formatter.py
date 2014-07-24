@@ -65,14 +65,14 @@ def sentence_segmenter(paragr):
 
 ###################
 
-year = '1995'
-index = open('/Users/muhammedyidris/bootstrapping_classes/nyt/nyt_index.txt', 'a')
+year = '1998'
+index = open('/Users/muhammedyidris/git/bootstrapping_classes/nyt/nyt_index.txt', 'a')
 
 months = range(1, 13)
 days = range(0, 32)
 
 for m in months:
-  out = open('/Users/muhammedyidris/bootstrapping_classes/nyt/formatted_nyt/'+year+'-'+str(m).zfill(2)+'.txt', 'w+')
+  out = open('/Users/muhammedyidris/git/bootstrapping_classes/nyt/formatted_nyt/'+year+'-'+str(m).zfill(2)+'.txt', 'w+')
 
   for d in days:
     path = '/Volumes/MYI_PASS/data/nyt_corpus/data/'+year+'/'+str(m).zfill(2)+'/'+str(d).zfill(2)
