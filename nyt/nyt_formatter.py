@@ -65,7 +65,7 @@ def sentence_segmenter(paragr):
 
 ###################
 
-year = '2002'
+year = '2003'
 index = open('/Users/muhammedyidris/git/bootstrapping_classes/nyt/nyt_index.txt', 'a')
 
 months = range(1, 13)
