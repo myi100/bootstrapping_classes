@@ -1,0 +1,6181 @@
+to demand
+to protest
+demanding
+protesting
+****************************************************
+iteration 0:
+marking anniversary	2	2	2
+to show solidarity	2	2	1
+to show support	3	3	2
+****************************************************
+iteration 1:
+chanting democracy	2	2	1
+leaving students	3	2	2
+chanting slogans	3	2	1
+to mark anniversary	2	2	2
+to call attention	3	3	0
+seeking benefits	3	2	1
+seeking recognition	3	2	2
+to press demands	4	3	1
+calling for end	2	2	1
+to pay respects	2	2	0
+to commemorate anniversary	2	2	1
+to denounce plan	3	2	2
+to celebrate victory	2	2	1
+to create jobs	2	2	1
+to press demand	3	3	1
+opposing plans	2	2	1
+to form union	2	2	1
+to call for change	2	2	2
+to support strikers	2	2	2
+to condemn plan	2	2	1
+****************************************************
+iteration 2:
+carrying flags	2	2	2
+prompting mr.	2	2	1
+to form partnership	2	2	0
+to celebrate anniversary	2	2	2
+opposing project	3	2	2
+chanting god	2	2	1
+stopping traffic	2	2	0
+to demonstrate against government	3	2	2
+to buy company	4	2	1
+to get on ballot	4	3	1
+****************************************************
+iteration 3:
+to move headquarters	3	2	1
+to raise money	2	2	1
+to focus attention	2	2	0
+vowing revenge	2	2	1
+to reduce number	2	2	0
+urging mr.	2	2	2
+to sell stake	3	2	0
+****************************************************
+iteration 4:
+to draw attention	3	2	1
+accusing government	2	2	1
+to put pressure	2	2	0
+to make demands	2	2	1
+to oppose plan	2	2	1
+supporting confirmation	2	2	0
+****************************************************
+iteration 5:
+expressing concern	6	3	3
+asking people	2	2	0
+to crack down on trading	2	2	1
+to cut $	5	2	1
+urging lawmakers	2	2	1
+opposing increase	2	2	2
+authorizing use	2	2	2
+to force vote	2	2	2
+to build complex	2	2	1
+condemning use	2	2	1
+claiming rights	2	2	0
+to express support	2	2	1
+to denounce mr.	2	2	0
+to begin on monday	2	2	1
+asking mr.	2	2	2
+condemning the	2	2	2
+to protect jobs	2	2	1
+urging agency	2	2	0
+making point	2	2	0
+raising questions	2	2	0
+requesting leniency	2	2	2
+to cut costs	9	2	0
+offering chance	2	2	1
+to cut budget	2	2	0
+asking department	2	2	2
+to accept endorsements	2	2	0
+opposing policy	2	2	1
+to defend president	2	2	0
+calling for cease-fire	2	2	1
+opposing plan	2	2	2
+to voice opposition	2	2	1
+telling parents	2	2	0
+accusing administration	3	2	3
+supporting proposal	2	2	1
+****************************************************
+iteration 6:
+to stop work	2	2	1
+urging caution	2	2	2
+charging fraud	4	2	1
+charging discrimination	4	2	1
+urging members	3	3	1
+expressing outrage	4	2	2
+to denounce government	2	2	2
+seeking declaration	2	2	0
+expressing sorrow	2	2	1
+to block law	5	2	1
+to stop practice	2	2	1
+seeking information	2	2	0
+to challenge right	2	2	1
+seeking donations	2	2	1
+doing business	3	2	0
+expressing support	3	3	1
+to improve image	2	2	1
+saying that	15	3	1
+expressing opposition	2	2	0
+to block construction	4	2	2
+to ask for help	2	2	1
+to file petition	2	2	0
+to stimulate economy	5	2	1
+asking court	8	2	3
+seeking names	2	2	0
+reiterating opposition	2	2	1
+to solve problem	5	2	2
+seeking investigation	2	2	1
+to block sale	4	2	2
+condemning attacks	2	2	1
+opposing position	2	2	1
+to reduce deficit	6	2	0
+rejecting call	3	2	1
+to increase productivity	2	2	0
+seeking injunction	10	2	5
+calling for settlement	2	2	2
+to get permission	3	2	1
+to enforce law	2	2	0
+to reassure public	2	2	0
+urging voters	2	2	1
+claiming responsibility	3	2	1
+accusing president	2	2	1
+challenging authority	4	2	1
+asking for support	2	2	0
+expressing surprise	2	2	1
+setting stage	4	2	0
+to upgrade security	2	2	2
+to get people	4	2	0
+calling policy	2	2	0
+to increase number	2	2	0
+charging owners	2	2	1
+to file suit	3	2	0
+to end role	2	2	0
+to challenge law	2	2	0
+to reduce emissions	2	2	1
+to raise awareness	2	2	0
+to block plan	8	3	2
+to block project	4	3	2
+setting conditions	2	2	1
+to pay $	2	2	0
+to educate people	2	2	0
+requesting information	4	2	0
+urging government	2	2	2
+to encourage people	2	2	0
+to ease transition	3	2	0
+to cut deficit	3	2	0
+calling for action	3	2	0
+to block acquisition	2	2	1
+to block merger	3	2	1
+to block action	2	2	2
+to express concern	3	3	0
+seeking return	2	2	1
+expressing regret	4	2	1
+asking government	3	3	2
+****************************************************
+iteration 7:
+to hire employees	2	2	0
+to strike deal	2	2	0
+to protect workers	4	2	0
+to sell securities	2	2	0
+to combat corruption	2	2	0
+to overturn system	2	2	0
+opposing agreement	2	2	1
+to block release	3	2	0
+claiming death	3	2	0
+to pressure mr.	2	2	0
+to strengthen ties	3	2	1
+to sell building	3	2	2
+accusing corporation	4	3	1
+to open markets	7	3	1
+to start talks	2	2	0
+to offer version	2	2	0
+to alter policies	2	2	1
+to start proceedings	2	2	1
+to reduce production	3	2	3
+to make use	5	5	0
+indicating intention	2	2	1
+to improve enforcement	2	2	1
+seeking order	9	4	4
+to hold referendum	2	2	0
+to ensure safety	3	2	1
+to address problem	11	4	1
+to enforce policy	2	2	0
+to prevent crises	2	2	1
+to get names	2	2	1
+to form party	4	3	1
+to give opportunity	2	2	1
+signaling plan	2	2	1
+detailing objections	2	2	1
+to buy inc.	2	2	1
+to support effort	2	2	1
+to provide treatment	2	2	1
+to weaken government	2	2	0
+to defeat plan	2	2	1
+to build plants	4	2	2
+to develop economy	2	2	1
+to save money	15	5	5
+to improve schools	3	2	2
+to alert public	2	2	1
+to rectify situation	2	2	1
+to open agency	3	2	0
+praising mr.	3	2	0
+to seize $	3	3	3
+to use technology	2	2	0
+contending negligence	2	2	1
+to discuss problem	3	3	0
+to buy division	3	2	0
+to pass bill	3	3	2
+calling on mr.	2	2	1
+to buy percent	2	2	0
+to achieve goals	3	3	0
+challenging constitutionality	12	2	4
+accusing states	2	2	0
+losing in primary	2	2	0
+to force mr.	3	2	1
+to spend $	22	3	10
+to reduce crime	2	2	0
+to hire people	2	2	0
+to block settlement	2	2	1
+to put face	2	2	1
+to block deal	8	3	3
+charging with discrimination	2	2	2
+to get information	2	2	1
+to seek dismissal	2	2	2
+to increase capacity	4	3	2
+challenging decision	2	2	1
+to protect citizens	3	2	0
+criticizing plan	3	2	0
+to oppose government	2	2	1
+asking for permission	3	3	2
+to provide shelter	4	2	2
+to promote interests	2	2	2
+to ask judge	3	2	2
+to develop building	2	2	1
+to block efforts	2	2	2
+to demonstrate support	2	2	2
+to offer services	2	2	0
+to go public	7	3	2
+to improve conditions	4	3	0
+to publish book	2	2	0
+to defuse tensions	2	2	2
+to increase share	4	4	0
+condemning attack	7	2	3
+requesting copies	2	2	0
+to resolve dispute	4	4	1
+urging support	3	2	0
+expressing concerns	2	2	1
+to prevent administration	4	2	2
+to increase security	5	3	1
+to overturn ban	3	3	1
+to buy stake	4	3	1
+soliciting names	3	2	1
+to join party	2	2	0
+taking responsibility	3	2	1
+to combat pollution	2	2	1
+to buy $	2	2	0
+to find ground	3	3	0
+to impose tariffs	2	2	2
+asking commission	3	2	0
+to consolidate industry	2	2	1
+to discourage activities	2	2	2
+to get relief	2	2	0
+to improve quality	7	6	1
+to rebuild system	2	2	0
+to stop sale	2	2	2
+to form organization	3	2	0
+to resolve problems	4	2	1
+seeking mr.	2	2	0
+condemning government	4	3	2
+to address issue	7	6	6
+to run for congress	6	3	1
+to join church	2	2	0
+to block enforcement	3	2	2
+to help immigrants	2	2	0
+seeking permission	2	2	1
+to expand access	2	2	1
+to enter race	3	2	1
+to show opposition	2	2	0
+to open market	4	3	3
+to create district	3	2	2
+to form government	6	5	1
+to attract people	2	2	2
+charging mr.	2	2	1
+to seek nomination	4	2	1
+giving right	3	2	2
+killing people	5	2	0
+seeking relief	2	2	0
+to raise standards	2	2	1
+to answer questions	5	3	1
+to save newspaper	2	2	0
+to quell violence	2	2	1
+to stop program	2	2	0
+to donate $	4	2	0
+to do things	6	4	0
+to improve lives	4	3	0
+deploring incident	3	2	1
+to help efforts	2	2	0
+to ease tensions	3	3	0
+accusing state	5	3	3
+to seek injunction	5	2	1
+urging president	3	3	2
+detailing charges	2	2	1
+attacking mr.	2	2	1
+to secure release	3	3	1
+expressing indignation	2	2	1
+asking judge	10	4	3
+to settle suit	4	2	2
+to reduce rates	2	2	1
+to increase population	2	2	1
+to strengthen system	2	2	1
+to give influence	2	2	0
+to overturn decision	3	3	1
+to overturn ordinance	2	2	0
+to address situation	2	2	1
+to achieve end	2	2	1
+to form venture	3	3	1
+criticizing mr.	3	2	0
+accusing company	19	4	6
+to fight ban	3	3	3
+to challenge regulations	2	2	0
+to attract teachers	2	2	0
+to regulate use	2	2	2
+to raise funds	3	3	2
+asking authorities	2	2	1
+to address questions	2	2	0
+to help industry	3	2	3
+charging state	2	2	0
+to combat terrorism	3	2	1
+to hold down costs	4	4	1
+to provide services	2	2	0
+repeating insistence	2	2	1
+to protect property	2	2	0
+to assert control	2	2	0
+to save $	3	2	0
+expressing their	2	2	1
+to run for mayor	4	2	1
+to collect $	4	4	2
+to gather information	3	2	0
+to stop rules	2	2	1
+seeking reinstatement	4	3	2
+to sell percent	4	2	0
+to address concerns	6	5	2
+calling symbol	2	2	0
+to take case	2	2	0
+asking for help	4	3	0
+to build units	3	2	1
+to head committee	2	2	0
+to buy property	2	2	0
+to reach agreement	3	3	1
+alleging fraud	2	2	2
+to raise cash	5	3	2
+to follow suit	2	2	1
+to cut spending	4	2	1
+telling company	2	2	2
+asking state	2	2	1
+to build plant	16	3	3
+seeking compensation	2	2	0
+claiming violations	2	2	1
+to expand coverage	3	3	1
+to stop government	3	2	1
+to make money	3	2	1
+to get employees	4	3	0
+apologizing for remarks	4	2	0
+to send message	2	2	1
+to support efforts	2	2	0
+to cut production	2	2	0
+to develop property	5	3	2
+seeking recount	3	2	3
+to fix problems	3	3	0
+to force administration	3	2	1
+declaring that	2	2	0
+to encourage business	2	2	0
+to spend more	2	2	1
+to correct problems	7	4	1
+pledging support	2	2	0
+to challenge ruling	2	2	1
+to resolve conflict	3	2	0
+to trace owners	2	2	0
+to oust trustees	2	2	1
+to strike balance	2	2	0
+to take charge	3	2	0
+to block mr.	3	3	1
+to sell assets	2	2	1
+to address issues	3	2	1
+to stop corruption	2	2	1
+to open center	7	2	1
+to open up system	2	2	0
+to install government	2	2	0
+to keep board	2	2	1
+to provide evidence	2	2	1
+to deal with problem	8	5	3
+to regain control	3	3	3
+to accommodate concerns	2	2	0
+to get some	2	2	0
+to build center	11	3	4
+to combat violence	3	3	3
+to limit traffic	3	2	2
+to reduce cost	4	3	1
+to bolster economy	2	2	1
+to release prisoners	3	2	0
+to enforce ban	2	2	1
+to work with democrats	2	2	1
+to restore some	3	3	1
+to provide $	2	2	0
+requesting donations	3	2	1
+seeking payment	3	2	1
+to curb drinking	2	2	0
+to leave city	3	2	1
+seeking recovery	3	2	2
+to make life	2	2	1
+to impose sanctions	2	2	2
+to increase efficiency	3	2	0
+urging investigation	5	4	1
+charging hospital	2	2	0
+to block transfer	2	2	1
+to develop system	5	2	2
+to seek release	3	2	1
+to restore confidence	7	4	1
+to support mr.	2	2	2
+to get in touch	2	2	0
+hearing case	2	2	1
+challenging policy	4	2	2
+asserting right	2	2	1
+condemning remarks	3	3	1
+to cut programs	2	2	1
+to settle dispute	3	3	0
+to influence outcome	2	2	1
+to reach out to leaders	2	2	1
+to trim costs	5	3	1
+accusing inc.	2	2	1
+to foster development	2	2	1
+to close gap	8	6	1
+to defend policy	2	2	1
+to build building	10	3	2
+to defy law	5	3	0
+to thwart takeover	2	2	1
+asking residents	2	2	1
+seeking judgment	2	2	2
+to curb growth	3	2	0
+to clear way	2	2	2
+to win right	3	2	1
+to improve profitability	3	2	1
+to protect environment	6	3	1
+to improve team	2	2	0
+saying mr.	5	2	0
+to open way	2	2	0
+to take steps	3	3	2
+to provide information	4	3	1
+to improve efforts	2	2	1
+to freeze accounts	2	2	0
+to acquire companies	3	2	2
+to keep people	3	3	2
+to make government	3	2	0
+to allay concerns	2	2	0
+to create company	2	2	0
+to overhaul system	4	3	0
+to ease burden	2	2	1
+to resolve some	2	2	1
+to improve efficiency	3	2	2
+denouncing mr.	4	3	1
+to sell plant	3	2	1
+to build tower	2	2	1
+claiming violation	2	2	1
+to begin work	2	2	2
+clearing way	7	2	2
+condemning action	2	2	1
+to protect investors	2	2	2
+to create housing	2	2	1
+to prosecute crimes	2	2	1
+charging union	3	2	0
+to build headquarters	2	2	2
+to reduce tensions	2	2	1
+to reduce reliance	2	2	1
+to form committee	4	2	1
+to stop city	5	2	2
+to solve problems	9	4	2
+to block move	3	3	1
+to improve security	8	4	4
+criticizing decision	5	3	2
+asking for information	2	2	1
+accusing board	2	2	1
+to improve system	6	5	3
+to stop construction	3	3	2
+to recover property	2	2	1
+to protect employees	3	3	2
+to build home	4	2	1
+to meet obligations	3	2	1
+seeking approval	2	2	1
+to make changes	8	6	2
+urging company	2	2	0
+to have school	2	2	1
+to challenge program	2	2	0
+to enhance lives	3	2	0
+seeking stay	3	3	1
+to appeal decision	3	2	1
+to keep government	2	2	1
+to reduce time	2	2	1
+to stop dumping	2	2	0
+to reduce amount	2	2	0
+to create commission	5	3	2
+charging government	2	2	1
+to choose representatives	2	2	1
+to reach people	3	2	0
+to tighten controls	4	3	1
+to invest $	10	2	2
+to freeze assets	2	2	0
+to reverse decision	2	2	0
+to oust leader	3	2	0
+to get aid	3	2	1
+arguing mr.	2	2	2
+to improve care	2	2	1
+to take advantage	3	3	1
+to recover $	6	4	3
+asking landlord	2	2	1
+opposing move	4	2	2
+to reduce fees	2	2	1
+to increase production	2	2	0
+to allay fears	3	2	1
+to sell stores	2	2	0
+to reduce payroll	2	2	1
+to carry out plan	3	2	1
+to curtail spending	2	2	1
+to put money	2	2	1
+to put foot	2	2	0
+to address violations	2	2	0
+to desegregate schools	2	2	1
+to prevent abuses	4	2	0
+to provide security	2	2	0
+seeking access	5	4	3
+asking for $	5	3	2
+to slash $	3	3	1
+supporting ban	2	2	0
+to reform system	4	4	1
+to regain trust	2	2	1
+to lay off employees	5	2	1
+to change rules	2	2	0
+to change some	2	2	1
+to seek order	6	2	1
+to reduce vulnerability	2	2	1
+to buy team	4	2	1
+to improve education	3	2	2
+to open dialogue	2	2	0
+to prevent trust	2	2	1
+to raise $	5	2	1
+to provide assistance	2	2	0
+to strengthen economy	2	2	1
+to form company	3	2	1
+to defend agreement	2	2	2
+to help deal	2	2	1
+to build house	2	2	0
+to provide housing	2	2	1
+to reduce use	2	2	0
+to protect names	2	2	1
+to trim spending	2	2	1
+to get access	4	2	0
+to fight distribution	2	2	2
+to reach out to blacks	2	2	1
+outlining measures	2	2	1
+citing lack	2	2	0
+to add $	5	2	4
+to consolidate operations	3	2	0
+stating opposition	2	2	0
+to overturn law	5	3	1
+to challenge mr.	4	3	0
+to insure disclosure	2	2	1
+to improve relations	6	4	1
+to help families	3	2	0
+to balance budget	6	3	2
+calling on government	2	2	1
+to acquire property	3	3	2
+to buy stock	2	2	0
+urging colleagues	2	2	0
+to give chance	2	2	0
+to give access	5	4	1
+to avoid conflict	3	3	0
+to end abuses	2	2	0
+to improve earnings	3	2	0
+to increase spending	4	2	2
+to block request	2	2	1
+to acquire company	6	5	1
+to get results	2	2	2
+to curb spending	2	2	1
+to force board	5	3	2
+to improve health	3	2	0
+to reduce costs	12	7	2
+using names	2	2	0
+to challenge ban	3	2	2
+to keep companies	3	3	2
+to force city	4	3	1
+voicing concern	2	2	0
+to persuade mr.	3	2	0
+to save time	2	2	0
+to voice support	2	2	0
+to prevent that	2	2	1
+to acquire corporation	5	2	0
+to sell operations	3	2	1
+to stem flow	2	2	2
+to sell business	4	2	1
+to sell company	3	3	1
+to make case	2	2	0
+to play role	2	2	2
+to use money	2	2	1
+requesting permission	3	3	2
+to shore up defenses	2	2	1
+to win support	2	2	1
+allowing companies	2	2	1
+calling for recognition	2	2	0
+opposing request	2	2	2
+to create system	4	3	3
+to buy building	2	2	0
+to raise revenue	2	2	1
+to distance from mr.	2	2	0
+to meet needs	3	2	0
+to ease restrictions	3	2	1
+to do something	2	2	1
+to calm fears	2	2	1
+to make decision	2	2	0
+to improve treatment	3	2	2
+to revive talks	3	2	0
+to increase membership	2	2	1
+accusing management	2	2	1
+to stop war	2	2	2
+challenging law	7	2	4
+to show tolerance	2	2	1
+to educate public	2	2	1
+to block layoffs	4	3	1
+raising prospect	2	2	2
+seeking vote	2	2	0
+to win release	4	2	1
+to hold vote	3	2	2
+to publish books	2	2	1
+to strengthen laws	2	2	1
+seeking changes	2	2	2
+seeking support	2	2	0
+asking agency	3	2	0
+challenging restrictions	3	2	3
+to block takeover	4	3	0
+to fill gap	2	2	2
+to challenge authority	2	2	0
+citing speech	2	2	1
+to control movement	2	2	0
+citing concerns	4	3	2
+to build park	4	3	2
+to offer service	5	3	0
+to control costs	3	3	0
+seeking damages	20	4	9
+to open centers	3	2	0
+to avoid war	2	2	1
+to change that	4	4	4
+to provide insurance	2	2	1
+to reduce gap	2	2	0
+accusing mr.	5	4	1
+to insure safety	3	3	2
+to comply with law	7	4	2
+to challenge provisions	2	2	1
+to increase wages	4	3	1
+to improve performance	7	4	2
+to turn situation	2	2	0
+questioning authority	2	2	1
+to keep team	2	2	0
+to meet requirements	2	2	0
+expressing interest	2	2	0
+to improve operations	4	2	1
+to streamline operations	3	3	1
+asking for investigation	2	2	0
+to provide access	2	2	2
+to control flow	3	3	1
+to accommodate demands	2	2	1
+to abandon plant	2	2	0
+to lobby congress	2	2	0
+to hold conference	3	2	0
+seeking review	3	2	1
+to acquire inc.	5	2	1
+to reduce risk	4	3	1
+calling mr.	2	2	0
+to restructure debt	3	2	0
+to enhance value	2	2	0
+to cut services	2	2	2
+to expand role	4	3	1
+to reach men	2	2	2
+urging state	3	2	1
+to convene conference	2	2	1
+to seek stay	2	2	1
+to remind voters	2	2	0
+seeking records	7	3	2
+to prevent corruption	2	2	0
+to turn out voters	2	2	0
+to develop plan	2	2	0
+reaffirming desire	2	2	0
+to cut jobs	10	2	4
+seeking protection	3	3	0
+to introduce legislation	5	2	3
+to seek custody	2	2	0
+to address needs	2	2	2
+to increase taxes	2	2	2
+to lift embargo	2	2	1
+to pass legislation	3	3	1
+to reach settlement	3	2	0
+expressing gratitude	3	2	0
+to sue state	2	2	2
+to improve standing	2	2	0
+to relax curbs	2	2	0
+to give account	2	2	1
+to announce formation	2	2	0
+to reopen government	2	2	1
+to create committee	3	3	1
+to rig election	2	2	1
+to fight trade	2	2	0
+to meet standards	2	2	1
+to meet goals	4	3	0
+proclaiming that	2	2	1
+charging department	3	3	1
+to stop attacks	3	2	2
+to inform leaders	2	2	0
+to prevent recurrence	5	2	1
+charging company	5	4	3
+to cut emissions	3	3	0
+to cut debt	2	2	1
+to stop state	3	2	3
+to combine operations	3	2	1
+to speed approval	2	2	1
+accusing bennett	2	2	1
+to limit lawsuits	2	2	2
+to force hand	2	2	0
+to recover money	6	4	5
+to improve business	2	2	0
+to build support	4	3	0
+to evacuate americans	2	2	0
+to stop plan	2	2	2
+stating intent	2	2	0
+to keep mr.	2	2	0
+to sell stock	3	2	1
+to acquire group	3	2	0
+to protect children	3	2	0
+to win cup	2	2	1
+to extend contract	3	2	0
+giving notice	2	2	2
+to sign treaty	2	2	1
+to pay tribute	2	2	0
+to reopen case	2	2	1
+leaving dozens	2	2	2
+to fight decision	3	2	2
+declaring intention	2	2	0
+seeking release	3	3	0
+challenging ruling	2	2	2
+to help mr.	3	3	2
+alleging practices	2	2	1
+to change way	3	2	1
+seeking $	29	6	7
+to sue city	2	2	1
+to buy paper	3	2	0
+to put $	2	2	1
+to protect land	2	2	0
+to buy land	2	2	1
+to prevent mr.	2	2	1
+to block order	4	3	2
+accusing supervisors	2	2	0
+to force department	2	2	0
+to reduce force	8	2	1
+to minimize impact	2	2	1
+praising efforts	2	2	0
+to join forces	3	2	2
+to remedy problem	2	2	2
+to require vaccinations	3	2	0
+to report results	2	2	0
+to renounce terrorism	2	2	0
+to end war	3	3	1
+reaffirming support	2	2	0
+to overturn rules	4	3	1
+to protect rights	6	4	2
+to force state	3	3	1
+to protect privacy	3	3	0
+to make work	4	2	2
+to promote women	3	2	0
+challenging rule	2	2	1
+to end denial	2	2	1
+saying government	3	2	1
+to get money	4	4	0
+to pressure government	2	2	2
+to do that	4	3	0
+to encourage participation	2	2	0
+supporting mr.	2	2	0
+to take control	3	3	2
+to improve lines	2	2	0
+to improve safety	10	5	3
+to improve relationship	2	2	0
+to begin process	2	2	1
+to build stadium	6	2	1
+to help people	9	3	0
+denouncing bill	2	2	0
+to make statement	2	2	1
+to resolve standoff	3	3	1
+explaining situation	3	2	0
+to deregulate market	2	2	1
+to address problems	10	6	3
+to stop harassment	2	2	1
+to revamp system	2	2	1
+to hold elections	4	2	2
+to criticize mr.	3	2	0
+arguing that	2	2	0
+to get across message	2	2	1
+to gain access	5	3	3
+to attract customers	2	2	0
+supporting bill	2	2	1
+to learn more	2	2	1
+threatening violence	3	2	1
+taking lead	2	2	0
+to prevent abuse	3	2	2
+attacking constitutionality	2	2	0
+to reduce volatility	2	2	0
+to spur growth	4	2	0
+to block regulations	4	2	1
+to help pay	2	2	0
+to eradicate fly	2	2	1
+saying states	3	2	0
+to reduce debt	4	3	0
+to cut output	2	2	0
+to form coalition	3	3	1
+to comply with laws	2	2	0
+requesting support	2	2	0
+to complain about behavior	2	2	1
+taking issue	4	2	2
+describing mr.	3	3	0
+to run for parliament	2	2	1
+condemning divorce	2	2	0
+to enhance security	2	2	1
+to turn site	2	2	1
+to acquire assets	2	2	0
+to terminate lease	3	2	0
+saying including	2	2	1
+bring people	2	2	0
+accusing officers	2	2	0
+asserting that	3	2	2
+taking state	2	2	1
+explaining decision	2	2	0
+to stop companies	2	2	0
+to fight corruption	2	2	1
+to force company	3	3	0
+to attract women	2	2	0
+to expand sales	2	2	0
+to end strike	17	2	3
+seeking hearing	2	2	1
+to change policies	3	2	0
+giving support	2	2	1
+to build factory	2	2	0
+to obtain release	2	2	0
+to hire women	2	2	1
+to create project	2	2	1
+to reduce impact	3	3	0
+asking panel	2	2	0
+to buy control	3	2	1
+to re life	2	2	1
+to protect supply	3	3	3
+to help economy	3	2	0
+to increase tax	2	2	1
+to give value	2	2	1
+saying agreement	2	2	1
+to collect money	2	2	1
+seeking ruling	2	2	1
+to repair relations	2	2	0
+outlining opposition	2	2	1
+to provide support	2	2	1
+to help companies	3	2	1
+****************************************************
+iteration 8:
+to extend credit	2	2	0
+to create panel	3	3	2
+to keep handguns	2	2	1
+to overhaul way	4	3	2
+to issue bonds	3	3	1
+to grant injunction	2	2	1
+to unseal documents	2	2	1
+to undo decisions	2	2	2
+to study possibility	2	2	1
+to buy center	3	3	2
+expressing disappointment	10	3	2
+to build transport	2	2	0
+to create sense	2	2	1
+to maximize profits	3	3	0
+to enhance image	2	2	1
+to require labels	2	2	1
+to protect population	4	3	2
+to get hold	2	2	1
+to help women	6	5	1
+to defend peso	3	2	1
+to change positions	2	2	1
+saying plan	4	3	3
+to support currency	3	2	2
+to avoid repetition	3	2	2
+to discuss report	2	2	0
+to pay for abortions	5	2	1
+charging competitors	2	2	0
+to bolster industry	4	2	1
+to take life	2	2	2
+to hurt cause	4	2	0
+to find way	72	23	16
+to close shortfall	4	4	1
+to take share	2	2	1
+to search apartment	2	2	0
+to cut aid	3	3	2
+to seek return	2	2	0
+to think about this	3	2	0
+to send team	4	4	1
+to impose limit	3	3	2
+to meet demand	6	6	1
+to seek solutions	3	2	0
+supporting efforts	3	2	2
+to win changes	2	2	1
+to create conditions	3	3	2
+to bar use	2	2	1
+to follow rules	3	3	1
+to spin off operations	3	3	1
+to identify students	2	2	2
+to work with	2	2	0
+to attend university	5	5	1
+to give something	3	3	2
+to curb emissions	4	3	2
+to boost attendance	2	2	0
+to state case	3	3	0
+imposing moratorium	2	2	1
+to carry out policy	3	3	2
+to forge agreement	2	2	1
+to prove mr.	2	2	1
+to impose ban	3	2	2
+to run for office	6	5	0
+to conceal relationship	3	2	1
+to avoid problems	2	2	0
+limiting construction	2	2	2
+charging harassment	2	2	0
+to pull some	2	2	0
+supporting right	4	3	2
+to recoup $	4	2	2
+to review regulations	2	2	1
+to ease access	2	2	1
+to waste time	3	2	0
+to take root	2	2	0
+to comply with resolutions	3	2	0
+to spend weekend	3	2	2
+to play part	2	2	0
+to tell patients	2	2	0
+to provide some	3	3	1
+to provide incentives	6	5	1
+to take losses	2	2	1
+to explore sites	2	2	0
+to transfer ownership	2	2	1
+to control rates	3	3	1
+to regulate sale	2	2	2
+to support bill	4	4	1
+to win election	4	4	1
+to help prosecutors	2	2	0
+to restrict lawsuits	4	3	4
+to do same	21	16	5
+to protect officials	2	2	1
+to attract audiences	2	2	1
+to end siege	5	3	1
+to improve margins	2	2	0
+to print copies	2	2	1
+to influence decision	2	2	0
+to withdraw from case	3	2	1
+to buy time	13	12	6
+to open schools	5	5	0
+to restore independence	2	2	1
+to raise revenues	6	5	0
+to carry signals	2	2	0
+to stop promotion	2	2	1
+giving victory	2	2	1
+to constrain spending	2	2	2
+offering opportunity	2	2	0
+to circumvent sanctions	2	2	0
+to bolster security	6	5	2
+to enforce rights	4	2	1
+to lower risk	3	3	0
+to publicize findings	3	3	2
+to accomplish goal	4	4	1
+to adopt measures	3	2	1
+to investigate reports	2	2	0
+to make doses	2	2	0
+to conserve money	2	2	1
+to handle calls	2	2	1
+granting benefits	3	2	1
+to acquire metro-goldwyn-mayer	2	2	0
+to develop relationships	2	2	1
+to get vote	3	3	2
+to satisfy law	2	2	0
+to raise quality	2	2	0
+to restrict coverage	2	2	2
+to approve drug	2	2	0
+to change things	3	3	0
+to sell rights	8	6	4
+to keep guns	4	4	2
+to undermine process	2	2	0
+to cut use	3	3	2
+to stop sales	2	2	0
+to help poor	6	4	2
+to punish crimes	2	2	1
+to suspend deportation	2	2	1
+to get name	2	2	1
+to support reform	2	2	1
+to develop devices	2	2	0
+to get seat	2	2	0
+to explore for gas	2	2	1
+to pay for benefits	2	2	0
+to reorganize system	3	3	1
+to manage $	3	2	0
+to see movies	3	3	1
+protecting employers	2	2	2
+banning suicide	2	2	1
+to protect minority	2	2	0
+to prohibit companies	2	2	0
+defending decision	2	2	0
+to accomplish goals	2	2	0
+to introduce access	2	2	1
+to block participation	2	2	1
+to show that	2	2	0
+to help patients	4	4	2
+to cut prices	4	4	2
+to oppose mr.	3	3	2
+to finance deal	4	2	0
+to ban party	2	2	1
+to promote peace	3	3	0
+to open in september	2	2	0
+to move primary	2	2	1
+to simplify process	2	2	1
+to overcome problems	3	3	0
+to issue order	6	2	3
+to raise wage	10	5	5
+to avoid collapse	3	3	2
+to hear case	2	2	2
+to defeat bill	5	4	2
+to replenish fund	4	4	3
+to show restraint	3	2	2
+to import tons	2	2	1
+to conduct survey	3	2	1
+to stem decline	3	3	0
+to sell products	2	2	0
+to sell arms	3	2	0
+to continue search	2	2	2
+to get crowd	2	2	0
+to remove mr.	3	3	0
+to penetrate market	3	2	1
+to make movie	6	6	0
+to accept payment	2	2	1
+to control emissions	4	4	2
+to end threat	3	3	1
+to acquire for $	2	2	1
+to reduce crowding	2	2	2
+to respond to needs	3	3	0
+to finance advertising	2	2	0
+to place children	2	2	0
+to buy freedom	2	2	1
+to respond to mr.	2	2	1
+to develop solution	2	2	0
+to sell billions	2	2	2
+to prevent terrorism	4	4	1
+to ban money	2	2	2
+to gain victory	3	2	0
+to rebut charges	3	3	2
+to get out word	3	3	1
+to present picture	2	2	1
+to announce plans	6	5	2
+to prevent companies	2	2	0
+to end discrimination	5	4	2
+to combat fraud	2	2	1
+to support activities	4	4	0
+to establish beachheads	2	2	0
+to plan attacks	3	2	0
+to save hundreds	2	2	2
+to overhaul company	3	3	2
+bringing force	2	2	1
+to do this	21	16	4
+to settle contracts	2	2	0
+to digest report	2	2	2
+giving training	2	2	1
+to demonstrate techniques	3	2	0
+to protect heritage	2	2	2
+to develop versions	2	2	0
+to get shot	2	2	0
+ending war	6	3	1
+to meet deadline	4	4	1
+to run government	2	2	0
+to limit pollution	2	2	1
+to acquire stations	2	2	0
+to dispose of waste	4	3	0
+to privatize system	2	2	1
+to settle lawsuit	16	6	1
+announcing withdrawal	2	2	1
+to protect franchise	3	2	1
+to address things	2	2	2
+to rebuild network	2	2	0
+to accept mr.	2	2	0
+to hide anger	3	3	1
+to see value	2	2	1
+to build dormitories	2	2	0
+to do stuff	4	4	0
+to create consensus	2	2	0
+to get into market	2	2	0
+to cover cost	3	3	0
+condemning bombings	3	2	1
+announcing indictments	2	2	1
+to avoid situation	2	2	0
+to lure people	3	3	0
+rejecting offer	3	3	2
+increasing pressure	3	2	1
+to suspend exports	2	2	1
+to enact changes	6	5	2
+to create ties	2	2	0
+to stop that	4	4	0
+to explore villages	2	2	1
+to monitor sales	2	2	1
+supporting president	2	2	1
+to help recipients	2	2	0
+to visit states	3	3	1
+to keep parents	2	2	0
+to persuade businesses	2	2	2
+to supply water	2	2	1
+to shore up quality	2	2	0
+to get business	4	4	1
+to halt slide	2	2	1
+to improve collection	2	2	1
+to stop terror	7	6	1
+to end case	2	2	1
+to have house	2	2	0
+to split into companies	5	2	0
+to sell land	4	3	1
+to privatize security	2	2	1
+to give increase	2	2	1
+to buy shares	11	9	3
+to revive negotiations	6	4	0
+to make vision	2	2	1
+to soften provisions	2	2	2
+to put passengers	2	2	0
+to minimize risk	3	3	2
+to influence process	2	2	0
+to carry out agreement	4	3	0
+to halt violence	2	2	1
+to enter states	2	2	0
+to sell units	2	2	1
+to clarify rules	2	2	1
+to finance departments	2	2	2
+to study document	2	2	1
+to soften image	2	2	1
+to grab attention	5	4	1
+to lessen influence	2	2	0
+to develop drug	2	2	1
+to express concerns	3	3	1
+to keep city	2	2	0
+to build airport	3	3	1
+to reauthorize agency	2	2	0
+accusing ms.	2	2	0
+to find jobs	4	4	1
+to get order	7	2	2
+to cut deficits	3	3	0
+to study changes	2	2	0
+to run campaign	3	3	1
+to protect against losses	2	2	1
+to buy goods	7	6	1
+to fight ticket	2	2	0
+ending strike	3	2	3
+to obtain visa	4	4	1
+to ease situation	2	2	1
+to build office	5	5	3
+to compensate americans	2	2	1
+seeking total	3	2	1
+to improve transportation	2	2	0
+to sell apartments	2	2	0
+to design buildings	2	2	1
+to dishonor military	2	2	0
+to pursue strategy	2	2	0
+to avoid default	4	3	0
+to do best	8	3	0
+requiring schools	3	3	3
+to seek term	2	2	0
+to free hostages	6	5	1
+to stop fighting	9	7	2
+to release recordings	2	2	0
+to join corps	2	2	1
+to avoid fines	3	2	2
+to shore up government	2	2	0
+to crack down on militants	4	4	2
+to change attitudes	2	2	0
+to reach customers	4	3	1
+to announce proposals	2	2	1
+to end impasse	2	2	0
+to have affair	2	2	1
+to justify faith	2	2	0
+to break down barriers	2	2	1
+to deserve this	5	2	0
+to reopen statue	2	2	0
+shouting slogans	2	2	0
+to build towers	6	3	2
+to plug gap	2	2	0
+to make own	3	3	0
+to set bail	2	2	1
+to start negotiations	2	2	0
+to warn doctors	2	2	2
+to address question	4	4	1
+to increase return	3	3	1
+collecting signatures	2	2	2
+to know that	2	2	1
+to lay out some	2	2	1
+to air views	2	2	1
+to help father	2	2	0
+to withdraw most	2	2	0
+to use contractors	2	2	2
+to limit use	2	2	0
+to add value	4	3	0
+to move people	6	5	1
+to accomplish end	2	2	1
+to raise amount	3	2	1
+denouncing conference	2	2	1
+to negotiate end	6	5	4
+to keep pace	5	5	1
+to discuss concerns	3	3	0
+to shift focus	3	2	2
+to educate children	4	4	2
+to send money	3	3	3
+to open investigation	2	2	1
+to make pitch	2	2	1
+to protect collections	2	2	0
+to simplify system	3	3	1
+to ease shortage	2	2	1
+to waive amendment	2	2	1
+to obtain increases	2	2	2
+to work with people	5	4	0
+to send some	2	2	2
+to face loss	2	2	1
+to do battle	2	2	0
+to improve flow	3	2	1
+to settle strikes	2	2	0
+to stop protest	2	2	2
+to obtain papers	2	2	0
+to support gov.	2	2	2
+to review findings	4	3	1
+to develop talent	2	2	1
+to help men	2	2	1
+to expand businesses	3	3	0
+to study opinion	2	2	0
+to protect consumers	6	6	1
+to have visits	3	2	1
+to announce deal	3	2	0
+to refinance bailout	3	2	2
+to meet order	3	3	0
+to drop suit	3	3	1
+to bar move	2	2	1
+to keep truth	2	2	2
+to come home	4	4	1
+to address complaints	8	8	1
+to finance future	2	2	1
+to buy number	2	2	0
+to rewrite agreement	2	2	1
+to combat warming	2	2	0
+to replace mr.	2	2	1
+to combine financing	2	2	1
+to insure that	2	2	0
+to restore control	3	2	1
+to revamp operations	2	2	0
+to negotiate changes	2	2	0
+to reduce price	2	2	0
+to cut flow	3	2	0
+to set up centers	2	2	1
+to gain majority	2	2	1
+to prevent stops	2	2	2
+to beat team	4	4	0
+to reopen investigation	2	2	1
+to take part	20	18	4
+to improve production	2	2	1
+to develop plans	4	4	1
+to wipe away tears	2	2	0
+to deregulate industry	9	5	2
+to prepare plan	2	2	1
+to curtail costs	2	2	0
+to make arrest	2	2	0
+to play basketball	2	2	0
+to stop development	2	2	1
+to pay off debts	8	7	1
+to resolve conflicts	5	3	2
+to develop technology	3	3	1
+to provide opportunity	2	2	0
+denouncing attacks	2	2	0
+to allow gambling	2	2	1
+to talk more	2	2	0
+to change expectation	2	2	0
+to rein in costs	4	4	0
+to reject pact	2	2	2
+to break impasse	7	7	1
+to use door	3	3	1
+to sell insurance	2	2	0
+to let stand	2	2	2
+to use techniques	3	2	1
+to challenge administration	2	2	0
+to get feet	4	3	0
+to increase budget	2	2	2
+to change rule	2	2	0
+to represent times	2	2	0
+to narrow gap	5	4	0
+to get clearance	2	2	1
+explaining mix-up	2	2	0
+to develop gas	2	2	1
+to buy airline	2	2	1
+to return to past	2	2	0
+to serve as hosts	2	2	1
+selling $	2	2	1
+to impose requirements	8	7	5
+to hear music	2	2	1
+to establish mechanism	2	2	1
+to come up with plan	3	3	3
+to find patients	2	2	2
+to maintain prices	2	2	0
+to call for mr.	2	2	1
+to prohibit employers	3	2	1
+to show appreciation	3	2	1
+to stop publication	2	2	1
+to strengthen family	4	2	0
+to take actions	5	5	0
+to further agenda	2	2	1
+to buy corporation	13	7	4
+to hold convention	5	3	3
+to build arena	7	6	2
+forming partnership	2	2	0
+to defend homeland	3	2	1
+to serve children	2	2	0
+to ease credit	3	3	0
+to develop forms	2	2	0
+to protect people	13	12	4
+to reclaim spot	2	2	0
+to use labels	4	3	1
+to get license	3	2	1
+to force disclosure	3	2	1
+to control movements	3	3	0
+to make resources	2	2	0
+to relax rules	3	3	1
+to build stadiums	2	2	1
+to increase protection	2	2	1
+to open in square	2	2	1
+to block hiring	2	2	1
+to host olympics	2	2	1
+to rewrite laws	2	2	2
+to live up to expectations	2	2	0
+to address shortfall	2	2	0
+to meet competition	2	2	0
+to recoup losses	2	2	0
+prohibiting members	4	3	3
+to confront reality	2	2	0
+to attach restrictions	2	2	2
+to rewrite law	4	3	2
+to distribute tickets	2	2	0
+to fix problem	2	2	0
+to sell reserves	2	2	1
+to protect area	5	4	1
+to use cart	2	2	0
+to enter business	5	4	1
+to make one	2	2	0
+to buy jets	2	2	1
+to dismiss charges	13	6	3
+to inform public	2	2	2
+to reduce pollution	15	14	2
+to allow companies	3	3	1
+to get power	2	2	1
+encouraging people	2	2	1
+to benefit consumers	2	2	0
+to limit size	3	3	2
+to open up process	2	2	0
+to revise laws	2	2	1
+to reverse impression	2	2	0
+to include store	3	2	0
+to comply with plan	3	2	0
+to express frustration	2	2	1
+to refund $	2	2	1
+to worry about things	3	2	0
+to appoint guardian	4	2	2
+to take place	6	5	2
+to build one	2	2	1
+to play host	3	3	0
+to avert disaster	2	2	0
+bring community	3	3	0
+to capture title	2	2	0
+to sell books	2	2	0
+to support opposition	3	2	0
+to have conversation	4	4	0
+to give instructions	2	2	0
+to look into option	2	2	1
+to run schools	2	2	0
+to pay down debt	7	6	4
+totaling $	2	2	1
+to close plants	5	2	1
+to release version	2	2	0
+to lose money	2	2	1
+to ease crisis	3	3	0
+to come to table	3	2	0
+to sell product	3	3	1
+calling on city	2	2	1
+to protect resources	5	5	0
+to make arrests	5	4	2
+to get things	9	7	2
+to get to bottom	2	2	1
+to show mr.	3	3	1
+to join union	2	2	1
+to find members	3	3	1
+to beat brown	2	2	0
+to give sense	3	3	1
+to increase rate	3	3	0
+to limit marketing	4	3	2
+to pay benefits	5	4	2
+to ensure election	2	2	1
+to paid victims	3	2	0
+to study details	2	2	0
+to increase awareness	4	3	2
+to revive form	3	3	2
+to act on proposals	2	2	0
+to have agreement	2	2	0
+to prevent son	2	2	0
+to buy casino\/hotel	3	2	0
+to force owners	3	2	1
+to set fees	2	2	2
+to acquire holdings	2	2	0
+to overturn policy	2	2	1
+to open process	2	2	0
+to enforce patents	2	2	1
+to stimulate production	2	2	1
+to pass time	5	5	0
+requiring businesses	2	2	1
+authorizing release	2	2	2
+to make purchase	3	2	1
+to see movie	2	2	1
+to block right	3	2	0
+to abandon practice	4	4	1
+to enact laws	2	2	0
+to relax strictures	2	2	0
+outlawing discrimination	3	2	3
+to seize territory	2	2	1
+to train officers	2	2	2
+allowing program	2	2	2
+expressing condolences	2	2	2
+to dispel doubts	2	2	0
+to stop trading	3	3	3
+to offer information	2	2	0
+to meet expenses	4	2	0
+to review situation	3	3	1
+to dismiss employees	2	2	0
+to take lead	63	8	3
+to deal with cases	2	2	0
+to start company	2	2	1
+to steal share	2	2	0
+to attract tourists	6	5	1
+driving up costs	2	2	0
+to get around ban	2	2	0
+to use force	2	2	1
+to mount defense	4	3	0
+to sell program	2	2	2
+to lay off workers	15	2	4
+to protect supplies	3	2	0
+to maintain pace	2	2	0
+to eliminate disparity	2	2	0
+to avoid stoppage	2	2	0
+to move process	2	2	1
+seeking millions	3	2	0
+to go on with show	2	2	2
+giving autonomy	2	2	1
+condemning abuse	2	2	2
+winning series	2	2	0
+to build cars	3	3	1
+to change ways	4	3	2
+to build store	8	6	2
+to collect taxes	5	5	3
+to open discussions	2	2	2
+giving option	2	2	1
+to file charges	2	2	1
+to challenge refusal	3	3	1
+leaving government	2	2	0
+to increase diversity	6	6	1
+to end struggle	2	2	1
+to use offices	2	2	2
+to contain epidemic	3	2	2
+asking for documents	2	2	1
+to have effect	3	2	0
+to conduct audits	2	2	1
+to offset $	3	3	1
+to find formula	2	2	0
+to discuss proposal	4	4	1
+to expand force	3	3	1
+to create excitement	4	3	0
+to finance education	3	3	0
+to keep homeless	2	2	2
+to devise rules	2	2	1
+to give excuse	2	2	1
+to buy arms	2	2	0
+to press claims	2	2	2
+to sell off hospitals	2	2	1
+to roust homeless	2	2	1
+reminding people	3	3	2
+to help carrier	2	2	1
+extending deadline	2	2	2
+to hire lawyers	2	2	1
+to increase contribution	3	3	0
+to introduce system	2	2	0
+to sell cars	2	2	1
+to build lead	4	2	0
+to pay more	2	2	1
+challenging rules	6	3	3
+to reopen talks	2	2	1
+to move to apartment	3	3	0
+to create show	2	2	0
+to iron out problems	2	2	0
+to search mr.	2	2	1
+opening door	6	6	1
+to pay for projects	2	2	1
+to run for senate	9	5	0
+to complete term	3	2	0
+to win office	2	2	1
+to pay attention	13	8	3
+to learn art	2	2	1
+making cut	2	2	0
+to exploit name	2	2	0
+denouncing attack	2	2	1
+to improve situation	11	9	5
+to build cables	2	2	0
+to unseal records	3	2	2
+to get government	6	5	1
+allowing governments	2	2	1
+to attract fans	2	2	2
+to save life	8	7	2
+to control trafficking	10	3	1
+to divert attention	7	7	2
+to provide students	2	2	0
+to rein in spending	2	2	1
+to preserve miles	2	2	1
+giving power	14	11	8
+to prevent slaughter	4	3	0
+to express remorse	2	2	0
+to discuss ways	6	5	5
+reinstating punishment	2	2	0
+to halt attacks	4	4	2
+to help refugees	6	2	1
+to get kind	2	2	0
+to provide equipment	6	5	0
+to participate in program	4	4	1
+to curb trade	3	3	0
+to take mr.	3	3	1
+prohibiting discrimination	4	3	2
+to do search	2	2	1
+to find something	4	4	0
+to consolidate power	2	2	2
+to qualify for benefits	2	2	1
+to remove section	2	2	1
+to change provisions	2	2	0
+to oust leadership	2	2	1
+to move collection	2	2	0
+to build factories	3	2	1
+to respond to questions	3	3	1
+to scuttle deal	3	2	1
+to move to florida	2	2	0
+to end crackdown	2	2	0
+to buy back stock	3	3	3
+to change nature	2	2	1
+to make repairs	3	3	0
+to analyze report	3	2	0
+to test blood	2	2	1
+to conduct studies	3	2	1
+to force dr.	2	2	2
+to use computers	2	2	0
+to embarrass president	2	2	1
+to delay release	7	2	4
+to save lives	3	3	0
+seeking advice	2	2	1
+to erode base	2	2	0
+to finance services	3	2	1
+to improve scores	2	2	1
+to shift some	2	2	1
+to halt practice	5	5	1
+to reassure people	2	2	0
+to mobilize voters	5	3	2
+to increase donations	2	2	1
+to finance projects	6	6	3
+to minimize loss	2	2	0
+to give way	2	2	2
+to accommodate everyone	2	2	1
+restricting activities	3	3	2
+warning that	3	3	1
+to sell home	4	4	0
+to protect those	3	2	0
+to help workers	4	4	0
+to avoid appearance	3	3	0
+leaving officials	2	2	2
+to reject alliance	2	2	2
+to give analysis	2	2	1
+to slow spread	2	2	0
+to seek cuts	2	2	1
+to buy up to percent	3	3	0
+to allow transfer	2	2	1
+denying request	2	2	1
+to release tapes	3	3	1
+challenging representation	2	2	2
+to seek damages	3	2	2
+to complete investigation	2	2	1
+to create programs	7	7	4
+to sign agents	2	2	1
+to approve bill	5	5	3
+to deport immigrants	2	2	0
+to register unhappiness	2	2	1
+to extend act	2	2	1
+to develop leadership	2	2	0
+to build mosque	5	4	3
+to get bill	7	6	2
+to build feet	2	2	1
+to tell truth	6	5	0
+requiring board	2	2	1
+to stem invasion	2	2	0
+to promote products	4	4	1
+to make electricity	2	2	1
+to close $	4	4	3
+to keep way	2	2	1
+putting pressure	8	5	2
+to hold a	2	2	0
+to set up government	4	2	0
+making progress	2	2	0
+to double size	3	3	1
+to step up cooperation	2	2	0
+to ask court	2	2	1
+asking that	2	2	0
+to make investments	8	5	2
+to open casinos	2	2	1
+to draw up regulations	2	2	1
+to help dissidents	2	2	0
+to ease impact	2	2	1
+to ban smoking	2	2	1
+to impose rules	4	4	2
+to close base	3	2	2
+to make gains	2	2	0
+containing allegations	2	2	0
+to improve position	3	3	0
+to reduce size	6	6	2
+to help situation	2	2	1
+to buy bank	4	4	0
+to strengthen power	2	2	2
+to dim popularity	2	2	1
+to plug gaps	2	2	0
+to provide workers	2	2	2
+to enforce regulations	3	3	0
+to start league	2	2	1
+to raise scores	3	3	1
+to put everything	3	3	1
+to convert apartments	2	2	2
+requiring workers	2	2	2
+to lower fees	2	2	1
+to replace with tower	2	2	1
+to increase stake	3	2	0
+to limit risks	2	2	0
+to gather evidence	2	2	0
+to create environment	5	5	1
+permitting schools	3	2	2
+to keep track	2	2	1
+to do couple	2	2	0
+to prevent state	3	2	0
+to end stalemate	4	3	2
+to have store	2	2	0
+to create school	2	2	0
+to show film	2	2	1
+to build systems	2	2	1
+allowing states	2	2	0
+seeking ban	2	2	1
+to give name	3	2	0
+to get by	3	3	1
+to restore image	2	2	0
+to avoid contact	3	3	0
+to get economy	5	5	0
+to produce programs	2	2	0
+to throw out convictions	4	2	2
+telling reporters	3	3	1
+to take time	2	2	0
+to read newspapers	5	2	2
+winning re-election	2	2	0
+to get support	3	3	0
+to pay mr.	4	3	3
+to pay for expenses	5	2	1
+to build ballpark	4	3	1
+to give relief	3	3	0
+to hold party	2	2	1
+to increase role	3	3	0
+to provide counseling	2	2	1
+to obtain rights	2	2	0
+to portray mr.	4	4	1
+to study decision	3	2	1
+to open front	2	2	0
+to avert collapse	2	2	1
+to follow law	4	4	0
+to enter process	2	2	1
+to restructure system	6	5	2
+to distribute $	3	3	1
+to allow sale	2	2	2
+to finish project	2	2	0
+calling remarks	2	2	1
+awaiting approval	2	2	0
+saying this	3	2	2
+to ready for derby	2	2	0
+to get messages	3	2	2
+to support war	3	2	0
+citing changes	2	2	2
+to get documents	2	2	0
+to acquire site	3	3	1
+to have tube	2	2	1
+seeking help	4	3	1
+to sell division	4	4	0
+to bolster staff	3	3	1
+allowing game	2	2	1
+to raise issue	2	2	2
+to ban procedure	4	4	3
+to file suits	2	2	1
+to alter strategy	2	2	0
+to allow women	2	2	0
+to open airport	3	3	1
+to prevent cheating	2	2	1
+to sue police	2	2	2
+to use rules	2	2	0
+to open door	2	2	1
+to cooperate with authorities	3	3	1
+to expand programs	6	6	2
+to weather downturn	2	2	1
+to take drugs	2	2	0
+to safeguard environment	3	2	2
+to deploy troops	2	2	1
+to review details	4	3	1
+to prevent in future	2	2	1
+to provide loans	3	3	1
+to make video	2	2	0
+to cap prices	2	2	2
+to send students	3	3	1
+to find $	4	4	3
+to be on alert	3	3	1
+seeking halt	2	2	1
+to recover some	2	2	1
+to impose control	2	2	1
+condemning killing	2	2	1
+to set things	2	2	2
+to continue negotiations	4	4	3
+to raise fares	2	2	1
+to spend time	18	11	3
+to take look	4	4	1
+to express affection	2	2	0
+to repay money	3	3	2
+giving chance	3	3	1
+to get trash	2	2	2
+to keep peace	3	3	1
+to give incentive	2	2	1
+to change law	11	10	4
+to impose law	2	2	0
+to move operations	4	3	0
+to overturn ruling	12	4	5
+to shut down all	2	2	0
+to block drilling	2	2	1
+to get everyone	3	3	0
+to defend against charges	3	2	1
+to project image	4	3	2
+to revamp program	2	2	1
+stressing importance	2	2	1
+earning $	3	3	0
+to find sources	5	5	1
+to finance activities	3	2	0
+to undermine credibility	2	2	1
+to improve accuracy	2	2	1
+to discuss plan	4	4	3
+to ease suffering	4	3	0
+to hire workers	3	3	1
+to cut through tape	2	2	0
+to force university	3	2	1
+to recruit agents	2	2	1
+to convince members	2	2	0
+to win control	2	2	0
+to dismantle system	2	2	2
+appropriating $	2	2	2
+to establish programs	4	3	2
+to discuss mr.	4	4	1
+to curb activities	4	3	0
+to serve country	2	2	0
+to reduce lines	2	2	1
+to maintain ties	2	2	0
+to hear concerns	3	3	0
+to sell shares	10	8	3
+ending conflict	2	2	2
+to obtain list	2	2	1
+to force district	2	2	1
+to enjoy time	2	2	0
+citing problems	5	4	1
+to keep out women	2	2	1
+to purchase property	3	2	0
+announcing intention	2	2	0
+to stop party	2	2	0
+to restrict authority	2	2	1
+giving $	3	3	2
+to overcome obstacles	2	2	0
+to tell that	2	2	0
+to pay for system	2	2	0
+seeking billions	2	2	2
+to seek office	4	4	0
+to cut projects	2	2	1
+to lobby members	3	3	3
+to cut off financing	2	2	1
+prompting appeal	2	2	1
+to return to job	2	2	1
+to offer reassurance	2	2	1
+to build collection	2	2	1
+to breathe life	3	3	2
+bring attention	6	5	2
+to continue operating	4	2	1
+to allow scrutiny	2	2	0
+requiring notification	2	2	2
+to answer that	2	2	0
+to settle issues	2	2	0
+to curb demand	2	2	1
+calling waste	2	2	0
+to move school	2	2	1
+to train people	2	2	0
+to void $	3	2	1
+to create atmosphere	3	3	2
+to limit damage	6	6	0
+to extract concessions	3	3	0
+to ease pain	5	3	0
+to respond to need	2	2	0
+to create works	5	2	0
+to reunite families	2	2	0
+to support groups	2	2	1
+to pay for measures	2	2	1
+to strengthen controls	3	2	1
+to heighten security	2	2	1
+to make news	3	3	1
+to request meeting	2	2	0
+to pass laws	5	5	3
+to approve application	2	2	1
+to impose embargo	3	2	3
+to measure quality	2	2	1
+to force release	5	3	3
+to delay enforcement	2	2	1
+creating agency	3	3	2
+to eliminate programs	2	2	1
+to build consensus	2	2	1
+to redouble efforts	3	3	0
+bring situation	2	2	0
+to squeeze profits	3	3	3
+calling for restrictions	2	2	2
+to help neighbors	2	2	1
+to cope with recession	3	2	1
+to pay for care	3	2	1
+to sell device	3	2	0
+to keep that	2	2	1
+to change economy	2	2	1
+to promote tourism	2	2	1
+to build casino	8	7	2
+to expand care	2	2	1
+to find seed	2	2	0
+to convince people	4	4	2
+to pay for stadium	2	2	1
+to stop exodus	6	5	2
+to resolve matter	2	2	0
+to decide issue	2	2	0
+to mend hole	2	2	0
+to offset costs	2	2	0
+to cut rate	5	4	2
+to combat aids	4	4	0
+to double capacity	2	2	1
+to send nomination	2	2	1
+to provide education	3	3	0
+to close most	3	2	2
+to prevent disease	2	2	0
+to submit to oversight	3	2	1
+to sign statement	2	2	1
+to dismiss lawsuit	7	4	4
+to discuss decision	8	6	3
+to attend conference	6	4	1
+to develop sources	2	2	0
+to hear speeches	2	2	0
+to stop terrorists	5	3	2
+to defuse conflict	2	2	0
+explaining action	2	2	2
+to raise salaries	2	2	0
+to discuss strategies	2	2	2
+to improve management	7	6	0
+adding feet	2	2	0
+to cut expenses	5	5	1
+to relinquish control	2	2	0
+to implement reforms	2	2	2
+to speed up things	2	2	2
+to extend regulations	2	2	1
+to deal with crisis	4	4	1
+to buy ads	2	2	1
+to convince americans	2	2	0
+to find money	7	6	2
+to go to court	4	4	1
+to attack other	3	2	2
+to appoint commission	4	4	0
+to help country	2	2	0
+to ease concerns	3	3	0
+to capture championship	3	3	0
+raising hopes	2	2	2
+to make vaccine	4	4	2
+to fight effort	2	2	1
+to encourage filing	2	2	1
+to go into effect	2	2	2
+to require government	2	2	1
+to guarantee insurance	2	2	2
+to protect currency	2	2	1
+imposing limits	2	2	0
+to create board	8	8	4
+to retire at end	3	2	0
+to improve oversight	2	2	1
+seeking confirmation	4	2	0
+to sell for $	2	2	1
+to build supermarkets	2	2	1
+to build incinerator	2	2	1
+to expand capacity	2	2	1
+creating pressure	3	2	1
+to protect assets	5	5	0
+to give voice	2	2	0
+to reduce disparity	3	2	0
+to pursue charges	3	3	0
+to cover shortfall	3	3	1
+to build hangar	2	2	1
+to stop threat	3	3	2
+to discuss details	3	3	3
+to gather support	2	2	0
+to use players	2	2	1
+to worry about that	2	2	0
+to save skin	2	2	0
+to lessen burden	2	2	1
+to sue company	2	2	1
+to expand others	2	2	0
+to reach voters	2	2	1
+to win nomination	6	6	1
+to cut pollution	2	2	1
+to conserve water	5	5	0
+to buy groceries	2	2	0
+to aid rebels	9	4	2
+seeking reimbursement	2	2	2
+to make choices	5	4	1
+to build monument	4	2	2
+to toughen rules	4	3	1
+to carry guns	2	2	2
+to reimposed against athletes	2	2	1
+to drop service	2	2	1
+to cut smoking	2	2	0
+to nurture people	2	2	1
+to increase oversight	2	2	0
+to determine whether mr.	2	2	0
+to comply with order	4	3	1
+to discuss plans	6	4	2
+doing best	2	2	0
+to aid contras	2	2	1
+to buy assets	7	4	2
+to help party	3	3	0
+to terminate plans	4	2	0
+to avoid death	2	2	0
+to adopt plan	2	2	0
+to stop release	3	3	2
+establishing programs	6	4	1
+to close deal	3	3	1
+to buy post	2	2	0
+to demolish buildings	5	5	2
+to shut down program	2	2	2
+to protect species	8	7	2
+to avoid kind	5	4	2
+to rectify injustice	2	2	1
+to block appointments	2	2	2
+to deflect attention	6	6	3
+to split company	4	3	2
+to adopt rules	2	2	0
+to give freedom	4	4	3
+to find site	3	3	0
+to extend medicaid	2	2	0
+to weaken currency	2	2	0
+charging with fraud	2	2	0
+to pay bills	18	7	4
+to define marriage	2	2	1
+to rein in militants	2	2	0
+to allow imports	4	4	3
+to punish perpetrators	3	2	0
+seeking resolution	2	2	1
+to strengthen law	3	3	1
+to set standards	8	7	5
+to secure stockpiles	2	2	0
+challenging provision	2	2	1
+to entice people	2	2	0
+to appoint counsel	5	5	2
+to change practices	5	4	3
+to review issue	2	2	1
+to amend constitution	3	3	2
+to provide results	3	2	1
+to reform government	2	2	0
+to win masters	2	2	0
+to change votes	4	3	1
+to obtain approval	2	2	0
+to accommodate interests	3	2	1
+to shift money	4	4	2
+detailing complaints	3	2	2
+to change position	2	2	1
+to bridge differences	3	3	2
+to loosen policy	2	2	1
+casting vote	2	2	1
+to explore possibilities	2	2	1
+challenging on grounds	2	2	1
+alleging pattern	2	2	2
+signing players	2	2	0
+to break contract	4	3	2
+to achieve objectives	2	2	0
+to kill people	4	4	1
+to atone for past	2	2	1
+expressing dissatisfaction	2	2	1
+to dispel rumors	2	2	1
+to build wing	2	2	1
+guaranteeing borders	2	2	1
+to reward employees	2	2	1
+to provide coverage	11	8	2
+bring relief	2	2	0
+to change program	2	2	1
+to get department	2	2	0
+to fight drugs	3	3	1
+to block bid	3	3	1
+to reduce delays	3	3	1
+to cover losses	5	4	1
+to examine issues	2	2	1
+to oust mr.	8	7	2
+to build unit	3	3	0
+to investigate violations	2	2	0
+to link value	2	2	1
+to join program	2	2	2
+to support motion	2	2	2
+to allow government	3	3	2
+to stop expansion	2	2	1
+to attract readers	2	2	1
+to discuss terms	3	3	0
+to restrict investments	2	2	2
+to help candidate	2	2	0
+bring show	2	2	1
+to organize campaign	3	2	0
+to liberalize economy	2	2	0
+to build up supplies	2	2	1
+to involved in talks	2	2	1
+to restrict abortion	3	2	2
+to run ads	3	3	1
+to increase penalties	3	2	2
+to grant request	2	2	1
+to revise law	3	3	2
+to buy parts	3	3	0
+to expand business	3	3	1
+opposing action	4	3	1
+to keep outsiders	2	2	1
+to celebrate decision	2	2	0
+to phase out production	3	2	0
+to aid people	2	2	1
+to enact budget	2	2	0
+to assess effects	3	3	0
+to put mr.	3	3	2
+to land planes	2	2	1
+freezing assets	3	2	3
+to dismantle state	2	2	0
+to hold hearings	7	5	5
+to develop vehicles	3	3	0
+to strengthen force	2	2	0
+to combat scourge	2	2	1
+to run for re-election	3	2	1
+to build reactors	4	4	1
+to increase amount	2	2	2
+to block testimony	2	2	1
+dealing with	2	2	1
+to get product	2	2	0
+to solve shortage	2	2	1
+to do thing	8	7	2
+to negotiate plan	2	2	1
+bring team	3	3	0
+to install machines	2	2	0
+to move raiders	3	3	1
+to take action	53	29	18
+to discuss fears	4	3	2
+to resume flights	3	3	0
+to block benefits	2	2	0
+to lighten burden	3	2	2
+to open up markets	2	2	0
+to curb flow	2	2	1
+to build schools	3	3	2
+to take test	6	6	2
+to obtain addresses	2	2	1
+to give jobs	2	2	0
+to create image	2	2	0
+to make cuts	7	7	3
+giving rise	2	2	2
+to renovate apartment	3	3	0
+to keep families	2	2	0
+to move to center	2	2	0
+to thwart plan	2	2	1
+to include minorities	2	2	0
+covering people	2	2	1
+to harm mr.	2	2	1
+to provide money	10	10	3
+to protect kids	2	2	0
+to revisit issue	2	2	2
+to protect woodpecker	2	2	0
+to find homes	3	2	2
+extending benefits	3	3	2
+to lease building	3	3	2
+to improve businesses	2	2	1
+to sell oil	2	2	0
+to strengthen collection	2	2	0
+to manage system	3	3	2
+to sell service	6	6	2
+to streamline process	8	8	5
+to review all	4	3	3
+to provide help	6	6	2
+to negotiate agreement	3	3	1
+to help money	2	2	0
+to publish edition	2	2	1
+to get in way	3	3	0
+to find resolution	4	4	0
+to discredit mr.	3	3	1
+to push through legislation	2	2	1
+to erect memorial	2	2	1
+to end years	8	6	2
+to protect palestinians	5	2	1
+saying group	3	3	2
+to win in seconds	2	2	0
+to think about that	4	3	0
+to restore program	2	2	0
+to replace penitentiary	2	2	1
+to support workers	2	2	1
+to allay some	2	2	0
+to pay for all	2	2	1
+to straighten out mess	2	2	0
+to adopt approach	3	3	0
+to have opportunity	3	3	2
+saying law	2	2	1
+to qualify for ballot	2	2	1
+to acquire weapons	2	2	0
+to increase power	2	2	0
+to change decision	2	2	1
+to send in troops	2	2	2
+to protect producers	2	2	0
+to build incinerators	4	4	3
+to deal with rebels	2	2	1
+to break record	3	3	0
+to hold spending	2	2	1
+to support government	2	2	0
+to reject application	2	2	1
+accusing forces	2	2	1
+to remove executives	2	2	0
+to protect residents	5	4	2
+to visit israel	3	2	1
+to pay for cut	3	3	0
+to support demands	2	2	1
+to make fortune	2	2	1
+to raise offer	2	2	1
+to save career	2	2	0
+to buy debt	2	2	1
+to answer question	8	8	1
+to get way	5	4	1
+to broaden base	5	3	1
+to produce runs	2	2	0
+to finance campaign	6	4	2
+to make amends	5	5	2
+to motivate workers	2	2	1
+to develop program	7	7	2
+to distribute money	2	2	0
+to make game	3	3	0
+to protect nation	4	2	1
+to get land	2	2	0
+to help rebels	4	3	2
+to build on pact	2	2	0
+to treat patients	2	2	1
+to arrest militants	2	2	0
+to eliminate possibility	2	2	0
+to avoid prosecution	4	4	0
+to lead children	2	2	1
+to discuss conclusions	2	2	0
+to stay for years	2	2	0
+to deal with this	2	2	0
+bringing number	2	2	1
+to reform program	2	2	0
+to stay in business	6	5	1
+to prevent inauguration	2	2	0
+to get under skin	4	3	3
+to soften impact	4	4	2
+to assure congress	2	2	1
+leaving room	2	2	1
+to stop primary	2	2	1
+to show games	2	2	0
+to create government	3	3	0
+to revitalize economy	3	2	0
+to establish relations	4	4	0
+to carry out program	2	2	1
+to pass measures	2	2	1
+to assure that	3	3	0
+expressing belief	3	3	0
+to hold hearing	6	5	3
+to clear name	5	5	0
+to settle disputes	6	4	1
+breaking record	2	2	0
+to establish unit	2	2	1
+to repeal laws	4	4	1
+to pay with money	2	2	0
+to help citizens	2	2	2
+to stop violence	12	8	1
+to suspend operations	5	4	1
+to help campaign	2	2	0
+to test some	2	2	0
+to reach accord	6	5	1
+to stop police	2	2	2
+to prevent government	3	3	1
+to form team	2	2	0
+to borrow money	6	6	4
+to challenge plan	3	3	1
+to open office	5	3	2
+to enact law	4	4	2
+bring stability	2	2	0
+to make story	3	3	0
+to help city	7	5	3
+to lure yankees	3	2	0
+to integrate schools	3	2	0
+to get cars	3	2	1
+to improve things	4	4	0
+to dampen speculation	3	2	2
+voicing concerns	3	3	2
+throwing innings	2	2	0
+to sell businesses	2	2	0
+to stop the	2	2	1
+gaining support	2	2	1
+to repeal some	2	2	1
+to examine handling	2	2	1
+to motivate employees	2	2	0
+requiring company	2	2	0
+bring books	2	2	0
+requiring city	3	2	1
+to examine range	2	2	1
+to pass act	2	2	0
+to face penalties	2	2	0
+to increase pressure	7	6	2
+to block attempt	3	3	1
+to offer benefits	3	3	0
+to remove material	2	2	1
+to prevent fraud	4	3	2
+to come up with suggestions	2	2	1
+to hold mr.	2	2	0
+to produce alternative	2	2	2
+to reduce weapons	3	3	0
+to settle claims	9	8	3
+ending period	3	2	2
+to expand operations	4	4	2
+to find use	2	2	2
+to justify existence	2	2	1
+to reach out to community	2	2	0
+to resume service	4	2	3
+to end segregation	2	2	0
+to buy oil	2	2	1
+to publish novel	5	3	1
+to sell system	4	2	0
+condemning israel	2	2	1
+to prevent disclosure	2	2	2
+to pick up phone	2	2	0
+to learn language	2	2	1
+to fill void	5	5	1
+to ensure success	2	2	0
+to stop investigation	3	3	3
+to present to council	2	2	2
+to avoid mistakes	2	2	1
+approving request	2	2	0
+to attract capital	2	2	1
+to resolve stalemate	2	2	0
+to control spending	6	4	1
+to limit payments	2	2	1
+to end conflict	4	3	3
+to set example	3	3	0
+to prepare for strikes	3	2	1
+to give credit	6	5	1
+to build shelters	5	5	2
+to consider case	3	2	2
+to exert control	3	3	3
+to stop spread	4	3	1
+to change formula	3	3	1
+to limit authority	2	2	2
+to meet mr.	2	2	1
+to get job	9	7	2
+to start project	3	3	2
+requiring installation	2	2	2
+reducing contributions	2	2	1
+to prevent police	2	2	1
+to promote settlement	2	2	1
+to save more	3	3	0
+to attract subscribers	2	2	0
+to ease opposition	2	2	1
+to make living	8	8	2
+to discuss crisis	2	2	0
+to make move	2	2	0
+to acquire interest	3	2	0
+bring order	3	3	2
+to negotiate settlement	11	8	4
+leaving city	5	5	3
+to endorse mr.	5	3	1
+to take courses	2	2	0
+to build networks	4	4	0
+to keep jobs	3	3	1
+asking for money	2	2	0
+to protect confidentiality	5	4	2
+to serve customers	5	5	2
+to get fans	2	2	0
+to send workers	3	3	1
+to get car	2	2	0
+to stop abuses	5	5	1
+to recover losses	2	2	0
+to get financing	2	2	1
+to defeat legislation	4	4	1
+to vote on bill	4	4	0
+to reduce prices	4	4	2
+to sit on bench	2	2	0
+to make concessions	18	9	2
+to increase sale	2	2	2
+to keep money	13	9	5
+to increase representation	2	2	1
+to help costs	3	3	0
+to switch status	2	2	0
+to kill program	2	2	1
+to dismantle apartheid	3	3	0
+to have ban	2	2	1
+to solve crime	4	3	1
+to stanch flow	4	4	1
+to stop raids	2	2	1
+to invest amount	2	2	1
+to develop housing	3	2	1
+describing plan	3	3	0
+to run for president	6	4	2
+to investigate corruption	3	2	1
+accusing of mismanagement	2	2	1
+to improve infrastructure	2	2	0
+to channel money	2	2	1
+to get home	5	4	0
+to give side	2	2	0
+to provide protection	2	2	2
+to appeal rulings	2	2	0
+to protect homeland	2	2	0
+bring down costs	2	2	0
+to keep name	2	2	0
+to win votes	5	5	3
+to win passage	4	4	2
+to complete plans	2	2	0
+limiting amount	3	2	2
+to establish formula	2	2	2
+to reduce surplus	8	7	1
+to improve condition	3	3	0
+to live in world	2	2	0
+to break silence	3	3	0
+to minimize damage	2	2	1
+to regain credibility	2	2	0
+to disarm iraq	2	2	0
+to review lawsuit	2	2	0
+declaring war	5	2	2
+to eliminate tariffs	2	2	1
+saving $	3	3	0
+to find mr.	3	3	1
+to coordinate program	2	2	1
+to overcome resistance	3	3	1
+to take measures	8	6	5
+to remedy that	3	3	0
+to get points	2	2	0
+to cast net	2	2	1
+to sell half	2	2	1
+bring end	3	3	0
+to get treatment	4	3	0
+to achieve $	2	2	0
+to allow group	3	3	2
+to redraw districts	2	2	1
+calling on soldiers	2	2	2
+to find cuts	2	2	1
+to increase benefits	3	3	2
+to see friends	3	2	1
+to keep down rates	2	2	0
+requiring government	4	3	2
+to improve market	2	2	0
+to secure rights	5	4	1
+to redevelop site	2	2	1
+to prevent invasion	2	2	0
+to pass version	3	3	2
+to accommodate people	3	3	0
+to convince investors	3	3	0
+to discuss strategy	2	2	1
+to reduce flow	3	3	2
+to support increase	2	2	2
+to limit number	3	3	2
+to open bureaus	3	2	2
+to play in bowl	2	2	0
+to apply pressure	2	2	0
+to get mr.	4	3	0
+to prevent return	3	3	1
+to prevent accidents	2	2	0
+to refinance debts	2	2	0
+to improve coverage	2	2	1
+to work on things	3	2	0
+to help homeless	2	2	1
+to earmark $	2	2	2
+to lower barriers	2	2	0
+to find audiences	2	2	0
+to negotiate contracts	3	3	1
+to get concessions	2	2	1
+to stop leaks	5	5	2
+allowing government	2	2	1
+to improve coordination	2	2	1
+to restructure $	4	2	2
+ending breaks	2	2	2
+to feed children	3	3	1
+to adopt proposal	3	3	1
+to relieve congestion	5	4	3
+to strengthen hand	5	5	3
+to avoid detection	3	3	0
+to change habits	3	3	2
+to complete deal	2	2	0
+to meet requirement	3	3	1
+to get process	2	2	0
+to buy back some	2	2	0
+to overcome legacy	4	3	0
+to stop crime	3	3	1
+to schedule hearing	5	4	1
+to reduce services	2	2	1
+to review information	3	3	2
+to extend stay	2	2	1
+to help jews	2	2	0
+supporting appeal	4	2	2
+to announce decision	3	2	1
+to seek agreement	3	3	1
+to collect rest	2	2	0
+to ease problems	5	4	2
+to correct situation	4	4	0
+to reduce deficits	4	4	0
+to show respect	5	3	0
+to adopt system	2	2	1
+to stop execution	2	2	0
+to explore for oil	3	3	1
+to resolve differences	8	6	2
+to dismiss case	9	3	5
+to convert jews	2	2	0
+to finance operations	2	2	1
+to kill civilians	2	2	2
+to produce shows	7	5	0
+to clarify law	3	3	2
+to mount attack	2	2	1
+to define rights	5	5	4
+to invest part	2	2	0
+bring change	2	2	1
+to consider options	2	2	0
+to end decades	3	2	2
+to fulfill promise	4	3	2
+charging violation	3	2	1
+to erode loyalty	2	2	0
+approving measure	3	2	1
+to protect soldiers	2	2	1
+seeking dismissal	3	2	1
+to complete work	4	4	3
+to get deal	4	4	1
+to cancel contract	2	2	0
+to halt demolition	2	2	0
+to provide transportation	2	2	0
+to turn around fortunes	2	2	1
+to stop shipments	8	6	5
+to satisfy customers	2	2	0
+to capture market	3	3	1
+to publish newspaper	2	2	0
+to review system	2	2	1
+to comply with rules	5	5	2
+to help area	2	2	1
+to ensure security	3	3	2
+raising limit	5	2	2
+allowing access	3	3	3
+to develop movies	2	2	0
+to address imbalance	2	2	0
+to inject competition	2	2	1
+to use power	4	4	1
+to help care	5	3	3
+to get votes	5	4	1
+to come up with agreement	3	3	1
+to defend decision	2	2	1
+to prevent criminals	2	2	1
+to resolve case	5	5	1
+to take job	5	5	3
+to defend dollar	2	2	1
+to hold onto share	2	2	0
+to provide updates	2	2	0
+to halt momentum	3	3	0
+to promote programs	4	4	0
+to provide compensation	2	2	1
+to sell house	3	2	1
+to preserve project	3	2	1
+to help businesses	5	4	0
+to help officials	2	2	0
+to defend law	4	3	2
+to lift confidence	3	2	1
+to keep budget	3	3	2
+to organize resistance	2	2	1
+to attract members	2	2	0
+to make lot	3	3	0
+to disarm fighters	2	2	1
+to communicate message	3	2	0
+to operate service	4	4	2
+to reduce staff	3	3	0
+to improve procedures	2	2	0
+to block development	3	3	3
+to remove children	2	2	1
+to review plans	2	2	2
+to express outrage	2	2	2
+to save world	2	2	0
+to reach decision	3	3	0
+to cover expenses	7	4	4
+to promote study	3	2	2
+to improve line	2	2	0
+to court vote	2	2	0
+to develop software	2	2	2
+to pump $	5	2	2
+to return works	2	2	0
+to provide customers	2	2	1
+to win deals	3	2	0
+to support plan	6	5	2
+telling colleagues	2	2	0
+to modify law	3	3	1
+to build coalition	2	2	0
+to earn will	2	2	1
+to read books	3	2	0
+to work out agreement	2	2	0
+putting end	3	3	1
+to have lot	2	2	0
+to take money	4	4	1
+to file case	3	3	0
+to pay for services	7	5	0
+to go to war	6	5	3
+to vote with president	2	2	1
+to catch breath	4	3	1
+to reduce tax	3	2	2
+to connect with people	2	2	0
+to take interest	2	2	0
+raising fears	2	2	0
+to begin talks	6	6	3
+to hold auction	4	3	3
+to shed light	2	2	0
+to rent space	3	3	2
+to devise system	2	2	0
+asking leaders	3	2	2
+to prevent injuries	2	2	1
+to stop exploitation	3	2	2
+to start operations	2	2	1
+to put system	3	3	0
+to stem spread	3	3	0
+to buy redskins	2	2	1
+to ease pressure	2	2	1
+to do damage	3	3	1
+to find cure	5	3	0
+to authorize $	6	4	3
+to settle cases	4	2	1
+to buy equipment	6	5	0
+to obtain information	4	4	1
+to advance negotiations	3	3	2
+to control crowd	2	2	1
+to make argument	2	2	1
+to investigate claims	2	2	1
+to raise consciousness	2	2	1
+to open doors	4	4	0
+to eliminate threat	3	2	1
+to seen as lawmaker	4	2	1
+to build trust	3	3	0
+to double number	3	2	2
+to improve systems	2	2	0
+to integrate women	2	2	1
+condemning rankings	2	2	1
+to overturn regulations	2	2	1
+to provide benefits	16	9	7
+to satisfy desire	2	2	0
+to find housing	3	3	2
+to build houses	5	5	0
+to add officers	5	4	2
+to hold down spending	2	2	0
+to close loophole	3	3	0
+to prevent spread	8	6	1
+to obtain money	3	3	1
+to handle work	2	2	1
+to meet with officials	3	2	0
+to prepare response	2	2	1
+to run for advocate	2	2	0
+to acquire up to percent	2	2	0
+to review case	5	5	2
+to put together team	2	2	1
+to overturn rule	3	3	0
+to produce budget	2	2	1
+to enter plea	2	2	0
+to keep under control	2	2	1
+outlining vision	2	2	1
+to cut deal	2	2	2
+to stop flow	5	5	0
+granting amnesty	4	4	2
+to buy stocks	5	4	0
+to reduce exposure	7	4	2
+to improve caliber	2	2	0
+to reverse decline	5	5	1
+to evade law	3	2	0
+revamping system	2	2	1
+to pay fees	2	2	2
+expressing his	3	2	1
+to compel state	2	2	1
+to protect acres	3	3	2
+to require disclosure	3	3	1
+to buy headquarters	2	2	0
+to lift moratorium	2	2	2
+to depict mr.	2	2	1
+to reduce service	3	3	2
+to pay for defense	2	2	0
+to drive forces	3	2	1
+to withdraw from life	3	2	0
+to cut deals	2	2	0
+to expand activities	2	2	1
+to eliminate taxes	2	2	1
+to prevent transmission	5	4	1
+to do more	28	15	6
+to stretch dollars	2	2	1
+to halt payments	2	2	1
+to negotiate terms	2	2	0
+to offset some	5	5	1
+opposing change	2	2	1
+to accommodate request	3	3	0
+to play in spain	2	2	2
+making case	3	3	2
+to keep issue	3	2	3
+to get more	5	3	2
+to turn tide	2	2	1
+to adapt to technology	2	2	1
+bring sides	2	2	1
+to discuss agency	2	2	0
+to pay way	3	3	1
+to raise capital	6	5	2
+to have restrictions	2	2	1
+to exhume bodies	3	2	1
+to hold down wages	2	2	1
+to see mr.	2	2	0
+to take hand	3	2	1
+to meet concerns	2	2	1
+to prevent company	2	2	1
+keeping track	2	2	1
+to eliminate sources	2	2	0
+to limit spread	2	2	1
+to reduce smoking	2	2	1
+to seal documents	2	2	2
+to produce results	8	6	3
+to do part	2	2	0
+to grant contract	2	2	0
+to end standoff	4	4	1
+to stage show	2	2	0
+to receive endorsement	2	2	0
+to set aside $	3	2	1
+to affect economy	2	2	0
+to keep promise	3	3	0
+to provoke attack	2	2	1
+accusing homes	2	2	0
+to ease regulations	2	2	2
+to seek $	2	2	2
+requiring banks	2	2	2
+to restore checks	2	2	2
+to endure weather	2	2	1
+to stir passions	2	2	0
+to deal with hazards	2	2	1
+to pay for war	2	2	1
+to have provision	2	2	1
+accusing agency	3	3	1
+to force people	3	3	0
+to sell f-16	2	2	2
+creating court	4	2	2
+to explain decision	2	2	1
+to emigrate from union	2	2	0
+to run program	4	4	4
+to shift resources	2	2	1
+to get time	2	2	0
+to develop fields	7	4	3
+to come up with proposal	3	3	1
+to open restaurant	5	4	1
+to encourage development	7	5	1
+saying business	2	2	1
+to explore alternatives	2	2	0
+to plug holes	3	3	0
+to debate issue	2	2	1
+to seek reinstatement	3	2	0
+to increase recycling	2	2	1
+to alert authorities	2	2	0
+to impose limits	3	3	1
+to provide aid	10	9	4
+to prevent flooding	2	2	2
+to dispel impression	4	3	1
+to protect treasures	2	2	0
+to increase height	2	2	1
+bring down government	4	4	2
+to boost president	2	2	0
+to expand offices	2	2	1
+to capitalize on success	2	2	1
+to reduce transmission	2	2	0
+to drop investigations	2	2	1
+to get attention	8	8	4
+to assume role	4	3	3
+to develop systems	3	3	1
+to give control	8	8	3
+to ease crowding	2	2	0
+to acquire communications	5	4	1
+to begin drilling	2	2	1
+to deal with threat	3	3	1
+to sell hospital	2	2	1
+to solve case	4	3	1
+to come up with evidence	2	2	1
+to prevent event	3	2	3
+to defend name	2	2	1
+to ensure survival	2	2	0
+to unveil plan	2	2	0
+to persuade jury	2	2	1
+to achieve results	3	3	1
+to review standards	2	2	2
+to respond to allegations	2	2	0
+supporting plan	5	4	4
+to keep family	3	2	0
+to develop field	2	2	1
+to enter negotiations	4	4	0
+to improve product	4	3	0
+to overhaul care	2	2	0
+to make numbers	2	2	0
+to think time	2	2	0
+to negotiate deals	2	2	1
+to import gas	2	2	1
+to raise profile	4	4	2
+to announce plan	3	2	2
+to allow testing	2	2	0
+to jeopardize safety	2	2	1
+to get service	2	2	1
+to get around rules	2	2	1
+to clean up air	4	3	1
+to pass plan	3	2	1
+to live life	3	2	0
+to give status	3	3	1
+to improve programs	3	3	0
+bring to justice	2	2	0
+to hold match	2	2	1
+to report news	2	2	1
+to consider offer	3	3	1
+to offend russians	2	2	1
+to join nations	2	2	1
+to send peacekeepers	2	2	1
+to move bill	2	2	0
+to market services	2	2	1
+to control situation	3	3	1
+denying impropriety	2	2	1
+to cure ills	2	2	1
+to build museum	10	7	2
+to stabilize rates	3	3	1
+to buy rest	2	2	1
+to let people	2	2	2
+to discuss future	5	5	2
+to create version	3	3	1
+to set fire	3	3	0
+to stop process	3	3	2
+to protect players	2	2	0
+to withstand strike	2	2	0
+to provide service	14	13	2
+to fight racism	3	2	1
+to consider changes	3	3	0
+to reach self-sufficiency	2	2	2
+to modernize system	2	2	0
+to create agency	5	4	3
+resolving differences	3	2	2
+to build track	3	3	1
+extending condolences	2	2	0
+to serve students	2	2	0
+to stop use	2	2	1
+to build ones	5	4	1
+to create court	3	3	3
+to respond to rumor	2	2	1
+to combat disease	3	3	2
+to stimulate sales	3	3	1
+to allow investors	2	2	0
+to get approval	6	5	1
+to combat problem	5	5	2
+giving details	2	2	0
+to study issues	3	2	1
+to bail out city	2	2	1
+outlining benefits	2	2	1
+to reduce expenses	7	6	1
+to start from scratch	3	3	1
+to mediate end	3	3	2
+to evict men	3	2	2
+to retain power	5	4	1
+to attract investors	2	2	0
+to give lawyers	2	2	1
+seeking redress	2	2	0
+to recognize contributions	2	2	1
+to keep information	3	2	1
+to buy hotel	2	2	1
+to reduce influence	2	2	1
+to address causes	2	2	0
+to retain most	2	2	1
+to study ruling	4	2	2
+to sell merchandise	2	2	0
+to plan response	2	2	1
+raising wage	3	2	1
+to earn money	6	5	2
+to overhaul insurance	2	2	1
+to build recognition	2	2	0
+to increase value	6	5	1
+to use influence	2	2	1
+to read newspaper	2	2	1
+to take position	2	2	0
+to veto resolution	2	2	2
+to pass package	4	4	2
+to look after interests	2	2	0
+to find company	2	2	0
+to destabilize government	5	5	0
+guaranteeing access	3	3	2
+to give back something	3	2	1
+to create a	2	2	0
+to get glimpse	2	2	0
+to pay for food	3	2	2
+to offer fares	2	2	2
+authorizing committee	2	2	0
+to end dispute	6	5	3
+to buy power	3	3	1
+to overturn rejection	2	2	0
+to change view	4	2	2
+to keep nations	2	2	2
+expressing horror	2	2	0
+to take line	8	6	2
+to buy producer	2	2	2
+to break ties	2	2	0
+to damage president	2	2	0
+to repeal provision	3	2	0
+to meet objections	2	2	2
+to stop trafficking	5	3	1
+to build loyalty	2	2	1
+to pay money	2	2	0
+bring system	2	2	0
+to provoke mr.	2	2	2
+to provide system	4	4	2
+to contain costs	5	5	2
+to capture leader	2	2	1
+to ease policy	5	3	1
+to make weapons	2	2	0
+to stop smuggling	4	4	2
+to revamp way	2	2	0
+to ask for wages	2	2	0
+leaving mets	2	2	1
+to clean up harbor	2	2	1
+to protect health	4	4	1
+to buy entertainment	2	2	0
+to meet threat	2	2	0
+to combat abuse	2	2	1
+to restore stability	2	2	2
+to revise system	2	2	1
+to give up power	3	2	0
+to stop project	9	9	2
+to make gesture	6	6	1
+to recover assets	2	2	0
+to reduce levels	5	5	1
+to market drug	5	4	3
+to improve program	4	4	1
+to begin negotiations	5	4	1
+to undertake study	2	2	0
+granting status	3	3	2
+to create channel	2	2	0
+to obtain license	2	2	1
+to shed image	3	3	1
+barring police	2	2	1
+to stop plant	2	2	1
+to eliminate courses	2	2	1
+to take risk	2	2	0
+to seek seat	2	2	0
+to deal with problems	18	14	8
+to build course	2	2	1
+to release letter	3	2	0
+to go on strike	3	2	0
+to withdraw $	2	2	1
+to speak minds	2	2	1
+to improve solvency	2	2	1
+to produce special	2	2	0
+to protect investment	3	2	0
+to get exemption	2	2	1
+to skirt law	2	2	2
+to win back job	2	2	0
+to dismiss lawsuits	4	3	1
+to stay in east	2	2	1
+to charge $	4	4	1
+to hold own	2	2	0
+to integrate russians	2	2	1
+to negotiate prices	3	2	2
+to promote awareness	4	4	0
+to start half	2	2	0
+to put children	4	3	1
+to limit weapons	2	2	1
+to strike down law	2	2	1
+to keep company	2	2	0
+to paid for	2	2	0
+to discuss aspects	3	3	0
+to practice skills	2	2	0
+to write script	2	2	0
+offering instead	2	2	1
+to block legislation	6	5	2
+to protect water	2	2	0
+to prepare for season	2	2	0
+to reduce consumption	2	2	0
+to train workers	4	4	2
+to hire teachers	7	6	1
+to investigate complaints	3	3	1
+to halt cleansing	2	2	0
+to reduce strength	2	2	0
+to make people	3	3	0
+to spend billions	2	2	1
+to require budget	2	2	1
+to sell more	2	2	1
+to get that	3	2	0
+to improve rate	2	2	2
+to seal border	4	4	0
+to set tone	6	4	2
+to engage in dialogue	3	3	2
+to set aside verdict	4	3	3
+to embrace plan	2	2	1
+to correct violation	2	2	0
+to read report	6	2	1
+to send observers	2	2	0
+to prevent exchange	3	2	1
+requesting meeting	5	3	2
+to urge government	2	2	1
+to keep plant	2	2	0
+to serve public	2	2	0
+to provide rebels	2	2	1
+to offer support	2	2	0
+to jeopardize that	4	2	0
+to put to rest	3	2	0
+to close cases	2	2	0
+to build party	2	2	0
+to push agenda	2	2	0
+denying report	3	2	1
+to clean up mess	2	2	0
+to please father	2	2	0
+to find buyers	3	3	1
+to give briefings	2	2	0
+to restore credibility	2	2	1
+to obtain status	2	2	0
+to earn $	5	2	1
+to enforce laws	10	9	2
+to present side	3	2	0
+to allocate funds	2	2	0
+to build dormitory	2	2	1
+to help victims	9	7	2
+to avoid repeat	4	3	1
+to merge many	2	2	2
+to stall process	2	2	0
+to present views	4	2	2
+charging with crimes	2	2	1
+to change minds	7	7	3
+to stop parody	2	2	1
+influencing debate	2	2	0
+to apply technology	2	2	1
+to turn image	2	2	0
+to win approval	22	16	5
+to hear arguments	3	3	1
+to win back control	2	2	0
+to wait time	2	2	0
+to have records	2	2	0
+to ease rates	3	3	0
+to stop genocide	5	4	1
+to buy oats	2	2	0
+to streamline government	2	2	0
+to regulate emissions	4	3	2
+to renew pledge	2	2	1
+to review data	2	2	1
+to deal with that	3	3	1
+to reconcile differences	2	2	0
+announcing arrests	2	2	1
+to agree to cease-fire	2	2	0
+bring gas	2	2	1
+to take cash	2	2	0
+to cooperate with washington	2	2	1
+to put on shoes	3	2	1
+to stop thugs	3	2	2
+to strengthen enforcement	6	4	3
+requiring disclosure	2	2	0
+ending months	3	3	1
+to prevent service	2	2	1
+to preserve law	2	2	0
+to begin investigation	3	3	1
+to buy homes	2	2	2
+expressing its	3	2	3
+to conduct experiments	2	2	0
+to win seat	8	5	1
+to get out message	5	5	0
+to ease fears	5	3	1
+to close stores	2	2	1
+to fight fires	2	2	1
+to establish headquarters	2	2	2
+to leave kuwait	2	2	1
+to overthrow hussein	2	2	0
+seeking clarification	4	2	1
+to block use	4	3	1
+to consider issues	3	3	1
+to support process	2	2	1
+defending actions	4	2	1
+to prove case	2	2	0
+to buy rights	6	5	2
+bring level	2	2	1
+getting attention	4	3	1
+to offer resolution	2	2	0
+to develop programs	3	3	0
+to deliver care	4	4	1
+to prepare report	3	3	1
+to improve finances	3	2	0
+creating system	2	2	1
+to begin with	3	3	1
+to investigate allegations	7	6	4
+to prevent cuts	2	2	2
+to produce food	2	2	0
+to buy uranium	3	3	3
+to buy site	6	6	1
+to improve ability	3	3	1
+to have brother	2	2	0
+to reduce dependence	8	7	2
+to back off plan	2	2	0
+to give exposure	2	2	0
+to support families	2	2	0
+to loosen rules	2	2	1
+to create park	3	3	1
+condemning massacre	2	2	2
+to show results	8	5	3
+to discuss shooting	2	2	1
+to reassure nations	2	2	1
+to come to states	3	3	0
+to prepare food	2	2	0
+breaking logjam	3	3	1
+to hurt chances	2	2	0
+to help market	3	2	1
+ending dispute	7	4	3
+to turn company	2	2	0
+to answer calls	2	2	1
+to protect interests	16	12	5
+limiting number	2	2	1
+to set aside order	2	2	2
+to extend powers	2	2	1
+to win war	2	2	0
+to differentiate offerings	2	2	0
+to renounce violence	2	2	1
+to open house	3	3	0
+to coordinate aid	2	2	0
+to build palace	2	2	0
+to lure visitors	3	3	1
+to prevent deaths	5	4	3
+to choose a	2	2	1
+to make trade	2	2	0
+to delay hearing	2	2	1
+to accept compromise	2	2	0
+to prohibit discrimination	2	2	1
+to maintain institutions	2	2	0
+to do both	2	2	0
+to express displeasure	3	3	1
+to stop bloodshed	2	2	2
+to play season	5	4	0
+to confront problem	2	2	2
+to develop region	2	2	1
+to promote values	4	2	3
+to build church	6	4	2
+to give percent	4	4	1
+to overhaul laws	2	2	2
+to win games	6	6	1
+to upgrade stations	2	2	1
+to examine issue	5	4	1
+to stop business	2	2	0
+bring in workers	4	4	3
+to curb corruption	2	2	0
+to form teams	2	2	0
+to give impression	3	3	1
+to reduce usage	3	2	0
+to reward stockholders	2	2	0
+to make up difference	2	2	0
+to support students	2	2	2
+charging police	2	2	0
+to block effort	2	2	1
+to help airlines	3	2	0
+bring home	2	2	0
+to promote development	3	3	1
+to extradite suspect	3	2	1
+to diversify economy	3	2	1
+to resolve impasse	4	4	0
+to restrict ways	2	2	0
+to work with other	2	2	0
+to merge operations	3	3	1
+to reverse vote	2	2	2
+to sell property	8	5	2
+rejecting demand	2	2	0
+to take $	3	2	1
+to put plan	2	2	1
+to formulate response	2	2	2
+to strengthen economies	2	2	0
+to use material	4	3	1
+to pay fee	2	2	2
+to attend schools	6	4	2
+to defraud government	3	2	1
+expressing worries	2	2	1
+to call for enforcement	2	2	1
+to improve airport	2	2	1
+to allow export	2	2	2
+to upgrade systems	5	4	2
+to compensate owners	3	3	1
+to prevent attacks	11	9	3
+to give mr.	2	2	1
+citing evidence	6	6	2
+to approve $	2	2	1
+to review ruling	9	4	5
+to do evaluation	3	2	1
+to build entrance	2	2	1
+to write memoir	2	2	0
+to step up pace	2	2	2
+to get answers	3	3	1
+to press for action	2	2	2
+to attract companies	3	3	1
+to reimburse state	2	2	2
+to come to grips	3	3	0
+to protect safety	4	4	0
+to acquire land	4	4	3
+to enter into negotiations	2	2	0
+sing america	3	2	0
+providing training	2	2	1
+to get air	2	2	1
+to make look	2	2	2
+to pay interest	2	2	0
+to make place	5	4	1
+to buy advertisements	2	2	1
+to root out fraud	2	2	1
+to build roads	3	3	0
+to prevent repetition	2	2	0
+to restore money	3	3	1
+to add benefits	3	2	2
+to prevent dispute	2	2	2
+to return to city	2	2	1
+to get anything	2	2	0
+to help end	2	2	1
+to use law	2	2	1
+to gut programs	2	2	0
+to show children	2	2	1
+to settle lawsuits	4	3	3
+to tackle issue	3	2	1
+asking for cooperation	2	2	1
+to serve interests	2	2	0
+to rally nation	2	2	1
+to improve skills	2	2	0
+to save parts	2	2	1
+to conduct study	7	5	3
+to played role	2	2	0
+to receive care	2	2	1
+to merge with corporation	4	2	2
+to make expenditures	2	2	1
+to press government	3	3	0
+to restore trust	3	3	0
+to turn things	2	2	0
+placing limits	3	2	2
+to provide details	4	3	0
+to stop firing	2	2	0
+to win title	7	5	1
+to increase standards	2	2	1
+to raise prices	10	9	3
+to control inventories	2	2	1
+to have money	2	2	0
+to give victory	2	2	0
+to get deduction	2	2	1
+to offer concessions	2	2	0
+to invade iraq	2	2	0
+to generate income	5	5	4
+to purchase equipment	3	3	2
+to send children	13	3	1
+to expand airport	2	2	0
+to avoid issues	2	2	1
+to mitigate damage	2	2	0
+to reduce shortfall	2	2	1
+to spend on things	2	2	0
+ending years	5	4	3
+to curb imports	6	3	3
+to pay for costs	2	2	0
+to dispose of garbage	3	3	0
+to impose values	2	2	0
+to seek compromise	3	3	1
+to put finances	3	3	0
+to adhere to rules	2	2	0
+to topple government	7	4	0
+to give protection	3	3	2
+to seize assets	2	2	1
+to consider offers	2	2	0
+to counter terrorism	2	2	1
+to acquire financial	2	2	0
+to meet target	3	2	1
+to watch news	3	2	0
+to clean up act	3	2	0
+to attract investment	2	2	2
+to help others	6	4	0
+to keep promises	2	2	0
+to embarrass organization	2	2	0
+to increase staff	2	2	1
+to redraw map	3	2	1
+to cast ballots	3	2	2
+to sell unit	5	4	1
+to get development	2	2	0
+to raise ceiling	5	4	3
+to encourage growth	5	3	1
+to keep operating	5	3	4
+to expand trade	2	2	0
+to approve loans	2	2	1
+to observe cease-fire	2	2	0
+to build highway	3	2	2
+to increase revenues	7	7	1
+to promote album	2	2	1
+allowing people	5	5	3
+to discuss progress	3	2	0
+to block approval	3	3	1
+to allow time	5	5	2
+to achieve balance	2	2	1
+to regain power	2	2	1
+to teach people	3	3	0
+passing bill	3	3	2
+to break grip	2	2	0
+to return to profitability	5	2	1
+to review filing	2	2	1
+to lower burden	2	2	0
+to allow mr.	3	3	2
+to commit suicide	7	3	0
+to pay dues	2	2	1
+ending struggle	2	2	1
+to bolster programs	2	2	0
+to preserve services	2	2	0
+to collect payments	3	3	0
+to foster relations	2	2	0
+bring power	2	2	1
+to go to school	8	5	3
+to open store	9	4	2
+to keep distance	2	2	2
+to try juveniles	2	2	2
+to host of show	2	2	0
+to build community	3	3	1
+protecting homosexuals	3	2	1
+bring workers	2	2	1
+to throw stones	2	2	1
+to slash spending	4	3	2
+to spread word	3	3	0
+to make offer	2	2	0
+to discuss economy	2	2	1
+to arrest mr.	4	4	2
+to release information	4	4	1
+to limit members	2	2	1
+to withdraw from treaty	2	2	1
+to use internet	4	4	1
+to provide training	5	4	1
+to improve club	2	2	0
+to take property	2	2	1
+to satisfy concerns	2	2	0
+to acquire building	2	2	0
+correcting error	2	2	2
+to build terminal	2	2	1
+to enter fray	2	2	1
+to release hostages	4	2	2
+to undertake campaign	2	2	1
+to support leaders	2	2	1
+to treat cancer	2	2	0
+to change tone	2	2	1
+to increase participation	4	3	2
+to set up system	3	3	2
+to push way	2	2	0
+to get consensus	2	2	0
+to help business	2	2	1
+to contain damage	5	5	3
+to arrange solution	2	2	1
+to end corruption	2	2	1
+to lead team	2	2	0
+to present image	2	2	1
+to review report	7	4	1
+to lend support	2	2	1
+to change opinion	3	2	0
+banning smoking	3	2	3
+to see some	3	2	0
+to improve way	2	2	0
+to conduct inquiry	3	3	1
+to reduce gases	4	4	0
+to deliver message	7	5	0
+to ban practice	2	2	2
+to live up to standard	2	2	1
+to improve chances	4	3	1
+to achieve goal	6	6	2
+to make disclosures	2	2	1
+to participate in plan	2	2	2
+to maintain arsenal	2	2	0
+to establish fund	5	4	4
+to promote views	2	2	0
+to impose fines	2	2	2
+to win primary	7	4	0
+to call session	2	2	2
+to tell story	14	12	1
+claiming discrimination	3	3	0
+to develop computer	3	2	1
+to arrive at cease-fire	2	2	1
+to consider future	2	2	1
+to challenge in court	2	2	0
+to make call	6	4	0
+to tighten security	10	7	3
+to announce results	5	2	1
+to file lawsuit	5	5	3
+to expand mission	2	2	0
+to manage fund	2	2	1
+renting apartments	2	2	0
+to raise lot	2	2	1
+to soften blow	5	5	1
+to address areas	3	3	1
+to continue operations	3	2	2
+to sell version	5	5	0
+to turn back clock	2	2	0
+killing civilians	2	2	0
+to make issue	2	2	0
+to restart negotiations	2	2	1
+to change quo	4	3	0
+to establish corporation	2	2	2
+to sign pact	2	2	0
+to require companies	2	2	1
+to release oil	5	3	1
+to keep out aliens	3	3	1
+to impose $	5	3	5
+to mount production	2	2	0
+to re policy	2	2	1
+to avert shutdown	2	2	0
+to ease burdens	2	2	0
+to add slips	2	2	1
+to lower costs	3	2	0
+to begin campaign	7	5	2
+to build prisons	4	4	2
+to take over corporation	4	3	1
+to drill for oil	4	4	1
+to pump sand	2	2	1
+to reach audiences	3	3	1
+to force return	2	2	1
+to get right	3	3	1
+to push through changes	2	2	2
+to change this	3	2	2
+saying thing	2	2	0
+to expand cooperation	2	2	1
+to stop production	2	2	0
+to rehabilitate building	2	2	1
+extending authority	3	2	2
+to alter flow	2	2	0
+to light fire	2	2	0
+to proceed with sale	2	2	1
+to establish endowment	2	2	1
+to supply parts	2	2	0
+to start label	2	2	1
+to win term	2	2	1
+calling decision	2	2	1
+to reduce liability	3	3	1
+to build projects	3	2	0
+to ask administration	3	2	1
+to restore relations	3	2	0
+to check accuracy	2	2	1
+to sign accord	2	2	0
+to disclose details	3	3	1
+granting right	3	3	1
+to protect students	3	3	1
+to donate organs	2	2	0
+calling effort	2	2	1
+to devalue currencies	3	3	1
+to reverse effects	2	2	1
+to strike bargain	2	2	0
+to keep up pressure	4	3	1
+allowing schools	2	2	2
+to assume responsibility	3	3	1
+to expedite process	2	2	1
+praising bush	2	2	1
+to keep high	2	2	1
+to determine facts	2	2	0
+to develop vaccine	4	3	1
+to forge coalition	2	2	2
+bring action	2	2	1
+to avoid takeover	2	2	0
+to intensify efforts	2	2	0
+to make acquisitions	4	4	1
+to make judgments	3	3	3
+to comply with accord	3	2	1
+to claim credit	2	2	1
+to play golf	6	4	0
+to provide children	3	3	1
+to slash deficit	2	2	0
+to restore peace	4	4	1
+to do kind	3	3	2
+to prevent use	11	8	2
+to avoid controversy	2	2	1
+supporting agreement	3	2	2
+to file plan	6	4	2
+to issue $	4	3	3
+to send signal	3	3	1
+to gain advantage	5	5	2
+to prepare for meeting	2	2	0
+saying members	2	2	1
+to draw people	2	2	1
+to block transmission	3	2	1
+to prevent exodus	2	2	0
+to eliminate payments	2	2	0
+to achieve peace	2	2	0
+to follow in footsteps	2	2	0
+to bolster confidence	2	2	1
+to enforce subpoenas	3	3	1
+hitting shots	2	2	1
+to make plans	3	3	2
+to resolve situation	5	5	2
+to prohibit government	2	2	0
+to obtain samples	2	2	2
+to take custody	2	2	2
+to make film	3	3	1
+to create perception	2	2	1
+to stimulate growth	19	12	3
+to remove radium	2	2	0
+clearing name	2	2	0
+denying responsibility	3	2	0
+to stop israel	3	3	1
+to reduce payments	3	2	0
+to say yes	2	2	0
+calling for investigation	4	3	3
+to unionize thousands	2	2	2
+to compensate victims	5	4	3
+to defend title	3	2	0
+to expand use	2	2	2
+to make cars	2	2	0
+to block extension	2	2	0
+to achieve success	2	2	1
+to take stance	3	2	0
+to make plays	4	3	0
+to prevent problems	4	3	0
+to vote republican	2	2	2
+to investigate matter	3	3	2
+to join in settlement	2	2	1
+to ask questions	4	3	1
+banning procedure	4	4	2
+to correct that	3	2	0
+to settle battle	3	2	3
+to stop law	2	2	2
+to contribute to fund	2	2	0
+to sell share	2	2	2
+to make change	6	5	2
+to lay claim	2	2	0
+to approve cuts	2	2	0
+to build hotel	11	5	1
+to help government	4	3	0
+to have women	2	2	0
+to prevent money	3	2	1
+to send delegation	2	2	0
+to prevent failure	2	2	0
+to ease plight	3	2	1
+supporting policies	2	2	1
+to correct abuses	2	2	0
+to run operations	3	3	2
+to punish those	2	2	2
+to attend connecticut	2	2	0
+to develop proposals	2	2	1
+to make food	2	2	0
+to deal with kinds	2	2	1
+to review procedures	4	3	1
+to harm civilians	2	2	0
+to respond to attack	3	2	1
+to impose standards	3	2	2
+to create businesses	2	2	2
+to buy acres	6	6	4
+to place limits	3	2	2
+raising allegations	2	2	0
+to phase out regulations	2	2	2
+to coordinate efforts	6	5	3
+to pay for program	2	2	0
+to get off team	2	2	1
+to get matter	2	2	1
+to respond to that	2	2	0
+to provide examinations	2	2	0
+to reduce potential	2	2	0
+to purchase securities	2	2	0
+to criticize report	2	2	0
+to establish corridors	2	2	1
+to increase profits	3	3	1
+to prevent disaster	2	2	0
+to raise output	3	3	1
+to block airlines	2	2	2
+to prevent beatings	2	2	0
+to finance care	5	4	3
+to show people	3	3	0
+to open land	2	2	0
+to seek approval	3	2	0
+to sweeten bid	2	2	0
+to compel disclosure	2	2	0
+to get out vote	3	3	2
+banning discrimination	4	4	3
+to spend up to $	2	2	1
+to support children	2	2	1
+to provide care	8	7	5
+to find ways	15	12	5
+to approve grant	2	2	0
+to stop trade	2	2	2
+to give advice	3	3	1
+to grant rights	2	2	0
+bring balance	3	2	0
+to make contributions	2	2	1
+to withhold payments	3	2	1
+to establish credibility	3	3	0
+to reach cease-fire	2	2	1
+to upgrade system	5	5	2
+to block sales	2	2	1
+to spend days	3	3	1
+to restrict use	7	6	3
+to build facilities	2	2	1
+to build school	13	11	4
+to build apartments	9	7	3
+to protect turtles	2	2	1
+to portray as man	2	2	0
+to take risks	3	3	0
+to save house	3	3	0
+to keep off hands	2	2	0
+to attend meeting	6	2	2
+to reassure mr.	2	2	1
+to market product	2	2	1
+to curry favor	4	3	3
+to attend ceremonies	3	3	1
+to give life	3	3	1
+to operate casino	3	3	1
+allowing banks	3	2	2
+to spin off business	3	3	2
+to grab spotlight	2	2	1
+to hurt mr.	2	2	1
+to teach children	5	4	1
+requiring period	2	2	1
+to amend agreement	2	2	0
+to focus resources	2	2	0
+to enact legislation	8	5	3
+to give room	2	2	1
+to get house	2	2	0
+to make count	3	2	1
+to explain situation	2	2	1
+to halt spread	3	3	1
+to force cleanup	2	2	1
+to do everything	19	10	0
+giving opportunity	3	2	2
+to set guidelines	2	2	2
+to lift restrictions	3	2	2
+to set up center	4	4	2
+to live lives	2	2	1
+authorizing state	2	2	0
+to get officials	2	2	0
+to make dollars	2	2	0
+to halt fighting	2	2	1
+to resolve issue	19	12	3
+to make run	10	7	2
+to meet with leader	2	2	0
+to restrict access	3	3	1
+to give attention	3	3	0
+to settle war	2	2	2
+contending discrimination	2	2	1
+to regain job	3	3	0
+to denounce idea	2	2	2
+to develop policy	3	3	0
+to respond to threat	4	4	0
+to eliminate gesture	2	2	0
+to increase investment	3	3	1
+to close gaps	3	3	1
+to restart talks	3	3	1
+to begin relations	2	2	0
+to avoid recurrence	2	2	2
+to explore possibility	2	2	0
+to win crown	2	2	0
+to gain support	9	8	4
+to eliminate obstacles	2	2	1
+to test system	2	2	1
+to make claims	3	3	1
+criticizing school	2	2	1
+to increase funding	2	2	1
+to clean up system	4	4	2
+to have things	3	3	0
+to offer reward	2	2	1
+to study effects	3	2	1
+to cut bills	2	2	0
+to spend hours	3	2	2
+to make impact	3	3	0
+to change lives	3	3	2
+to give confidence	3	3	1
+to serve goals	2	2	0
+to protect integrity	2	2	2
+to minimize losses	4	4	1
+to stop company	2	2	1
+to open restaurants	3	2	2
+to accomplish that	6	6	0
+to discuss position	2	2	1
+to allow enforcement	3	2	1
+to discuss incident	2	2	1
+providing funds	2	2	1
+to allow cameras	3	2	1
+to develop record	2	2	0
+to offer aid	2	2	0
+to block publication	5	2	0
+to detract from value	2	2	0
+to cut money	3	3	0
+to carry out policies	3	3	2
+to have season	2	2	0
+to prepare statement	2	2	2
+to create set	2	2	0
+to resume talks	7	7	2
+to build campus	3	3	2
+to build theater	2	2	1
+to relax restrictions	6	5	2
+to work on project	5	4	1
+to protect waters	2	2	0
+to cooperate with states	4	4	1
+to rein in growth	4	4	2
+to adopt resolution	6	4	1
+setting up confrontation	2	2	2
+to hire consultant	2	2	1
+legalizing casinos	2	2	1
+to curb use	8	6	2
+to educate doctors	3	3	1
+opening front	2	2	1
+requesting comment	36	2	13
+to return some	2	2	0
+to beat philadelphia	2	2	0
+to win one	2	2	0
+to spin off division	2	2	2
+to offer coverage	3	2	0
+to unite people	2	2	1
+to hold line	6	6	1
+to make loans	2	2	0
+to sell drug	8	5	1
+to overhaul law	3	3	1
+to make voice	2	2	0
+to stop slaughter	8	6	2
+to stop incursions	2	2	1
+to convene talks	3	2	2
+to clean up procedures	3	3	1
+to close clubs	3	2	1
+to pay dividends	2	2	1
+to make recommendations	3	3	1
+to participate in process	2	2	0
+to break filibuster	4	4	2
+to rule on issue	2	2	1
+to pay for schools	3	2	1
+to sway vote	2	2	0
+to build institute	2	2	0
+to stabilize economy	2	2	0
+to improve results	2	2	1
+to persuade group	2	2	0
+to join ranks	2	2	0
+to appoint mr.	2	2	1
+to improve communications	3	3	1
+to find space	3	3	2
+challenging plan	3	3	1
+to stage production	2	2	1
+to open stores	8	4	0
+to do lot	2	2	0
+to tighten regulations	2	2	1
+to keep animals	2	2	0
+to prevent technology	2	2	1
+to stop activities	2	2	0
+to broadcast special	4	2	1
+to attend school	5	5	2
+to make mark	3	2	0
+to sell chain	4	3	1
+to help millions	2	2	0
+to disguise fact	4	4	1
+to provide stations	2	2	2
+to build residences	2	2	1
+to approve sale	2	2	1
+to improve economy	2	2	0
+to vacate conviction	3	3	2
+to buy tickets	3	3	1
+to move to park	2	2	1
+to alleviate concerns	2	2	1
+to pass law	9	6	2
+to reconsider mr.	2	2	0
+to stop jobs	2	2	0
+to change behavior	7	6	0
+to convince officials	4	2	1
+to accommodate passengers	4	4	2
+to lift ban	9	8	5
+to restore authority	2	2	1
+to put measure	3	2	1
+to block purchase	2	2	1
+to expand center	3	3	1
+to impose taxes	5	4	3
+to get children	4	4	1
+telling workers	2	2	0
+to discuss ideas	2	2	0
+to remedy situation	4	4	2
+involving people	2	2	1
+to restore power	2	2	0
+to protect system	3	2	1
+to bar bureau	2	2	1
+to reach compromise	6	6	2
+to establish system	3	3	0
+bring charges	5	5	1
+to sell music	4	3	1
+to block return	2	2	1
+to help entrepreneurs	2	2	0
+to keep tragedy	3	2	2
+to give right	2	2	0
+banning sale	3	3	0
+to obtain records	7	5	2
+to change situation	5	5	2
+to add money	2	2	0
+to sever ties	5	3	0
+expressing desire	2	2	1
+to drop mr.	2	2	0
+to pay off loans	2	2	0
+to undermine choice	2	2	1
+to join government	2	2	0
+to support development	2	2	0
+to finance center	3	3	0
+saying agency	2	2	2
+to sell interest	6	4	2
+urging court	4	3	1
+to cooperate with investigation	7	5	0
+to overcome impasse	2	2	0
+to discuss matter	13	7	2
+to prevent harassment	4	4	1
+hearing arguments	2	2	1
+to discuss budget	3	2	3
+to impose cuts	4	3	0
+to improve practices	2	2	0
+to restore $	4	2	0
+to seek penalty	6	6	4
+asking for meeting	4	2	0
+to set up networks	2	2	1
+condemning practice	3	3	1
+to rule in favor	2	2	0
+to get to polls	2	2	0
+requiring reviews	2	2	0
+to raise level	3	3	1
+to build development	3	3	2
+to sue government	3	2	2
+to conduct trials	3	3	2
+to invest up to $	2	2	0
+to speed up licensing	2	2	0
+to leave team	3	3	0
+to sell holdings	2	2	1
+to agree to conference	2	2	1
+to tamp down speculation	3	2	0
+to block decision	3	3	1
+to win race	10	8	1
+to get back in	3	2	0
+to have law	3	3	2
+to reduce investment	2	2	0
+requiring approval	2	2	1
+to find place	3	3	0
+to attract businesses	4	4	2
+to persuade members	2	2	1
+to correct behavior	2	2	0
+to enforce order	3	3	1
+to reduce expenditures	3	3	0
+to upset balance	3	2	0
+to resolve disagreements	5	4	2
+to drive down prices	2	2	0
+to shave costs	2	2	0
+supporting position	2	2	1
+to resolve question	3	2	0
+to give support	2	2	1
+to replace system	2	2	1
+to collect information	4	4	3
+to measure impact	2	2	0
+to reject proposals	2	2	0
+freeing money	3	3	1
+to help clinton	2	2	0
+to clear names	2	2	0
+announcing decision	3	3	2
+to prepare plans	4	3	2
+to go home	3	2	0
+to highlight need	2	2	0
+to impose discipline	5	3	0
+to capitalize on that	2	2	0
+to require testing	2	2	1
+to expand opportunity	2	2	1
+to finance business	2	2	0
+to make paintings	2	2	0
+to challenge denial	2	2	1
+to win major	5	3	0
+to seek financing	3	2	2
+to overturn will	3	3	0
+to acquire arco	2	2	0
+to save jobs	5	4	1
+to halt operations	4	2	2
+to reduce traffic	2	2	1
+to work with mr.	4	4	2
+to make name	3	3	0
+to make sense	3	3	1
+to use site	2	2	1
+to dismantle systems	2	2	1
+to discuss issue	5	4	2
+to overhaul financing	2	2	1
+to extend program	3	3	2
+to revise policies	3	3	0
+to keep on eye	2	2	0
+to organize workers	7	7	4
+to delay action	2	2	1
+to defuse issue	4	3	0
+to develop strategy	2	2	0
+to rethink plan	2	2	0
+to set agenda	4	3	2
+to build car	2	2	0
+to end crisis	8	5	1
+to improve power	2	2	0
+to impose conditions	4	4	4
+to cut up to percent	3	2	1
+to change views	2	2	0
+to reach out to people	3	2	1
+to pay costs	3	3	1
+to give leverage	3	3	0
+to trim rolls	2	2	0
+to buy more	2	2	0
+to block removal	3	3	2
+to seek compensation	2	2	0
+to provide vouchers	5	2	2
+to offer access	2	2	1
+to make goods	2	2	2
+to pay for advertising	2	2	1
+to reach agreements	4	3	0
+taking step	2	2	1
+to bolster case	2	2	1
+to offer response	2	2	0
+to get blacks	3	2	0
+to assure people	2	2	0
+to keep cuts	2	2	2
+to lighten load	2	2	0
+to fight epidemic	2	2	0
+to study lines	2	2	2
+to trim benefits	2	2	0
+to pick up pace	3	2	0
+to preserve some	2	2	1
+to reinstate penalty	3	3	1
+to deliver on promise	3	2	0
+accusing union	2	2	1
+to repay $	3	3	1
+to carry out promises	2	2	0
+to postpone execution	2	2	1
+to throw out case	3	2	1
+to correct errors	2	2	1
+to coordinate strategy	2	2	0
+to fight aids	7	6	2
+to order company	3	2	1
+to look into accusations	2	2	2
+to set limits	4	4	3
+to minimize risks	2	2	1
+to benefit from experience	2	2	1
+to convince world	4	4	0
+to liquidate holdings	2	2	0
+to issue guidelines	2	2	1
+to start work	2	2	2
+to increase supply	12	9	4
+to convert school	2	2	1
+allowing unions	2	2	1
+to appeal ruling	4	4	2
+to outlaw discrimination	2	2	0
+permitting use	2	2	1
+to open school	2	2	2
+banning use	7	5	2
+to get husband	2	2	0
+denying rumor	2	2	1
+to get control	2	2	0
+to improve access	6	5	1
+to relieve suffering	4	4	1
+to throw ball	6	3	0
+to impose controls	5	5	2
+to develop drugs	6	6	3
+to hurt popularity	2	2	0
+to adopt policies	5	5	3
+to control violence	2	2	2
+to watch words	2	2	1
+to keep books	2	2	0
+to clean up things	2	2	1
+to stop aggression	5	4	1
+to raise incomes	2	2	0
+to make payments	4	3	1
+to put matter	2	2	1
+to pay for education	4	3	0
+to stop spending	3	3	2
+to overhaul program	4	4	1
+to build foundations	2	2	0
+to move family	2	2	1
+to overhaul process	2	2	2
+to win medal	5	3	1
+to slash costs	2	2	1
+to do much	2	2	1
+to close loopholes	7	6	4
+to send messages	5	5	1
+to help community	3	2	0
+to stay in office	4	4	1
+to follow course	2	2	0
+to erect tower	2	2	0
+to soothe nerves	2	2	1
+to reduce threat	4	3	2
+to discuss case	6	5	4
+to do in years	2	2	0
+asking questions	2	2	0
+to pass judgment	4	4	1
+to stop deterioration	2	2	0
+to limit casualties	2	2	2
+to tighten credit	2	2	1
+to loosen laws	3	3	1
+to shrink size	2	2	0
+to develop products	2	2	1
+to fulfill duty	4	2	1
+to seek funds	2	2	2
+to stifle competition	3	2	0
+to correct violations	2	2	0
+to develop services	2	2	1
+to hire officers	5	4	3
+to deal with security	2	2	1
+to offer range	2	2	0
+to resist pressures	4	3	1
+to undermine mr.	4	4	2
+to preserve quo	2	2	1
+to prevent weapons	2	2	0
+to investigate practices	2	2	1
+to discourage use	4	4	2
+to end practice	4	3	1
+to address flaws	2	2	1
+to forge compromise	4	4	2
+to draw up plans	4	4	1
+to resolve crisis	5	5	1
+to buy series	2	2	0
+to mount campaign	3	2	1
+to create federation	2	2	1
+describing problem	2	2	0
+to help team	12	6	0
+to increase advertising	2	2	1
+to meet people	3	3	0
+to get groups	2	2	1
+to work in politics	2	2	0
+to collect support	2	2	0
+to stop shipment	2	2	0
+to add annex	2	2	1
+to turn people	2	2	0
+to impose tax	6	4	2
+to delay trial	3	2	0
+to rebuild economy	3	3	0
+to make deployments	2	2	0
+to address shortcomings	2	2	0
+leaving impression	2	2	1
+to address challenges	2	2	0
+to counter problems	3	3	1
+to extend limits	2	2	0
+to buy house	12	7	3
+to halt implementation	2	2	0
+expressing confidence	7	2	2
+to send force	6	5	3
+to send mission	3	2	1
+to limit spending	4	4	0
+to protect president	2	2	0
+to find solution	17	16	4
+to reduce profits	2	2	1
+to develop line	2	2	0
+to keep students	2	2	0
+to stop group	3	2	2
+to sign agreement	7	5	1
+to avoid that	4	3	0
+to build up force	2	2	1
+to discuss legislation	2	2	0
+to reach out to students	2	2	0
+to limit influence	2	2	2
+to turn over management	2	2	2
+to promote plan	3	3	1
+adding amendments	2	2	2
+to lift siege	2	2	2
+to reconsider policies	2	2	0
+spending $	4	4	1
+to approve amendment	2	2	1
+to stem tide	2	2	0
+to build skyscraper	5	5	3
+to convert buildings	4	3	2
+to draft bill	3	3	2
+to encourage compromise	2	2	0
+to pull county	2	2	0
+to win concessions	2	2	1
+to buy ad	2	2	0
+to give in	3	3	0
+to spread message	2	2	0
+limiting spending	2	2	2
+to pay for things	2	2	1
+to increase sales	8	8	2
+to buy for $	3	3	2
+to get hands	4	3	1
+to settle charges	10	5	2
+to fight war	2	2	0
+to be with wife	2	2	0
+to preserve freedom	2	2	0
+to deal with strike	2	2	0
+to overturn order	3	2	2
+to provide jobs	3	3	3
+to open shelter	4	3	2
+to handle matters	2	2	2
+to block rule	2	2	2
+to abandon policy	2	2	2
+to build residence	2	2	0
+to reach fans	2	2	0
+to save clinton	3	3	1
+to give money	7	7	4
+to sign deals	2	2	2
+to avoid sanctions	3	3	1
+to seek information	2	2	1
+to disclose more	2	2	0
+to do deals	2	2	1
+containing anthrax	2	2	1
+to create foundation	4	3	3
+to repay debt	6	5	0
+to earn living	4	4	1
+to set course	3	3	0
+to retain position	2	2	1
+to prevent move	4	3	0
+to break deadlock	13	9	5
+to move up date	4	4	4
+to force agency	4	3	1
+to challenge policy	3	3	1
+to regulate industry	5	4	2
+to give back to society	2	2	0
+to reduce errors	3	3	1
+to adopt policy	3	3	1
+to close schools	2	2	0
+creating market	2	2	1
+to shore up credibility	2	2	1
+to have case	2	2	1
+to report earnings	2	2	1
+to lower rate	3	2	0
+to create zones	3	3	2
+to defend reputation	2	2	2
+to control traffic	2	2	1
+paving way	18	12	6
+to write book	8	4	0
+to go after mr.	2	2	1
+to enjoy life	3	3	0
+to find work	2	2	0
+to take into account	3	3	1
+to borrow more	2	2	1
+to engage in debate	2	2	0
+to make purchases	3	3	0
+to turn around economy	2	2	1
+to block resolution	5	2	1
+to distribute spoils	2	2	1
+to include blacks	2	2	0
+to take stake	2	2	1
+to redress imbalance	2	2	0
+to force change	3	2	1
+to resume negotiations	4	4	0
+to build antenna	2	2	2
+bring women	2	2	0
+to counter that	3	3	0
+to use $	5	5	3
+to help those	6	6	1
+to spare lives	2	2	0
+to come up with money	4	2	0
+to work with schools	2	2	0
+to improve credibility	2	2	0
+to find niche	4	3	1
+seeking custody	2	2	0
+to transfer land	2	2	0
+to curtail inflation	4	2	0
+to fix system	4	4	1
+to create something	2	2	1
+to negotiate solution	2	2	0
+to tie score	7	3	2
+to repeal package	4	2	2
+to solve killings	2	2	1
+to work for	2	2	1
+requiring state	3	3	2
+to broaden appeal	5	5	0
+to build mall	5	3	3
+to change mr.	2	2	0
+to explain country	2	2	0
+to cut rates	18	9	5
+to combat rain	3	3	3
+to fight proposal	3	2	0
+to create climate	3	2	0
+to persuade leaders	5	4	2
+to change terms	3	2	2
+to bridge gap	7	7	0
+to minimize disruption	2	2	2
+to assume leadership	2	2	1
+to study plan	2	2	0
+reaffirming commitment	3	2	2
+denying accusations	3	2	1
+to make switch	3	2	1
+to improve life	4	3	2
+denying reports	2	2	0
+to introduce programs	2	2	1
+to develop capability	2	2	0
+to make calls	4	4	0
+to cut off supplies	2	2	1
+to tighten standards	2	2	0
+to finance project	2	2	0
+to work with clients	2	2	1
+to get story	3	2	0
+to crack down on activities	2	2	0
+to generate excitement	2	2	0
+to avoid possibility	3	3	0
+to capture nomination	2	2	1
+to withhold aid	3	3	1
+to pursue cases	2	2	1
+to offer proposal	2	2	0
+to promote show	2	2	1
+to make fun	2	2	0
+to create community	4	4	0
+to maintain level	3	3	0
+to restore benefits	4	3	2
+to slow growth	7	6	3
+to appeal to voters	4	4	2
+using funds	2	2	1
+to sell tires	3	2	0
+to calm tensions	2	2	0
+to promote democracy	2	2	0
+to buy tract	3	2	2
+winning support	3	3	2
+to sell many	2	2	0
+to prevent smuggling	2	2	0
+to produce bill	2	2	0
+to cut budgets	3	2	2
+to attract workers	2	2	0
+to do business	13	12	3
+to deal with emergency	3	2	0
+accusing manufacturers	2	2	0
+to end battle	2	2	2
+to protect identities	2	2	1
+to fight plan	3	2	2
+to convert warehouse	2	2	2
+accusing group	3	2	1
+to obtain treatment	2	2	0
+forming government	4	2	1
+to get this	4	4	2
+to hold service	2	2	2
+to win thing	2	2	0
+to put game	3	3	1
+to protect city	3	3	1
+to go way	2	2	0
+to lift sanctions	2	2	0
+urging residents	2	2	1
+to stifle debate	2	2	1
+to preserve acres	5	4	5
+to voice opinions	2	2	1
+to turn center	2	2	1
+to shore up system	3	2	1
+to inject $	4	3	3
+to intensify pressure	2	2	1
+banning flights	2	2	1
+to discuss problems	8	3	2
+citing opinions	2	2	2
+to discuss situation	5	3	2
+to improve protection	4	3	1
+to fix prices	8	4	1
+to meet with mr.	3	3	1
+to rally support	12	7	5
+to do shopping	2	2	1
+to appease shareholders	2	2	0
+to increase enrollment	2	2	0
+promoting book	2	2	0
+to get work	5	5	1
+to fight measure	2	2	2
+giving control	4	3	1
+raising possibility	5	4	1
+to preserve documents	2	2	0
+bring economy	3	2	1
+to cut off aid	10	6	1
+to open chain	2	2	0
+to gather intelligence	2	2	0
+to give break	2	2	0
+to avoid problem	2	2	0
+to back candidates	3	3	1
+to expand reach	3	3	1
+to improve record	7	6	3
+to open space	2	2	1
+to conclude agreement	2	2	1
+to put ball	2	2	0
+to slow rise	3	3	1
+to raise pay	2	2	2
+to overhaul systems	2	2	1
+to lower prices	10	7	1
+approving schools	2	2	1
+to finance programs	8	8	5
+to get injunction	2	2	1
+to discuss possibility	4	3	1
+to prevent city	4	4	3
+to build homes	11	10	3
+to lend $	2	2	1
+to sell some	5	5	1
+to block payments	2	2	1
+to talk about future	2	2	0
+to encourage savings	2	2	0
+to disclose information	4	3	1
+to create fund	14	11	4
+to establish commission	2	2	0
+to add more	2	2	1
+to shore up support	2	2	1
+to offer suggestions	2	2	0
+to impede access	2	2	1
+to increase margin	2	2	1
+to take role	4	4	1
+to raise questions	2	2	1
+to create forms	2	2	0
+to expand presence	2	2	0
+to change system	17	15	7
+to build team	5	5	1
+to curb influx	2	2	0
+to make trip	4	4	1
+to assure security	2	2	0
+to prevent destruction	2	2	1
+to recover costs	4	4	3
+to protect home	2	2	1
+blocking streets	2	2	1
+giving company	2	2	1
+to take care	14	13	3
+to attract money	2	2	0
+to beat yankees	3	2	0
+to line up support	2	2	0
+to create office	4	4	1
+to lower rates	3	3	0
+to discuss work	3	2	2
+to increase numbers	2	2	0
+to reduce loss	2	2	1
+to pass amendment	2	2	2
+to restore funds	2	2	1
+to overhaul welfare	2	2	1
+to suppress evidence	2	2	2
+to reach conclusion	2	2	1
+to rewrite regulations	2	2	2
+to ease demand	2	2	1
+to ease poverty	3	3	1
+to play in league	2	2	0
+to attract business	7	7	1
+to change opinions	2	2	0
+ending fight	2	2	0
+to review issues	4	4	0
+challenging conditions	2	2	1
+informing of decision	3	2	2
+to build sports	2	2	2
+to lay out agenda	2	2	0
+to include women	2	2	0
+to take post	2	2	1
+to relax policy	4	4	1
+to broaden support	3	2	0
+to buy shoes	3	2	0
+to move to states	2	2	2
+to get food	4	3	1
+to work out deal	2	2	0
+to give hand	2	2	0
+to gain attention	2	2	0
+to start process	6	4	2
+to recognize right	3	3	1
+to provide funds	3	3	1
+to rescue industry	2	2	1
+to allow districts	4	3	1
+to have name	4	4	2
+to prepare for attack	5	4	1
+to restore faith	3	3	0
+to finance costs	2	2	1
+to negotiate treaty	3	2	0
+to develop tourism	3	3	1
+to rally forces	2	2	1
+to help students	11	11	4
+to turn into park	2	2	0
+to stem rise	2	2	1
+challenging right	3	3	1
+to press charges	2	2	1
+to set up programs	5	3	3
+to protect habitat	3	3	0
+to cut positions	3	3	2
+to recover that	2	2	2
+to challenge system	4	4	1
+to meet deadlines	4	4	1
+to approve plan	8	7	1
+sending measure	2	2	1
+to hire guards	2	2	0
+to stoke upstate	2	2	0
+to establish zones	3	3	0
+to cooperate in investigation	2	2	0
+to acquire bank	2	2	0
+asking for release	2	2	0
+to reduce violence	8	8	1
+to re relations	3	3	1
+to keep lid	3	2	1
+to read indictment	2	2	0
+to qualify for spot	2	2	1
+to shore up finances	4	4	2
+to resume production	5	3	3
+to limit jurisdiction	2	2	1
+to sell power	2	2	1
+to prevent influence	2	2	0
+to control spread	3	3	1
+to extract $	3	3	0
+to keep planes	2	2	2
+to stop distribution	3	3	2
+to update system	2	2	1
+to put on ballot	3	3	2
+to save face	3	2	0
+to fix things	2	2	0
+establishing office	2	2	1
+to find out more	3	3	0
+to use name	3	3	1
+to make public	5	5	2
+to seek help	4	4	1
+to prepare people	2	2	0
+to combat crime	6	6	5
+to end lockout	2	2	1
+to market goods	2	2	0
+to build confidence	2	2	0
+to support incumbent	2	2	2
+imposing restrictions	3	3	3
+to sue companies	2	2	1
+to protect lives	2	2	1
+to block bill	2	2	0
+to make things	9	8	3
+to protect some	2	2	2
+to reduce subsidies	3	3	2
+to increase salaries	4	4	1
+to conduct review	7	6	5
+to keep costs	2	2	1
+to preserve environment	2	2	1
+charging irregularities	2	2	0
+to support recommendations	2	2	2
+accusing clinton	2	2	2
+to create network	7	6	3
+to reduce spending	10	10	7
+using computers	2	2	1
+to promote safety	2	2	0
+to reopen negotiations	3	2	0
+to prevent incidents	2	2	1
+to relieve overcrowding	3	2	0
+seeking admission	3	2	1
+to market products	3	3	2
+to end rule	6	2	1
+to maintain independence	3	3	1
+to remove tube	8	4	2
+to help candidates	6	4	2
+to prevent pollution	3	2	0
+to build that	3	3	1
+to make cigarettes	2	2	1
+to build prison	2	2	1
+to set up service	2	2	1
+to sell routes	3	3	0
+citing conditions	2	2	1
+to observe anniversary	2	2	0
+to pay for travel	2	2	2
+to do than	3	2	1
+to approve package	2	2	0
+to create chaos	2	2	1
+to remove people	2	2	1
+to reduce surpluses	2	2	0
+to stave off defeat	2	2	2
+to acquire percent	3	3	0
+to devote attention	2	2	1
+to end subsidies	2	2	1
+to enhance safety	2	2	0
+to provide programs	2	2	1
+to keep out eye	2	2	0
+to give space	2	2	0
+to keep children	5	4	2
+leaving networks	2	2	0
+to raise doubts	3	2	1
+to resolve problem	12	12	3
+to keep nets	2	2	1
+to raise contributions	2	2	1
+to win elections	4	4	1
+to meet expectations	5	4	1
+to drop opposition	3	3	1
+to repair damage	2	2	1
+to funnel money	5	4	1
+to persuade republicans	4	4	2
+to get company	2	2	1
+to encourage capitalism	2	2	1
+to help children	11	11	4
+to attract audience	4	4	0
+to finance $	2	2	1
+to amend law	6	5	2
+using $	2	2	2
+to stand in line	2	2	0
+accusing of fraud	2	2	1
+to fill time	4	3	0
+to phase out use	3	2	1
+to rebuild country	2	2	0
+denying wrongdoing	3	2	0
+to grant approval	2	2	0
+to develop casino	2	2	0
+to halt flow	3	3	0
+to win series	3	3	1
+seeking thousands	2	2	1
+to show commitment	2	2	2
+to help gap	2	2	1
+to fight production	2	2	1
+to comply with demands	3	3	1
+to enact bill	3	2	2
+to buy part	2	2	0
+to pump money	3	3	0
+to review letter	2	2	2
+to change vote	3	2	0
+saying program	2	2	1
+to improve training	5	5	2
+to divert part	2	2	0
+to attend convention	2	2	1
+to design line	3	3	0
+to improve climate	2	2	0
+to improve opportunities	2	2	0
+to explain to public	2	2	0
+to hold election	3	3	0
+to improve rights	4	4	1
+to make decisions	13	10	3
+reversing trend	2	2	1
+to process applications	3	2	1
+to settle question	2	2	1
+to strengthen act	3	3	2
+to launch satellites	4	3	1
+to produce profits	2	2	1
+to make pay	2	2	0
+detailing problems	2	2	1
+to build system	14	10	4
+to have rights	2	2	0
+to reconsider decision	13	3	7
+accusing city	6	3	3
+to make inroads	3	3	0
+to restore democracy	5	5	1
+to discipline board	2	2	1
+to save season	3	2	0
+to schedule trial	2	2	0
+to subpoena records	2	2	0
+to defend integrity	2	2	0
+to force government	3	3	0
+to strengthen rights	2	2	1
+giving powers	5	5	4
+to raise rates	29	17	5
+to allow teachers	3	2	2
+overhauling system	2	2	1
+to end agreement	3	2	2
+to get help	3	3	0
+to prevent acts	2	2	0
+to improve cooperation	2	2	2
+to represent interests	4	3	1
+to avoid spotlight	2	2	0
+to study report	6	2	4
+to explain issues	2	2	1
+to run system	2	2	2
+to limit prices	3	3	1
+to broaden horizons	2	2	1
+to close plant	9	5	7
+to conduct tests	4	4	1
+to advance cause	6	5	1
+to see things	2	2	0
+opening refuge	2	2	1
+to prevent employers	2	2	1
+to acquire at cost	2	2	1
+to develop bomb	2	2	0
+challenging incarceration	2	2	1
+to finance program	5	5	3
+to issue injunction	7	2	6
+to cut off supply	2	2	0
+to adopt legislation	5	2	2
+to enhance competitiveness	2	2	2
+to waive rights	2	2	0
+to remain in power	3	3	0
+to halt project	6	5	3
+to develop business	3	3	0
+to raise taxes	17	14	8
+to suspend proceedings	2	2	1
+to house homeless	3	3	1
+to shut down system	2	2	1
+to eliminate discrimination	3	3	0
+to forge ties	4	3	3
+rebuking government	3	3	0
+challenging system	3	2	0
+to prepare defense	2	2	1
+to provide food	4	3	0
+to keep down costs	5	5	1
+to mount challenge	4	4	1
+to have impact	5	5	0
+to encourage members	2	2	0
+to upgrade image	2	2	0
+to make safer	2	2	0
+to keep eye	3	3	0
+providing money	5	4	4
+to convince colleagues	2	2	0
+to protect serbs	2	2	0
+to reach goal	9	7	4
+to close unit	2	2	0
+to find answers	2	2	1
+to prove that	2	2	0
+to link computers	2	2	0
+to have system	4	4	2
+to run race	2	2	0
+to build extension	3	2	0
+to involve parents	3	3	1
+to offer help	3	3	0
+to make progress	8	7	2
+to honor commitments	2	2	0
+to cushion effect	2	2	1
+to shut down school	2	2	0
+to stifle dissent	2	2	1
+bring lawsuit	3	2	0
+to pay taxes	5	4	0
+to receive aid	3	3	1
+to enact some	3	3	0
+to make city	2	2	1
+to build version	2	2	1
+to set up office	2	2	2
+to find voice	3	3	0
+to get to point	3	3	0
+to maintain space	2	2	1
+to suspend aid	3	3	1
+to allow access	3	2	1
+to secure borders	3	3	1
+to help family	3	2	0
+to help cause	4	3	1
+to contain prices	2	2	0
+to have plant	2	2	0
+to send troops	23	14	5
+to win open	2	2	0
+to circumvent law	4	4	1
+saying department	2	2	0
+to denounce terrorism	2	2	0
+to cut percent	5	4	2
+to cut taxes	14	12	7
+to create museum	2	2	1
+to pay lawyer	2	2	0
+to save program	6	5	0
+to restrain growth	3	3	1
+to challenge constitutionality	5	3	2
+to negotiate deal	7	7	3
+to dampen ardor	2	2	0
+to avoid casualties	4	4	1
+to mediate dispute	2	2	0
+to establish link	2	2	0
+to establish program	3	3	1
+to pay for abortion	2	2	0
+to prevent killings	3	2	1
+to enforce terms	2	2	0
+to build momentum	2	2	2
+to help countries	4	4	1
+to get businesses	2	2	0
+to crack down on terrorists	2	2	2
+to help americans	6	5	0
+to do laundry	2	2	0
+to explain to students	2	2	0
+to reduce obligations	3	3	1
+to help schools	4	3	1
+to get ball	4	4	0
+to keep league	2	2	0
+to bar mr.	3	3	0
+to attract minorities	2	2	0
+bring case	2	2	1
+to undermine regime	2	2	0
+to refinance $	2	2	0
+to take up issue	2	2	0
+to play in series	2	2	1
+to assure public	2	2	1
+covering workers	5	2	2
+to keep farm	2	2	0
+expressing sympathy	2	2	1
+to get price	4	3	2
+to take stock	3	2	3
+to turn house	3	3	0
+to stem loss	3	3	0
+to produce housing	2	2	0
+to deal with situation	5	5	2
+to cause death	2	2	0
+to replace board	2	2	1
+to cut subsidies	2	2	0
+to oust board	2	2	2
+to push for change	2	2	0
+to settle claim	2	2	2
+to explain action	2	2	1
+to get piece	3	3	1
+to exert pressure	2	2	0
+to take responsibility	6	5	3
+to discuss issues	6	5	1
+to sell site	3	3	1
+to respond to complaints	3	3	1
+to make contact	3	3	2
+to make donations	2	2	0
+to create center	5	2	0
+to deny request	4	2	4
+to reduce problems	4	2	0
+to put house	4	2	2
+to shore up economy	4	3	2
+to bolster defenses	2	2	0
+to review decision	10	5	6
+to cut tax	3	2	1
+to accelerate development	3	2	0
+to require period	3	2	2
+to protect public	10	8	3
+to create life	2	2	0
+to increase access	6	6	3
+to prevent depletion	2	2	2
+to address crisis	2	2	0
+to develop resources	3	3	1
+to take over management	2	2	0
+to reduce level	7	6	1
+to withdraw troops	11	9	2
+to remind players	3	2	0
+to promote competition	2	2	0
+to support prices	3	3	3
+to reduce some	2	2	0
+to perform surgery	2	2	0
+to minimize effects	2	2	1
+to ban use	4	2	1
+to begin construction	2	2	0
+to reform congress	2	2	0
+to protect muslims	7	5	2
+to settle suits	3	3	1
+to hide fact	3	3	0
+detailing concerns	3	3	0
+to build addition	3	3	1
+to move team	5	4	1
+to show public	3	3	1
+to buy car	2	2	0
+to toughen standards	3	3	3
+to build floor	2	2	1
+to end recession	3	3	0
+to do anything	26	15	2
+to reduce demand	2	2	0
+to sell americans	2	2	1
+to boost economy	2	2	1
+to shut down plant	4	3	1
+to make recommendation	2	2	0
+to reform economy	3	2	0
+to acquire p.l.c.	2	2	1
+to reject proposal	2	2	1
+to hold meetings	5	5	2
+to persuade public	2	2	2
+to discuss relationship	2	2	1
+to refinance debt	4	3	1
+to make improvements	5	5	1
+to stop move	3	3	2
+to change stance	2	2	0
+to win mr.	2	2	0
+to minimize casualties	3	3	0
+requiring use	2	2	1
+to accommodate number	3	3	0
+to compete in markets	2	2	1
+to resolve disputes	4	4	1
+to keep order	3	3	1
+to settle strike	4	3	1
+to express opposition	2	2	1
+to establish base	2	2	1
+to reach market	3	3	0
+to halt use	3	3	1
+to reduce barriers	2	2	0
+to reduce damage	5	5	2
+to improve reputations	2	2	1
+to appoint prosecutor	3	2	2
+to get daughter	2	2	0
+to develop site	6	6	2
+to help capital	2	2	0
+to cover tracks	2	2	0
+to come to terms	11	9	2
+to handle traffic	2	2	0
+to abolish commission	3	2	1
+to overturn election	2	2	1
+to force companies	2	2	1
+to hand over suspects	2	2	0
+to have control	3	2	0
+to protect against challenge	2	2	0
+containing passage	3	2	0
+to close deficit	4	4	1
+to reduce rate	5	5	3
+charging bias	2	2	0
+to get book	2	2	1
+to reduce congestion	2	2	0
+to delay case	3	2	2
+to assure safety	3	3	0
+to seek solution	2	2	1
+to outline plan	2	2	2
+to finish job	2	2	0
+to improve force	2	2	1
+to complete cleanup	2	2	2
+to help residents	4	4	1
+to finance work	4	4	0
+imposing fines	2	2	2
+to pay for repairs	2	2	0
+to build beach	2	2	1
+to develop technologies	2	2	0
+to move than that	2	2	0
+to put into practice	2	2	0
+to take deal	2	2	0
+bring down rates	3	3	2
+to re industry	2	2	2
+to shift jobs	2	2	1
+to issue stock	2	2	0
+to stop crimes	4	2	2
+to change mind	5	5	0
+to assert claims	2	2	0
+raising money	8	7	3
+to rescind agreement	2	2	0
+to file for bankruptcy	2	2	0
+to make deal	14	9	2
+to bolster profits	2	2	1
+to make bid	3	2	0
+to repeal tax	3	3	1
+to compel mr.	2	2	1
+to change image	4	4	1
+to engage in attacks	2	2	1
+to produce numbers	3	3	1
+to integrate housing	4	2	3
+saying decision	2	2	1
+to adopt some	3	2	1
+to use drug	3	2	0
+to pressure companies	2	2	0
+to change name	4	3	2
+to take effect	5	4	1
+to persuade people	3	3	1
+ordering department	2	2	1
+to clean up sites	6	6	1
+to make peace	8	7	2
+to adopt strategy	2	2	0
+to limit scope	3	2	1
+to step up efforts	8	7	3
+to provide city	2	2	1
+to dispel notion	7	3	2
+to admit refugees	3	2	0
+to support proposal	3	3	1
+to combat laundering	3	2	2
+to consult with members	2	2	2
+to develop businesses	2	2	0
+to order government	7	2	3
+to prejudge issues	2	2	0
+to collect signatures	2	2	0
+to curb traffic	2	2	1
+to bolster standing	2	2	2
+to find replacement	4	4	2
+charging city	3	3	2
+to halt construction	3	3	0
+to restore law	2	2	1
+to keep secret	4	3	2
+to beat system	7	5	2
+to increase business	5	4	2
+to supply weapons	3	3	0
+to present case	4	4	3
+to gain foothold	2	2	0
+to support bush	2	2	0
+to strengthen structures	2	2	2
+to deal with some	3	3	1
+to develop markets	2	2	1
+allowing state	3	3	2
+to break up groups	2	2	1
+to have authority	3	3	0
+bring about change	2	2	2
+to restart growth	2	2	1
+to set deadline	2	2	1
+involving children	2	2	0
+to equalize spending	4	4	1
+to make room	3	3	1
+to arrange meeting	2	2	1
+to stress importance	2	2	1
+to challenge clinton	2	2	1
+to open talks	4	4	1
+to make movies	2	2	0
+to borrow $	5	4	3
+to cut number	3	2	2
+to cancel $	2	2	1
+to determine source	4	3	2
+to make headway	2	2	0
+to ban sales	2	2	2
+to work out things	3	3	0
+to create impression	4	2	1
+to keep weapons	2	2	0
+to buy advertising	4	3	2
+to force town	2	2	1
+to pay members	2	2	0
+to merge computers	2	2	0
+to negotiate with companies	2	2	1
+to express views	4	4	2
+to cast doubt	3	3	2
+blaming contamination	2	2	1
+to tell students	2	2	0
+to maintain order	3	2	1
+covering members	3	2	2
+to pick up slack	2	2	1
+to eliminate tax	3	3	3
+to celebrate opening	2	2	1
+to fill some	2	2	0
+to trim deficit	2	2	0
+asking for order	2	2	1
+to accommodate members	2	2	0
+to influence politics	4	3	1
+to extend benefits	5	5	3
+to end policy	2	2	1
+to close ranks	2	2	1
+to deliver goods	2	2	1
+to improve process	4	4	1
+to give shot	2	2	0
+to get team	3	3	1
+to abandon support	2	2	2
+to press cases	2	2	2
+to reach students	5	4	2
+to develop center	3	2	0
+ending holdout	2	2	1
+to raise limit	2	2	1
+to vaccinate children	3	3	2
+to protect patients	6	5	3
+to fill in blanks	2	2	1
+to stanch losses	2	2	1
+to use words	2	2	0
+to end attacks	2	2	0
+challenging results	2	2	2
+to set up shop	2	2	1
+to help foundation	2	2	0
+to influence selection	2	2	2
+to counter threat	5	4	1
+stressing role	2	2	0
+to meet $	2	2	1
+to start program	5	5	3
+to provide drugs	3	3	0
+to gain share	3	3	1
+to prevent crime	5	5	0
+to cry foul	2	2	1
+to promote movies	2	2	0
+to reach goals	2	2	0
+to prevent kind	4	4	1
+to create form	2	2	0
+to reduce presence	3	3	2
+to simplify structure	2	2	1
+to help investors	2	2	1
+to talk about business	2	2	0
+to restore solvency	2	2	0
+to take weapons	2	2	0
+to acquire johnson	2	2	1
+to review allegations	3	3	1
+to lower cost	2	2	2
+to answer charges	5	3	1
+to hire company	2	2	2
+to expand program	7	7	5
+to address need	3	3	0
+to take seat	2	2	1
+to support campaign	2	2	0
+to give time	12	9	3
+to start paper	4	3	0
+to cut corners	5	4	2
+to keep pressure	3	2	2
+to allow hunting	2	2	2
+supporting bid	2	2	1
+to call for investigation	3	2	0
+prohibiting use	3	2	2
+to sell dollars	2	2	1
+to help groups	4	3	1
+to find shelters	2	2	0
+to support candidates	7	6	2
+to divert money	2	2	1
+to build business	2	2	0
+to take over lines	2	2	0
+to discuss state	2	2	1
+to promote harmony	2	2	1
+to keep candidate	2	2	1
+to move research	2	2	2
+to renegotiate agreement	2	2	1
+to respond to concerns	4	4	2
+to give ability	2	2	0
+to limit growth	6	5	1
+to monitor compliance	2	2	2
+to comply with	2	2	1
+to open casino	6	5	3
+to increase lending	2	2	1
+to offset increases	2	2	1
+to produce more	2	2	0
+to end participation	2	2	0
+to reverse years	3	2	0
+to pass measure	3	3	2
+to teach residents	2	2	1
+to stop slide	2	2	0
+giving name	3	2	2
+to present evidence	4	3	2
+to study proposal	7	2	2
+to look at face	2	2	0
+telling officials	3	2	1
+to arrest people	2	2	2
+to build structure	2	2	0
+to apply to commission	2	2	0
+to void agreements	2	2	0
+to devise approach	3	3	1
+threatening action	4	3	1
+to close school	2	2	1
+to build up reserves	2	2	2
+to get buildings	2	2	1
+to add coverage	3	3	2
+to use some	11	7	1
+to announce indictments	2	2	0
+to end voting	2	2	2
+designating holiday	2	2	1
+to cover parents	2	2	0
+to make commitments	2	2	0
+to draw students	2	2	2
+eliminating missiles	2	2	2
+to persuade nations	2	2	1
+to introduce product	2	2	0
+to assure players	2	2	2
+bring fact	2	2	0
+to produce musical	2	2	0
+giving rights	5	4	3
+averting strike	12	2	3
+to prevent mothers	3	2	1
+to correct deficiencies	2	2	1
+bring mr.	3	3	0
+to slow pace	2	2	0
+to address deficit	2	2	1
+to put time	2	2	1
+to play game	5	5	1
+to make part	3	3	0
+to make theater	2	2	0
+to preserve space	3	3	1
+to defer payments	2	2	0
+to promote reconciliation	3	2	0
+condemning policy	3	3	1
+to practice time	3	2	1
+to combat deflation	2	2	0
+to buy water	3	2	1
+allowing owners	3	3	2
+to make terminal	2	2	1
+to insure supply	2	2	0
+to win tournament	3	2	1
+to simplify rules	2	2	2
+to fight terrorism	12	9	1
+to address some	5	3	3
+to make mistakes	2	2	0
+to join alliance	3	3	1
+setting deadline	2	2	1
+to protect industry	3	3	2
+to pay off debt	6	3	1
+to speed up process	9	8	4
+to reduce power	6	5	0
+to run department	2	2	0
+to say things	4	4	0
+to reduce burden	8	8	1
+to restore integrity	3	3	0
+to alleviate poverty	3	3	1
+to fight crime	7	7	1
+to pay salary	4	3	0
+to aid campaign	2	2	1
+to promote trade	2	2	1
+to buy share	3	3	2
+reversing position	2	2	1
+to peddle wares	2	2	0
+to undermine movement	4	2	1
+to have sex	3	3	1
+to secure position	3	3	0
+to cut force	6	3	2
+to sign contract	2	2	1
+to cut forces	2	2	0
+to devise test	2	2	0
+to sign contracts	2	2	1
+to create venture	3	2	0
+to approve measure	2	2	2
+to start service	3	3	1
+to set up sites	2	2	0
+to examine actions	2	2	1
+to set up committee	2	2	0
+to help musicians	2	2	1
+paying $	2	2	0
+to limit access	6	5	3
+to deal with system	2	2	1
+to change programming	2	2	2
+defending right	2	2	0
+to argue merits	2	2	1
+defending record	4	3	2
+to rebuild relations	2	2	0
+to enter market	12	10	3
+to investigate charges	3	2	1
+to increase payments	3	3	0
+giving discretion	2	2	1
+praising dr.	2	2	1
+to hire firm	2	2	1
+to drive home	2	2	0
+to enlist aid	2	2	1
+to match needs	3	2	1
+to stop all	2	2	0
+to combat trade	2	2	0
+to trim $	5	4	0
+to undertake initiatives	2	2	0
+to replenish coffers	2	2	0
+to overwhelm defense	2	2	1
+to present series	2	2	1
+to build camps	2	2	1
+to review study	3	3	0
+to rescue banks	3	3	1
+to upgrade from b	2	2	0
+to void contracts	3	2	1
+to create party	2	2	0
+to get commitment	2	2	0
+to accept plan	14	9	5
+to spoil party	3	3	0
+to educate officials	2	2	1
+to build theaters	2	2	2
+to create department	2	2	1
+to quell unrest	3	2	0
+to renovate building	4	4	4
+to iron out differences	3	2	0
+to meet costs	2	2	1
+to thwart activities	2	2	0
+to ease tension	3	3	1
+to describe experiences	2	2	1
+to eliminate missiles	3	3	2
+to release $	2	2	1
+to buy supplies	3	2	3
+to hit ball	2	2	0
+to restore wetlands	2	2	1
+to gain edge	3	3	1
+to stop carnage	2	2	0
+to prevent execution	3	2	0
+to ease problem	5	4	1
+to pay expenses	8	5	1
+to build pipeline	6	5	3
+to boost rate	2	2	0
+to win derby	2	2	0
+to contend for spot	2	2	0
+to offer products	2	2	0
+to put officers	2	2	1
+to make art	2	2	0
+to get something	4	4	0
+regulating emissions	2	2	1
+using money	2	2	0
+to contest election	2	2	0
+to surrender territory	2	2	2
+to find workers	2	2	1
+to restore service	5	3	1
+to eliminate gap	2	2	0
+to establish company	3	3	1
+to gain control	12	11	5
+to voice concerns	3	3	3
+to open proceedings	2	2	1
+to play in game	2	2	0
+asserting innocence	2	2	1
+allowing use	2	2	1
+to appeal to court	2	2	0
+to print money	2	2	1
+to broadcast hours	2	2	1
+to receive $	3	3	2
+to end violence	11	8	3
+to create growth	2	2	0
+to save structure	6	4	2
+to stimulate competition	2	2	2
+to make judgment	3	3	0
+to pay salaries	5	5	1
+to create structure	2	2	0
+to resign at end	2	2	0
+to protect sites	2	2	0
+to rejoin society	2	2	0
+to say goodbye	4	4	1
+to reduce risks	5	5	1
+to produce cars	2	2	0
+seeking aid	3	2	1
+to improve service	8	7	3
+to open system	2	2	0
+to capture some	5	3	0
+to get message	3	2	0
+to review records	2	2	0
+to win championship	12	7	2
+to present plan	5	4	3
+to conduct analysis	3	3	2
+to develop curriculum	3	2	0
+to make morphine	2	2	1
+to gain nomination	2	2	1
+to finance stadium	2	2	1
+to prepare students	7	7	2
+to have time	8	6	2
+to offer $	5	4	2
+to drop proposal	3	2	2
+to trim expenses	2	2	0
+to lead life	4	2	1
+to delay $	2	2	0
+to clean up plants	2	2	1
+to get $	3	3	0
+to make team	9	7	0
+to build casinos	3	3	1
+to reduce surtax	2	2	0
+to coordinate response	5	4	0
+to deal with issue	5	5	4
+to raise bid	2	2	0
+to maximize value	2	2	1
+to limit amount	2	2	0
+to stop serbs	5	3	1
+to end wars	2	2	1
+to learn music	2	2	0
+to buy supercomputer	4	3	0
+to pay rent	5	5	1
+to reach solution	3	3	1
+urging restraint	2	2	1
+to expand number	6	5	1
+setting agenda	2	2	1
+to transfer planes	2	2	1
+to disband army	2	2	0
+to pass budget	5	5	0
+creating service	2	2	1
+to use materials	2	2	1
+to reduce staffing	2	2	2
+calling for referendum	2	2	2
+to put spin	6	4	0
+to encourage use	3	3	1
+to sell island	2	2	1
+to catch ball	2	2	0
+to allow schools	2	2	2
+to buy out shareholders	2	2	0
+to lift economy	2	2	1
+to come up with something	2	2	1
+to reduce sources	3	3	1
+granting rights	4	4	2
+to undertake review	3	2	0
+to move to hartford	3	2	0
+to break through clutter	2	2	0
+to buy back shares	6	4	0
+to find compromise	3	3	0
+seeking comment	448	3	53
+to appeal to customers	2	2	0
+to draw crowds	2	2	0
+to persuade americans	2	2	0
+to reach out to those	2	2	1
+requiring groups	2	2	2
+to guarantee access	2	2	2
+to protect staff	2	2	1
+to rewrite rules	3	3	2
+to challenge restrictions	2	2	1
+to appeal case	2	2	2
+to reform council	3	2	0
+to buy business	2	2	1
+to ban contributions	2	2	0
+to get funds	2	2	2
+to prevent problem	2	2	2
+to crack down on groups	3	2	1
+to polish image	2	2	1
+to couple of years	2	2	0
+opposing merger	3	2	2
+to use presidency	2	2	1
+to buy insurance	2	2	1
+to use skills	2	2	1
+to check background	2	2	1
+to secure agreement	3	2	1
+to press china	3	2	2
+to clear air	6	5	2
+to clean up pollution	3	2	1
+to pay up to $	2	2	1
+to build embassy	2	2	1
+to curb militants	2	2	0
+to build buildings	4	3	2
+to provide leadership	3	3	1
+to put something	2	2	0
+to bail out banks	3	2	0
+to divert water	2	2	1
+to wrest control	2	2	0
+providing $	7	6	6
+to go in direction	2	2	0
+to create force	6	5	3
+to care for patients	2	2	1
+to focus on issues	2	2	0
+to stop boy	2	2	1
+to educate women	2	2	0
+to revive travel	2	2	2
+to compete against professionals	2	2	1
+to insure compliance	5	3	2
+to limit production	2	2	1
+to exert influence	5	4	2
+to accept troops	2	2	1
+to help relations	2	2	0
+to create divisions	2	2	0
+to commit crimes	2	2	0
+to handle problem	2	2	0
+to make loan	2	2	0
+to help push	2	2	1
+to release tension	2	2	1
+to continue program	3	3	0
+to get education	5	4	0
+to reverse that	3	3	0
+to work out problems	2	2	1
+to repurchase shares	3	2	3
+to end profiling	2	2	0
+to get contract	3	3	2
+to avert conflict	2	2	1
+to clinch series	2	2	0
+to improve fortunes	3	3	0
+making money	2	2	0
+to stop destruction	3	2	2
+to restrict flow	2	2	0
+to rescue savings	2	2	1
+to make home	4	2	2
+to take note	2	2	1
+citing need	2	2	1
+to use surplus	2	2	2
+to take stand	5	4	2
+to show progress	6	3	3
+to dispel belief	2	2	0
+requiring states	2	2	1
+to explore drugs	2	2	0
+to make choice	2	2	1
+to settle questions	2	2	1
+to review plan	2	2	0
+to improve defenses	3	2	0
+to assist people	3	3	0
+to make most	8	7	2
+to approve drugs	2	2	0
+to keep up with pace	2	2	2
+calling on officials	2	2	2
+to reduce value	2	2	0
+to kill bacteria	3	2	1
+to clear up confusion	3	3	0
+to advance goal	2	2	1
+laying groundwork	3	3	2
+to shut down plants	2	2	1
+to play quarterback	3	2	0
+to stem outflow	2	2	0
+to keep station	2	2	1
+seeking extension	2	2	1
+to buy services	3	3	0
+to cut levels	2	2	1
+to change laws	5	5	1
+to build 's	2	2	2
+to begin production	3	2	1
+to face prospect	2	2	2
+charging favoritism	2	2	0
+to stay in school	2	2	1
+to break ground	3	2	1
+to rectify problem	2	2	0
+to sound alarm	2	2	1
+delivering setback	4	2	2
+to sell bonds	2	2	1
+to support organizations	2	2	2
+to tie game	3	2	0
+to reduce need	2	2	0
+to support troops	7	5	2
+to buy apartment	2	2	0
+to conceal existence	2	2	0
+to reverse trend	9	8	5
+to postpone action	2	2	1
+to reach playoffs	3	2	2
+to convey sense	2	2	0
+to limit subsidies	2	2	1
+to settle case	15	10	1
+to argue need	2	2	1
+to give breaks	2	2	1
+to end program	2	2	1
+to establish agency	3	2	0
+to put tag	2	2	0
+to protect troops	3	3	0
+to support this	2	2	1
+to encourage production	4	4	2
+to further career	2	2	0
+to liberate people	2	2	1
+to pay for reform	2	2	1
+to hire lawyer	6	5	1
+to clean up site	3	3	1
+to keep mind	2	2	1
+to motivate team	2	2	0
+to provide alternative	2	2	0
+to provide financing	4	4	2
+to move trial	4	2	1
+to make deals	9	9	1
+to find person	2	2	0
+to sleep at night	2	2	0
+to block access	2	2	2
+to upgrade equipment	2	2	1
+to help sector	2	2	1
+to expand in states	3	2	1
+to seek money	4	3	1
+to collect names	2	2	0
+to replace program	2	2	1
+to buy co-op	2	2	1
+to increase size	5	4	0
+to come to agreement	4	4	1
+denying connection	2	2	0
+to address weaknesses	3	2	1
+to correct impression	2	2	0
+to limit exports	4	2	1
+to buy properties	2	2	0
+to discourage smoking	4	2	0
+to protect country	3	2	0
+to strengthen security	5	4	0
+to relieve shortages	2	2	0
+to gain recognition	2	2	0
+to assess impact	4	2	1
+to begin operations	3	3	2
+to file complaint	4	4	1
+to install barriers	3	3	2
+to build bomb	2	2	0
+to lease space	3	2	2
+to prevent vote	2	2	1
+to help union	6	5	2
+to visit museum	2	2	0
+to draft plan	3	3	1
+to invest money	4	4	1
+to make stockholders	3	2	3
+to investigate abuses	2	2	0
+to keep feet	2	2	0
+to allow people	2	2	0
+to impose system	4	2	1
+to start campaign	4	4	0
+to make point	7	7	1
+to get players	2	2	1
+to pay for officers	2	2	0
+to slow entry	2	2	1
+to get benefits	6	6	4
+to develop ideas	2	2	0
+to maintain character	2	2	1
+to say that	2	2	1
+to move embassy	5	5	1
+to cut demand	2	2	1
+expressing lack	2	2	1
+to have tax	2	2	2
+to involved in affairs	2	2	0
+to get city	6	5	1
+to challenge decision	5	4	0
+to set up school	2	2	1
+to reinvigorate economy	2	2	0
+to consider plan	3	3	2
+to teach values	2	2	1
+to maintain levels	2	2	0
+to acquire stake	4	4	0
+to appoint trustee	10	2	2
+to promote candidates	2	2	2
+to reduce problem	5	5	1
+to create plan	4	4	2
+to order election	2	2	2
+alleging discrimination	3	3	1
+to generate support	3	3	2
+to change atmosphere	2	2	0
+to distribute recordings	2	2	0
+to stop atrocities	2	2	1
+to expand collection	2	2	0
+to have baby	3	3	0
+to promote product	2	2	2
+to close operations	5	3	0
+to turn eye	2	2	1
+to hold sessions	3	2	2
+to warn of consequences	2	2	1
+accusing microsoft	2	2	1
+to moderate policies	3	3	0
+to prevent incident	4	4	2
+to combat spread	3	2	0
+to find job	4	4	1
+to capture mr.	3	2	1
+to convey message	3	3	1
+rejecting proposal	2	2	1
+bringing total	4	4	3
+to tie mr.	2	2	1
+to repeal law	7	7	2
+to convert building	4	3	3
+agreeing on plan	2	2	1
+to achieve resolution	2	2	0
+giving mr.	2	2	2
+to build library	2	2	0
+to sell ads	2	2	0
+to deal with violence	2	2	1
+to take step	17	17	2
+to support education	4	3	2
+to get books	3	3	1
+to raise tax	3	3	1
+to normalize situation	3	2	0
+to deny permit	2	2	1
+to stabilize market	4	3	1
+to force withdrawal	3	2	1
+to enact measures	3	3	1
+to find solutions	4	4	2
+to lay groundwork	3	3	2
+to avert strike	3	3	2
+to provide more	2	2	2
+to reduce arsenals	2	2	0
+to enter draft	2	2	1
+to appease critics	2	2	1
+to convince jury	2	2	1
+to transfer $	4	4	2
+to merge departments	2	2	1
+to protect beaches	2	2	0
+to confront challenge	2	2	2
+to subsidize care	2	2	2
+to cut benefits	2	2	2
+to send weapons	2	2	0
+to improve lot	5	5	2
+to end mission	2	2	0
+to break cycle	3	3	3
+to limit liability	6	6	0
+to qualify for funds	4	4	0
+to limit increases	2	2	1
+to stop profiling	2	2	0
+to reach audience	3	3	0
+to put law	2	2	0
+calling for effort	2	2	1
+to tour states	2	2	0
+to impose fees	3	3	1
+to provide list	2	2	0
+to arrest decline	3	2	0
+persuading colleagues	2	2	0
+to present show	3	2	0
+to reach deal	5	4	1
+to give each	3	2	2
+to produce earnings	2	2	0
+to declare state	4	3	0
+to gauge impact	3	3	1
+to investigate issue	2	2	1
+to settle talks	2	2	1
+to obtain documents	4	2	1
+to disclose results	3	3	2
+to spend money	34	24	12
+to grant wish	2	2	0
+to spur investment	2	2	2
+to clean up acts	3	3	1
+to expand into business	2	2	1
+to develop space	2	2	1
+to find home	6	6	2
+to diversify offerings	2	2	2
+to give cut	3	2	0
+to defend against attacks	2	2	1
+to enact standards	3	3	2
+to secure nomination	2	2	0
+to explain policy	2	2	2
+to convince voters	3	3	1
+to establish rules	2	2	0
+to use park	3	3	0
+to enhance chances	3	3	2
+to defend interests	6	6	2
+to set up operations	4	3	3
+to transfer jurisdiction	2	2	0
+to commit crime	2	2	1
+raising rates	2	2	0
+to provide input	2	2	0
+to increase profitability	2	2	1
+to teach students	2	2	0
+to fight project	2	2	1
+imposing regulation	2	2	1
+to leave state	3	2	0
+to eliminate weapons	2	2	0
+to build on success	3	3	0
+telling that	5	4	2
+to develop some	2	2	1
+to get legislation	3	3	0
+to protect reputation	2	2	1
+bring products	3	3	2
+welcoming outcome	2	2	1
+to keep players	2	2	1
+to maintain some	2	2	1
+to sell plants	3	3	1
+to build housing	15	11	6
+to sell tickets	2	2	0
+to overcome some	2	2	2
+challenging conviction	2	2	0
+to consider issue	4	3	2
+to shed jobs	2	2	2
+to regulate organizations	2	2	2
+limiting liability	2	2	2
+increasing number	2	2	1
+to reach consensus	3	3	1
+to enforce rule	2	2	1
+to conduct investigation	5	5	2
+to give authority	8	7	4
+to buy interest	3	3	2
+to limit output	2	2	2
+taking aim	2	2	0
+to block policy	5	4	4
+to force officials	2	2	0
+to get value	2	2	0
+to play games	4	4	0
+to get stuff	2	2	0
+to help parents	3	3	1
+to have experience	3	2	1
+to buy chain	2	2	0
+to get sense	2	2	0
+to buy something	2	2	1
+to abandon project	2	2	1
+leaving space	2	2	0
+to block rules	3	3	2
+to bar state	2	2	2
+to tighten rules	3	3	1
+to develop relationship	4	4	1
+addressing issue	2	2	0
+to raise tuition	2	2	2
+to prevent epidemic	2	2	1
+to affect outcome	3	3	0
+to fulfill promises	2	2	0
+getting out vote	2	2	1
+to stop deal	6	5	4
+to clean house	3	3	1
+to reverse course	2	2	1
+to prevent sale	3	3	1
+making claims	2	2	0
+to alter perception	2	2	2
+to raise price	10	8	2
+to make service	2	2	1
+to make way	4	4	1
+to replace workers	2	2	0
+to defeat measure	4	4	1
+to relieve stress	4	3	1
+to enhance reputation	4	2	0
+to protect members	2	2	0
+to give powers	6	6	3
+to develop players	2	2	1
+to build facility	2	2	2
+to buy companies	4	4	0
+to find alternatives	2	2	0
+to merge companies	3	3	0
+to give trial	3	2	0
+to prevent this	4	4	1
+to create opportunities	3	2	1
+to give $	5	5	3
+to quash subpoena	6	3	3
+to accelerate cuts	2	2	0
+to remove barriers	8	7	3
+to recover damages	4	3	3
+to set priorities	2	2	0
+to expand settlements	2	2	1
+to gain ground	2	2	0
+to achieve objective	3	3	1
+to allow players	2	2	1
+to ask for penalty	2	2	2
+to get back into game	2	2	0
+to preserve tradition	2	2	0
+to have access	2	2	1
+to diminish stature	2	2	0
+to end support	4	4	0
+to cover salaries	2	2	1
+to come up with solution	2	2	1
+to vote for impeachment	2	2	1
+to buy back percent	3	2	1
+stating that	2	2	0
+to hold down prices	4	4	3
+to weed out students	2	2	0
+to accommodate needs	2	2	0
+to have child	4	4	0
+setting timetable	2	2	0
+to appreciate mr.	2	2	1
+to offer technology	2	2	1
+to sponsor show	2	2	2
+to weaken law	3	3	0
+to open plant	2	2	1
+to help enron	3	2	1
+to travel to states	2	2	1
+to increase income	4	3	1
+to distract attention	2	2	1
+to install system	7	4	1
+to muster support	3	3	2
+to complete purchase	2	2	0
+to distribute products	2	2	1
+to run against mr.	2	2	1
+to override veto	8	4	2
+allowing police	2	2	0
+to unload business	2	2	0
+representing workers	3	2	1
+to invest funds	2	2	1
+to tell stories	4	4	1
+to make playoffs	4	4	1
+to stop shelling	4	2	1
+to say nothing	2	2	0
+to increase output	4	4	3
+to digest details	2	2	1
+to add stores	3	2	1
+to keep job	4	4	2
+to put forces	5	2	1
+to cover gap	2	2	1
+to block hearing	2	2	1
+to burnish image	3	3	1
+to leave country	6	5	2
+to pay lawyers	3	3	0
+to accept settlement	4	3	0
+to fix provision	2	2	2
+to alleviate shortage	2	2	1
+to install equipment	6	6	3
+to conceal fact	2	2	1
+to relieve shortage	2	2	0
+to increase flow	2	2	1
+to offer rebates	2	2	1
+to let mr.	4	4	1
+doing job	2	2	0
+to buy out share	2	2	1
+to inform people	2	2	1
+to increase confidence	3	2	0
+to seize money	2	2	2
+to improve monitoring	5	4	1
+to built on site	2	2	0
+to settle differences	2	2	0
+giving status	2	2	2
+to get board	3	3	0
+to wrest nomination	3	3	0
+to reduce taxes	11	9	4
+to fulfill commitments	2	2	1
+to deal with aids	3	3	0
+to run on line	2	2	0
+to protect buildings	4	3	2
+to develop weapons	9	6	0
+to accept rules	2	2	2
+to get conviction	2	2	1
+to cooperate with investigators	3	3	2
+to build line	5	4	1
+to give stake	3	3	1
+to negotiate agreements	3	3	3
+to pick up bargains	3	2	0
+to save town	2	2	0
+to warn public	2	2	2
+to bolster status	2	2	1
+to learn english	2	2	1
+to expand house	2	2	1
+to achieve breakthrough	3	3	1
+to win confirmation	5	4	3
+to raise profiles	2	2	1
+to stimulate economies	5	5	2
+to buy general	2	2	1
+to raise dollars	3	2	1
+creating commission	6	4	3
+to purchase building	3	3	1
+to maintain growth	2	2	2
+to bid for business	3	2	1
+to save job	4	4	0
+to distribute food	2	2	0
+to help some	2	2	0
+expressing displeasure	3	3	1
+to design plane	4	2	1
+to change fact	3	2	0
+to have mass	2	2	0
+to buy aircraft	3	3	0
+to build institutions	3	3	1
+to win job	4	4	1
+to raise rate	2	2	0
+to deny benefits	4	2	2
+to represent workers	2	2	2
+to take pictures	2	2	0
+to accept defeat	3	2	1
+to organize opposition	2	2	1
+to create confidence	2	2	0
+to alleviate problems	2	2	0
+to buy way	2	2	1
+to join effort	2	2	1
+to save theater	2	2	0
+to keep customers	2	2	1
+to introduce technology	3	2	1
+to qualify for olympics	2	2	0
+to talk about issues	4	4	3
+to alter rules	3	3	2
+to keep employees	4	4	1
+to prepare country	3	2	1
+to conduct research	4	4	0
+to leave office	3	3	1
+to build restaurant	4	2	1
+to fight cancer	2	2	1
+to hold forums	2	2	0
+to combat drugs	5	4	1
+to promote proposal	3	2	0
+limiting access	4	4	1
+to make contribution	4	4	2
+to restore health	2	2	1
+to comply with agreement	2	2	0
+to release album	2	2	1
+to cause trouble	3	3	1
+to play down drama	2	2	2
+to visit site	2	2	0
+to protect security	6	5	0
+to extend law	4	4	0
+to occupy time	2	2	0
+to sell parts	3	2	1
+to protect pensions	2	2	0
+to go to college	2	2	1
+to approve money	4	2	1
+to overturn conviction	3	2	0
+to lure mr.	2	2	1
+to guard against abuses	2	2	1
+to pay for advertisements	4	3	0
+to resolve issues	9	9	7
+to sell stakes	2	2	1
+to seek relief	3	2	0
+to grant concessions	3	2	0
+to return calls	4	2	2
+to do job	16	13	4
+to expand economy	2	2	0
+to search computer	2	2	1
+to extend deadline	7	5	4
+to delay vote	4	4	1
+to promote energy	2	2	1
+to slow traffic	2	2	1
+to have charges	2	2	0
+seeking interviews	3	3	1
+to attract students	6	5	3
+to limit imports	2	2	0
+to seize control	4	4	1
+to extend life	9	7	0
+to cut cost	9	7	3
+to discuss offer	2	2	1
+starting battle	2	2	0
+accusing of violations	2	2	1
+to buy planes	4	4	1
+to reduce fraud	3	3	2
+seeking audit	2	2	1
+to promote integration	4	4	0
+to make arrangements	4	4	1
+to pay homage	2	2	0
+to reduce pain	2	2	2
+to emigrate to states	2	2	0
+to impose restrictions	3	3	2
+to tighten control	6	5	3
+to put end	9	8	2
+to reach consumers	6	4	0
+to write letter	3	2	1
+to commit troops	2	2	1
+restricting authority	3	2	1
+accusing firm	2	2	0
+to make difference	12	10	2
+to join mr.	3	2	1
+to correct mistakes	2	2	2
+to normalize relations	3	3	1
+to change policy	12	10	6
+to accept deal	4	3	0
+to win match	2	2	0
+to combat decay	2	2	0
+to make club	3	2	1
+to give grants	2	2	1
+to hire minorities	2	2	0
+to conduct inspections	2	2	1
+granting immunity	3	2	2
+to remember man	2	2	0
+to address threat	4	3	1
+to help company	2	2	0
+to deny charges	2	2	0
+to make effort	4	4	2
+bring parties	2	2	1
+to avoid collision	2	2	1
+to continue suit	3	2	1
+to shift production	3	3	1
+to talk to people	5	4	0
+to tarnish image	4	2	0
+to hurt team	4	2	0
+to halt sales	2	2	0
+to find candidate	2	2	0
+to use instruments	2	2	0
+to compel agency	2	2	1
+to look at practices	2	2	1
+denouncing government	2	2	1
+to extend hand	2	2	1
+to erect building	3	2	0
+to consider increase	3	2	1
+to finance research	6	6	2
+spending time	2	2	0
+to build link	3	2	1
+to counter effects	3	3	0
+to enforce rules	6	6	4
+raising $	2	2	2
+favoring rights	2	2	1
+to ease congestion	5	4	3
+to give nod	2	2	0
+taking part	6	5	2
+to manipulate prices	2	2	0
+to begin projects	2	2	1
+banning marriage	4	4	3
+bring peace	5	4	1
+to take over operations	2	2	2
+to build cathedral	3	2	1
+to change play	2	2	0
+to have power	2	2	0
+to seek settlement	5	4	0
+to overthrow government	6	5	2
+to determine status	2	2	0
+to reject offer	2	2	2
+to gain information	2	2	0
+to address that	2	2	0
+to build bridges	2	2	1
+to correct problem	17	11	5
+to build memorial	6	6	3
+to create program	5	5	2
+to support programs	7	4	1
+to leave washington	2	2	0
+to undercut mr.	2	2	0
+to block initiative	2	2	1
+to resolve this	7	6	0
+turning deficit	2	2	0
+to change perception	6	4	1
+to spur economy	8	5	1
+requiring destruction	2	2	2
+to count votes	2	2	0
+to take steroids	2	2	0
+to improve profits	3	3	1
+requiring companies	12	8	7
+to persuade lawmakers	3	3	2
+to turn this	2	2	0
+to finance study	2	2	0
+to support movement	2	2	1
+to limit ability	3	3	2
+addressing problem	2	2	2
+to strengthen programs	2	2	1
+challenging process	2	2	0
+to get ruling	2	2	2
+to stimulate demand	2	2	0
+to go to church	2	2	0
+counting money	2	2	0
+to have chance	3	3	1
+to teach math	3	2	0
+to help communities	2	2	1
+making demands	2	2	1
+to loosen restrictions	8	6	3
+to get best	2	2	0
+to honor memory	2	2	2
+to build network	9	7	3
+to make kind	4	4	1
+to protect lines	2	2	1
+to oust leaders	3	2	1
+to impose order	3	2	1
+to challenge practices	2	2	0
+to understand significance	2	2	1
+to discourage people	4	4	0
+bring food	3	2	1
+to open hearing	2	2	1
+to stop massacres	2	2	1
+to increase use	2	2	1
+to hold rally	5	4	1
+to save buildings	3	3	1
+to help contras	2	2	0
+to discourage children	2	2	0
+to keep things	3	3	1
+proclaiming innocence	2	2	0
+to liberalize markets	2	2	2
+calling for spending	2	2	1
+to give boost	3	3	1
+to publish work	2	2	0
+to open economy	3	3	0
+to give power	14	12	4
+to expand into businesses	3	3	1
+to contribute more	2	2	2
+costing $	3	3	2
+to streamline bureaucracy	2	2	2
+to prevent escalation	3	2	1
+to resolve concerns	2	2	0
+opposing expansion	2	2	2
+to establish standards	4	4	1
+to curtail use	2	2	0
+criticizing handling	4	3	2
+to encourage investment	5	4	2
+to charge more	4	4	1
+to care for children	4	4	4
+to redefine marriage	2	2	0
+to digest proposal	2	2	1
+to announce project	3	2	1
+to block cuts	5	3	2
+to save company	4	3	1
+to support family	4	4	0
+to restore ties	2	2	1
+wearing suit	4	2	0
+to draw money	2	2	0
+to meet goal	5	3	0
+expanding coverage	2	2	1
+to ease sanctions	3	3	2
+to assist companies	2	2	1
+to disrupt rally	2	2	1
+to seek a	4	3	1
+to join community	2	2	0
+to take public	3	3	0
+to use system	5	3	3
+opening way	10	7	6
+to soothe fears	2	2	0
+to reduce danger	3	3	0
+to stem erosion	2	2	0
+to grant permit	3	2	1
+to prevent structures	3	2	1
+to announce effort	2	2	0
+to get back	2	2	0
+to pay for operation	2	2	1
+to vent frustrations	4	4	2
+to meet targets	6	6	2
+permitting people	2	2	2
+to disrupt elections	2	2	0
+to feed hungry	3	2	2
+to keep focus	2	2	1
+to strengthen industry	5	5	0
+to force recipients	3	3	3
+to cast vote	3	3	2
+to improve environment	2	2	1
+to assess situation	4	4	2
+to put issue	3	2	1
+to discuss implications	2	2	2
+to create zone	3	3	1
+to prevent violence	10	8	2
+to attract attention	5	5	1
+granting powers	2	2	2
+to build condominiums	2	2	0
+bring war	2	2	0
+to broadcast programming	2	2	0
+to reduce forces	5	3	3
+to avoid confrontation	2	2	0
+setting date	2	2	2
+prohibiting practice	2	2	1
+to restrict imports	3	2	1
+to limit costs	2	2	0
+to attend funeral	2	2	1
+to dispel hopes	3	2	1
+to seek partners	3	2	1
+to sell buildings	2	2	2
+to fulfill obligations	2	2	0
+to submit report	2	2	1
+to read book	9	2	1
+to return home	4	4	0
+costing up to $	4	2	2
+to formulate plan	2	2	1
+to balance needs	5	4	2
+to remove provisions	3	2	2
+calling for changes	5	3	2
+to do research	2	2	1
+to guard against attack	2	2	0
+to buy businesses	2	2	1
+to follow lead	6	5	2
+to provide opportunities	3	3	1
+to save something	2	2	0
+to pick up costs	2	2	1
+to make profit	3	3	2
+to get back on feet	2	2	1
+to move case	2	2	2
+to run in elections	2	2	1
+to tackle problem	2	2	0
+to clean air	2	2	1
+to curb lawsuits	2	2	1
+to authorize use	2	2	1
+to review complaint	3	2	1
+to prepare for times	2	2	0
+to pay bonus	2	2	0
+to turn attention	3	2	3
+to allocate $	3	2	3
+to dictate terms	2	2	0
+to judge performance	3	3	1
+to buy powergen	2	2	0
+to eliminate jobs	26	6	6
+to continue policies	2	2	1
+setting wheels	2	2	1
+to clean up areas	2	2	0
+opposing sale	6	3	1
+to make job	2	2	2
+to challenge actions	2	2	1
+to change culture	2	2	0
+using word	2	2	2
+to fill post	2	2	0
+to enlist support	2	2	0
+saying work	2	2	0
+to make transition	5	5	2
+to install meters	2	2	2
+to gain approval	3	3	1
+supporting program	2	2	1
+to join magic	2	2	1
+to revive economy	8	7	3
+to insure supplies	2	2	1
+creating district	2	2	1
+to talk to patients	2	2	1
+to erase deficit	4	4	2
+to resign in wake	2	2	0
+to run for governor	12	5	1
+to relax regulations	3	2	1
+to avoid cuts	4	4	0
+to improve prospects	3	3	1
+taking advantage	18	6	5
+to play music	2	2	0
+to hold session	3	2	1
+to crack down on cells	2	2	1
+to meet some	2	2	0
+to publicize test	2	2	0
+to bar appearance	2	2	2
+to insure integrity	3	2	0
+to treat disease	2	2	0
+to grant trial	2	2	1
+to shore up fund	4	2	2
+to produce units	2	2	1
+calling step	3	2	2
+asking for assistance	2	2	1
+to find alternative	3	3	2
+to prod students	2	2	0
+to submit plan	4	4	1
+to increase level	3	3	1
+to consider request	3	2	2
+to return $	3	2	0
+fighting government	2	2	0
+to speed process	2	2	2
+to take daughter	2	2	1
+to submit proposals	5	2	4
+to convince public	4	4	1
+to get on with task	2	2	1
+to give options	4	4	2
+to expand fleet	2	2	0
+to resolve claims	3	3	1
+to force croatia	2	2	1
+to keep down prices	5	5	2
+to cause accident	3	2	0
+to discuss solutions	2	2	2
+to keep up with demands	2	2	1
+to do nothing	5	5	4
+to restore order	7	6	2
+to allow makers	2	2	0
+to buy parcel	3	2	1
+stressing need	2	2	1
+to expand rights	4	2	3
+to retain mr.	2	2	1
+to fight disease	3	3	2
+to stop states	2	2	1
+to buy cars	5	4	2
+to pay for programs	6	4	0
+to help friends	2	2	0
+giving immunity	4	2	0
+to build project	5	4	2
+to compel testimony	2	2	1
+to create accounts	2	2	0
+to limit obligations	3	2	2
+to have mr.	9	7	1
+to save country	2	2	0
+to make up for shortfall	2	2	0
+to support operation	2	2	0
+to step up war	2	2	1
+to drum up support	4	4	1
+to give notice	2	2	1
+to sway opinion	2	2	1
+to use mr.	3	3	3
+to change anything	3	2	0
+alleging violations	4	4	3
+to ensure compliance	2	2	0
+to create schools	4	3	2
+to establish trading	2	2	0
+to ease repression	3	2	0
+to provide space	2	2	1
+to protect women	2	2	1
+extending law	2	2	2
+to measure progress	2	2	1
+to transfer technology	2	2	0
+to replace homes	2	2	0
+to make announcement	3	2	2
+committing country	3	2	0
+to affect change	2	2	0
+increasing budget	2	2	1
+to limit damages	2	2	1
+to prevent release	3	2	1
+to end system	3	3	1
+to cut management	2	2	1
+to develop network	4	4	1
+citing amendment	2	2	2
+to meet demands	3	2	0
+saying administration	2	2	0
+to build studio	6	4	4
+to repair schools	4	2	2
+to avoid other	2	2	1
+to end fighting	8	8	4
+to curb access	5	2	1
+to build station	3	3	2
+to set date	3	3	0
+to underwrite programs	2	2	0
+to review proposal	4	4	3
+to deal with issues	8	8	1
+to construct buildings	2	2	2
+to improve return	2	2	1
+calling a	5	3	1
+to tighten embargo	5	4	1
+to shift responsibility	3	2	0
+to persuade government	4	3	2
+charging with violations	3	3	1
+to do their	2	2	0
+to end aid	2	2	1
+to prepare for moment	2	2	0
+banning models	2	2	1
+to give priority	4	4	2
+to coordinate stories	2	2	1
+to prevent risks	2	2	1
+to allow inspectors	2	2	0
+to stop plans	2	2	1
+to pave way	3	3	1
+to have voice	2	2	0
+to look for ways	2	2	0
+to impose penalties	2	2	2
+leaving people	4	2	2
+to denounce treatment	2	2	1
+to increase support	2	2	1
+to help enforcement	2	2	0
+to stop oil	3	2	1
+to force society	3	2	0
+to defend rights	2	2	1
+to transfer money	2	2	1
+to improve availability	2	2	1
+to prevent plant	2	2	2
+to buy things	3	2	0
+to stretch resources	2	2	1
+condemning actions	2	2	2
+to accept offer	4	4	2
+to prevent people	2	2	1
+outlining rights	2	2	1
+to defeat proposal	2	2	1
+to change course	7	6	2
+to release report	7	5	3
+to increase aid	9	9	4
+to reach out to groups	2	2	1
+to do time	3	3	0
+to ask for changes	2	2	1
+to order drug	2	2	1
+to promote stability	2	2	1
+to support candidate	2	2	1
+to eliminate coverage	2	2	2
+to promote use	6	5	3
+to seek support	4	4	0
+to go with plans	2	2	1
+to make operations	2	2	0
+to take waste	2	2	1
+to update equipment	2	2	0
+to beat sorenstam	2	2	1
+to strike blow	4	3	1
+accusing university	2	2	1
+to tell world	2	2	0
+to unify party	2	2	0
+to make version	4	4	2
+to cover costs	9	7	1
+to think of anything	2	2	0
+to get son	2	2	0
+mandating use	2	2	0
+to establish house	2	2	2
+to put emphasis	2	2	0
+to adjust to situation	2	2	1
+to deliver services	7	5	2
+to help states	2	2	1
+detailing plan	3	3	2
+to build expansion	2	2	1
+to operate station	4	3	2
+to support strike	2	2	1
+to extend reach	5	4	2
+to sell weapons	2	2	1
+to avoid strikes	2	2	1
+to maintain standards	2	2	0
+increasing speculation	2	2	1
+to clean up wastes	3	3	1
+to come up with proposals	2	2	1
+to increase exports	2	2	0
+to reap savings	2	2	0
+to respect rights	7	5	0
+to settle matter	3	3	1
+to buy mortgages	2	2	0
+to avoid layoffs	4	4	1
+to improve competitiveness	6	2	1
+to do work	14	11	1
+to transform environment	2	2	1
+asking readers	2	2	0
+to liberalize trade	6	4	2
+to develop generation	3	3	1
+to structure transaction	3	3	0
+to recover billions	3	3	1
+to provide relief	8	8	4
+to aid economy	2	2	0
+to win game	17	12	1
+to offer package	2	2	0
+to upgrade space	2	2	0
+to discuss role	3	2	0
+to take shot	3	2	0
+to protect works	2	2	0
+to spread risk	2	2	2
+announcing resignation	3	2	0
+to use resources	3	3	2
+to dampen anticipation	2	2	0
+giving authority	6	4	2
+to remake system	3	2	1
+to change subject	2	2	1
+bring olympics	2	2	0
+to contribute to community	2	2	0
+to implement plan	3	3	0
+to stop department	2	2	1
+to detect fraud	2	2	2
+to demonstrate that	2	2	0
+to finance construction	3	3	1
+to bolster position	2	2	1
+to return to power	2	2	1
+to give more	2	2	1
+to give flexibility	6	6	3
+to go to mall	2	2	0
+to sign bill	4	2	1
+to build reactor	4	4	2
+to buy hotels	2	2	0
+to avoid conflicts	3	3	1
+giving percent	3	3	2
+to convince millions	2	2	0
+citing section	2	2	1
+opposing law	3	2	1
+to improve services	11	9	3
+to plead case	3	3	1
+to savor victory	3	3	0
+to undermine position	2	2	0
+to tighten laws	6	4	2
+to provide software	2	2	0
+to give information	5	5	2
+to move center	2	2	0
+to keep dispute	2	2	1
+to press case	5	5	0
+to build vehicles	2	2	1
+allowing judges	4	4	2
+to deploy force	2	2	0
+to provide employees	2	2	2
+to ease conditions	5	5	3
+to learn much	2	2	1
